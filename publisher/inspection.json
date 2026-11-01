@@ -7308,6 +7308,118 @@
         "inspector_version": 1
       },
       "used": 1793539937
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.8.0",
+        "asset_name": "lightcraft-0.8.0-windows-arm64.msi",
+        "digest": "sha256:a0c3ca6e5d7c3568e5fa4d3674363b3ce9987f6b33087eb724433ebd73bc8c92",
+        "size": 83218432,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539940
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.7.1",
+        "asset_name": "lightcraft-0.7.1-windows-arm64.msi",
+        "digest": "sha256:968d715e08e956148e38ce3ee9cf010a7d5e069936a6153a6637063cc893c4eb",
+        "size": 82755584,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539941
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.6.0",
+        "asset_name": "lightcraft-0.6.0-windows-arm64.msi",
+        "digest": "sha256:de170f6ecead114885ac32b804de45eb8e37f42cb4bcd17c4afd0117ef3ad735",
+        "size": 79179776,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539942
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.5.0",
+        "asset_name": "lightcraft-0.5.0-windows-arm64.msi",
+        "digest": "sha256:c9ef2962a3fbd260363532eb024dfccf68401bb04111c2c537e0eea3b077b01c",
+        "size": 76771328,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539942
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.4.0",
+        "asset_name": "lightcraft-0.4.0-windows-arm64.msi",
+        "digest": "sha256:d2b4c72014cbf75bfb5e832c42c8903f61c739e91792fc523b188102ae0c7e5b",
+        "size": 48951296,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539943
+    },
+    {
+      "repository": "storytold/pdfcraft",
+      "evidence": {
+        "tag": "v0.16.1",
+        "asset_name": "pdfcraft-0.16.1-windows-arm64.msi",
+        "digest": "sha256:9b051d045de058900b4d9e03c8a8ac4135ef933aab643f005d07a882ab18073b",
+        "size": 87781376,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793539943
+    },
+    {
+      "repository": "storytold/pdfcraft",
+      "evidence": {
+        "tag": "v0.15.0",
+        "asset_name": "pdfcraft-0.15.0-windows-arm64.msi",
+        "digest": "sha256:87f30abff122ef9c568d026343e517a8e62a9ca0ddcba023c975b347e96252a8",
+        "size": 87134208,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793539944
+    },
+    {
+      "repository": "storytold/pdfcraft",
+      "evidence": {
+        "tag": "v0.14.0",
+        "asset_name": "pdfcraft-0.14.0-windows-arm64.msi",
+        "digest": "sha256:7bbf26f73e316c15ced2e7eed56f4ae1713fb883d6c0866b1f4e260f0e65181b",
+        "size": 69394432,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539945
     }
   ],
   "attempts": {
@@ -7654,19 +7766,19 @@
     "storytold/lightcraft:v0.2.0:lightcraft-0.2.0-windows-x86.msi:sha256:f5e5811ffcb5e21bdabbb0f3c8d303680c7225a9d4664430c06e1276bc18dc06": 1793536462,
     "storytold/lightcraft:v0.2.1:lightcraft-0.2.1-windows-x64.msi:sha256:c364bfd25f0d2110d0c7c8c1ef8a3c084848922017176e793cba9a62123374c4": 1793536458,
     "storytold/lightcraft:v0.2.1:lightcraft-0.2.1-windows-x86.msi:sha256:af086d310c13ea62b092e4946da63c134aa8e22333558cfdbc864cc278520b2d": 1793536458,
-    "storytold/lightcraft:v0.4.0:lightcraft-0.4.0-windows-arm64.msi:sha256:d2b4c72014cbf75bfb5e832c42c8903f61c739e91792fc523b188102ae0c7e5b": 1793536454,
+    "storytold/lightcraft:v0.4.0:lightcraft-0.4.0-windows-arm64.msi:sha256:d2b4c72014cbf75bfb5e832c42c8903f61c739e91792fc523b188102ae0c7e5b": 1793539942,
     "storytold/lightcraft:v0.4.0:lightcraft-0.4.0-windows-x64.msi:sha256:7b404524fefd87f109f5f59ea21208bfa62f2437726cf578be4e448526762103": 1793536455,
     "storytold/lightcraft:v0.4.0:lightcraft-0.4.0-windows-x86.msi:sha256:576586742ff44e4fc629062ef404e9697db803d41e2d3fe56b9357397521f7a8": 1793536456,
-    "storytold/lightcraft:v0.5.0:lightcraft-0.5.0-windows-arm64.msi:sha256:c9ef2962a3fbd260363532eb024dfccf68401bb04111c2c537e0eea3b077b01c": 1793536447,
+    "storytold/lightcraft:v0.5.0:lightcraft-0.5.0-windows-arm64.msi:sha256:c9ef2962a3fbd260363532eb024dfccf68401bb04111c2c537e0eea3b077b01c": 1793539942,
     "storytold/lightcraft:v0.5.0:lightcraft-0.5.0-windows-x64.msi:sha256:445e1d2897d561325d11eaba68f9a2df4a58e4974c9de49f4a3b03717b214858": 1793536451,
     "storytold/lightcraft:v0.5.0:lightcraft-0.5.0-windows-x86.msi:sha256:b61b37be04b4c87565180531b4fad6b43da5546423750de8f3c023fd802227c2": 1793536453,
-    "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-arm64.msi:sha256:de170f6ecead114885ac32b804de45eb8e37f42cb4bcd17c4afd0117ef3ad735": 1793536444,
+    "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-arm64.msi:sha256:de170f6ecead114885ac32b804de45eb8e37f42cb4bcd17c4afd0117ef3ad735": 1793539941,
     "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-x64.msi:sha256:cb61c2c8d8d5fe7f11b0dcdc9eebe1fc180f514d58b43018aacda9444b8a4772": 1793536445,
     "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-x86.msi:sha256:3a4274b1b0e7c4020978ce720f059308608f01be559a35368538a0c20767ada1": 1793536446,
-    "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-arm64.msi:sha256:968d715e08e956148e38ce3ee9cf010a7d5e069936a6153a6637063cc893c4eb": 1793536439,
+    "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-arm64.msi:sha256:968d715e08e956148e38ce3ee9cf010a7d5e069936a6153a6637063cc893c4eb": 1793539940,
     "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-x64.msi:sha256:73de928a80e534557c7ce594620166b09a4eeaf6966f7a2735fced4b0909cb15": 1793536440,
     "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-x86.msi:sha256:7e1f84ecb99316cdd0cbcda34ac60f97e594d95ef30a6cb69cc271748693262b": 1793536442,
-    "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-arm64.msi:sha256:a0c3ca6e5d7c3568e5fa4d3674363b3ce9987f6b33087eb724433ebd73bc8c92": 1793536434,
+    "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-arm64.msi:sha256:a0c3ca6e5d7c3568e5fa4d3674363b3ce9987f6b33087eb724433ebd73bc8c92": 1793539939,
     "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-x64.msi:sha256:2ae1b2c8c20f1fd11cf61dd944e09f90a72abc72797a879fcf92ed3b779620f3": 1793536435,
     "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-x86.msi:sha256:dcdc1027d6d87ee037f73e6eaf619de7e8292b06e047e1d78ef44b0a489bdb92": 1793536438,
     "storytold/lightcraft:v0.9.1:lightcraft-0.9.1-windows-arm64.msi:sha256:a683e16d16ccc93009ae1cd4f5aacbd16f1a118036f78c86eab6175fd4069bc0": 1793539936,
@@ -7688,13 +7800,13 @@
     "storytold/pdfcraft:v0.13.0:pdfcraft-0.13.0-windows-arm64.msi:sha256:5f5eb196772879d52882d271da26f7c24c4e31f63a8865bb46474a61d23063f1": 1793536476,
     "storytold/pdfcraft:v0.13.0:pdfcraft-0.13.0-windows-x64.msi:sha256:a6ef64b4106ccf084b5d185fb01c290d28af00f42a0b93fa53df0e0ce6f4600a": 1793536478,
     "storytold/pdfcraft:v0.13.0:pdfcraft-0.13.0-windows-x86.msi:sha256:fac6fd4599b6b2b86e229c7d34b1ca2a36c2f630a2ac3dbcb29746c76969da7e": 1793536480,
-    "storytold/pdfcraft:v0.14.0:pdfcraft-0.14.0-windows-arm64.msi:sha256:7bbf26f73e316c15ced2e7eed56f4ae1713fb883d6c0866b1f4e260f0e65181b": 1793536473,
+    "storytold/pdfcraft:v0.14.0:pdfcraft-0.14.0-windows-arm64.msi:sha256:7bbf26f73e316c15ced2e7eed56f4ae1713fb883d6c0866b1f4e260f0e65181b": 1793539944,
     "storytold/pdfcraft:v0.14.0:pdfcraft-0.14.0-windows-x64.msi:sha256:600f5745198096c91980855572e8d5f6e2302abd89aaa8fb1e74cb392c7e865f": 1793536474,
     "storytold/pdfcraft:v0.14.0:pdfcraft-0.14.0-windows-x86.msi:sha256:0fd6295ba81d894fda76d5138b16454ae388c99b70bb7b8a6cf508870ec1cc81": 1793536476,
-    "storytold/pdfcraft:v0.15.0:pdfcraft-0.15.0-windows-arm64.msi:sha256:87f30abff122ef9c568d026343e517a8e62a9ca0ddcba023c975b347e96252a8": 1793536470,
+    "storytold/pdfcraft:v0.15.0:pdfcraft-0.15.0-windows-arm64.msi:sha256:87f30abff122ef9c568d026343e517a8e62a9ca0ddcba023c975b347e96252a8": 1793539943,
     "storytold/pdfcraft:v0.15.0:pdfcraft-0.15.0-windows-x64.msi:sha256:de7ad1ca86f6527ec357deba0182e8c596b7895e9638b1ca3b61f0adbc3e5d62": 1793536471,
     "storytold/pdfcraft:v0.15.0:pdfcraft-0.15.0-windows-x86.msi:sha256:83cc44719cacfcdfca911b3ebaaebb4207c7dd1eecc75e9db7f2c6bd90144dc6": 1793536472,
-    "storytold/pdfcraft:v0.16.1:pdfcraft-0.16.1-windows-arm64.msi:sha256:9b051d045de058900b4d9e03c8a8ac4135ef933aab643f005d07a882ab18073b": 1793536465,
+    "storytold/pdfcraft:v0.16.1:pdfcraft-0.16.1-windows-arm64.msi:sha256:9b051d045de058900b4d9e03c8a8ac4135ef933aab643f005d07a882ab18073b": 1793539943,
     "storytold/pdfcraft:v0.16.1:pdfcraft-0.16.1-windows-x64.msi:sha256:eaac4377df997a5448d98e4413da83886c2ef20e512ff57691893e1bda074a72": 1793536466,
     "storytold/pdfcraft:v0.16.1:pdfcraft-0.16.1-windows-x86.msi:sha256:ebcaa3e530fa0733f6537ca30d52c941c38bfab831de4bf8f158bfe9de3f6445": 1793536467,
     "storytold/pdfcraft:v0.2.0:printcraft-0.2.0-windows-x64.msi:sha256:3715b509322f7b80e2e361a18ad242cf8703237710d541091658349c967eeb62": 1793536521,
@@ -7906,18 +8018,10 @@
     "storytold/wordcraft:v0.9.0:wordcraft-0.9.0-windows-x86.msi:sha256:a55e70d1e2a3794d4aa76680c968b6a95e1b21330547757707599cd5ec5c516c": 1793536736
   },
   "errors": {
-    "storytold/lightcraft:v0.4.0:lightcraft-0.4.0-windows-arm64.msi:sha256:d2b4c72014cbf75bfb5e832c42c8903f61c739e91792fc523b188102ae0c7e5b": "Unsupported MSI architecture",
-    "storytold/lightcraft:v0.5.0:lightcraft-0.5.0-windows-arm64.msi:sha256:c9ef2962a3fbd260363532eb024dfccf68401bb04111c2c537e0eea3b077b01c": "Unsupported MSI architecture",
-    "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-arm64.msi:sha256:de170f6ecead114885ac32b804de45eb8e37f42cb4bcd17c4afd0117ef3ad735": "Unsupported MSI architecture",
-    "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-arm64.msi:sha256:968d715e08e956148e38ce3ee9cf010a7d5e069936a6153a6637063cc893c4eb": "Unsupported MSI architecture",
-    "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-arm64.msi:sha256:a0c3ca6e5d7c3568e5fa4d3674363b3ce9987f6b33087eb724433ebd73bc8c92": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.10.1:pdfcraft-0.10.1-windows-arm64.msi:sha256:46930bd9ced7fadf27a98cc7c1e90a166b20814b0cad9e22162fdbc20d964909": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.11.0:pdfcraft-0.11.0-windows-arm64.msi:sha256:ce44e67d67feb2e6fcdd436777038438828a036b354b39b69a9707bbae62051b": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.12.0:pdfcraft-0.12.0-windows-arm64.msi:sha256:3c29dc116fba78ef5576092ea2b0ab5134f0340b3a90acae58d0e52ea36d2074": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.13.0:pdfcraft-0.13.0-windows-arm64.msi:sha256:5f5eb196772879d52882d271da26f7c24c4e31f63a8865bb46474a61d23063f1": "Unsupported MSI architecture",
-    "storytold/pdfcraft:v0.14.0:pdfcraft-0.14.0-windows-arm64.msi:sha256:7bbf26f73e316c15ced2e7eed56f4ae1713fb883d6c0866b1f4e260f0e65181b": "Unsupported MSI architecture",
-    "storytold/pdfcraft:v0.15.0:pdfcraft-0.15.0-windows-arm64.msi:sha256:87f30abff122ef9c568d026343e517a8e62a9ca0ddcba023c975b347e96252a8": "Unsupported MSI architecture",
-    "storytold/pdfcraft:v0.16.1:pdfcraft-0.16.1-windows-arm64.msi:sha256:9b051d045de058900b4d9e03c8a8ac4135ef933aab643f005d07a882ab18073b": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.4.0:pdfcraft-0.4.0-windows-arm64.msi:sha256:15a564bcde1b848cfaf4fed3e7f109df26aef1024369ddd5410868eab0d02ff8": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.5.0:pdfcraft-0.5.0-windows-arm64.msi:sha256:49e0dbbfd04079fd3767c58f2487c834c07cd5d0e58428b316d559172060a85b": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.6.0:pdfcraft-0.6.0-windows-arm64.msi:sha256:988d530a01a6f82e31be016b3334b227017f1e884bdf765b9f4543a650bc230a": "Unsupported MSI architecture",
