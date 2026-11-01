@@ -2,8 +2,8 @@
   "index": {
     "schema": 1,
     "purpose": "app-release-catalog",
-    "sequence": 83,
-    "generated_at": 1793539888,
+    "sequence": 84,
+    "generated_at": 1793539895,
     "repositories": {
       "storytold/artcraft": {
         "sha256": "3677ef65240717ec48454ad8ecbe5fa3b9567c426102fd820a58b346674c6863",
@@ -26,8 +26,8 @@
         "checked_at": 1793539839
       },
       "storytold/effectcraft": {
-        "sha256": "ab97119647c0c63946db2fb9d6d2c73c999d1d97f268f8e856bb08a3ac889192",
-        "size": 135158,
+        "sha256": "b4dca217acfdebbffc0ecabbbd32f389b3f158bec69f8eb7e6b981293fe6845e",
+        "size": 137176,
         "checked_at": 1793539840
       },
       "storytold/figcraft": {
@@ -33907,7 +33907,7 @@
         }
       ]
     },
-    "ab97119647c0c63946db2fb9d6d2c73c999d1d97f268f8e856bb08a3ac889192": {
+    "b4dca217acfdebbffc0ecabbbd32f389b3f158bec69f8eb7e6b981293fe6845e": {
       "schema": 1,
       "repository": "storytold/effectcraft",
       "latest_tag": "v0.19.0",
@@ -36766,6 +36766,16 @@
         },
         {
           "tag": "v0.10.0",
+          "asset_name": "effectcraft-0.10.0-windows-arm64.msi",
+          "digest": "sha256:1feede0fb3fc29377ce531659b862e8055cd245ed5cc51963316f6f3855aabaf",
+          "size": 44937216,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.10.0",
           "asset_name": "effectcraft-0.10.0-windows-x64.msi",
           "digest": "sha256:7f8b2d1530e8fbf46f165049256ecf3a753ec0ed7692c5867e16ca2c3030be1d",
           "size": 50470912,
@@ -36781,6 +36791,16 @@
           "size": 49164288,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.11.1",
+          "asset_name": "effectcraft-0.11.1-windows-arm64.msi",
+          "digest": "sha256:2506bf096b654b374c0590fc46677ee26009b6c871d9d5e27069a69065a8551e",
+          "size": 45391872,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
@@ -36806,6 +36826,16 @@
         },
         {
           "tag": "v0.13.0",
+          "asset_name": "effectcraft-0.13.0-windows-arm64.msi",
+          "digest": "sha256:7288acb8af19e97335a498808fa2facfb4b2888d2da26ca657e25a5000d01d42",
+          "size": 45510656,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.13.0",
           "asset_name": "effectcraft-0.13.0-windows-x64.msi",
           "digest": "sha256:16eafcf29206a58ea240a16432130f215858f2ae9f37faf641118f1ee9dcaa69",
           "size": 51105792,
@@ -36826,6 +36856,16 @@
         },
         {
           "tag": "v0.14.0",
+          "asset_name": "effectcraft-0.14.0-windows-arm64.msi",
+          "digest": "sha256:2803e4ae437731e7f1acfba63eb75edec60477f454770ef96a08aef6653571e9",
+          "size": 45514752,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.14.0",
           "asset_name": "effectcraft-0.14.0-windows-x64.msi",
           "digest": "sha256:746bd8410e58ce104d737b1f39ae0d67c72ede2324f4855bfd455d9e458d5750",
           "size": 51154944,
@@ -36841,6 +36881,16 @@
           "size": 49819648,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.15.0",
+          "asset_name": "effectcraft-0.15.0-windows-arm64.msi",
+          "digest": "sha256:41ebc3478fcf90e2ac6e28e936d42bccaa727f81c6d104e232917193423d79a1",
+          "size": 45514752,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
@@ -37086,6 +37136,16 @@
         },
         {
           "tag": "v0.7.0",
+          "asset_name": "effectcraft-0.7.0-windows-arm64.msi",
+          "digest": "sha256:277ea6480d2e70582f751662b71c96c6553defd8038bb8568bbf8dc0ef4e1936",
+          "size": 42557440,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.7.0",
           "asset_name": "effectcraft-0.7.0-windows-x64.msi",
           "digest": "sha256:aa3aebe2fa97d9874e8afab0bff333e0733e368ab6871bca5c42c4a784749c7b",
           "size": 47808512,
@@ -37106,6 +37166,16 @@
         },
         {
           "tag": "v0.8.0",
+          "asset_name": "effectcraft-0.8.0-windows-arm64.msi",
+          "digest": "sha256:f7202f27e5abc96e1b2c17946116c3b86905c93447c989ba3b3a94510f1e7128",
+          "size": 43061248,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.8.0",
           "asset_name": "effectcraft-0.8.0-windows-x64.msi",
           "digest": "sha256:868ddd1d0682bc3f31d82524cc66059d03d6750c1cdb96c9bbd73952b921f65b",
           "size": 48336896,
@@ -37121,6 +37191,16 @@
           "size": 47362048,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.9.2",
+          "asset_name": "effectcraft-0.9.2-windows-arm64.msi",
+          "digest": "sha256:c6fd41cbddd9b0492cc228d116408d030c4184253bbd3ca528fd06164a4a7bca",
+          "size": 44408832,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
