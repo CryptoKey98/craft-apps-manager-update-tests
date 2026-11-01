@@ -4172,6 +4172,90 @@
         "inspector_version": 1
       },
       "used": 1793536529
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.17.0",
+        "asset_name": "photocraft-0.17.0-windows-x64.msi",
+        "digest": "sha256:e309e48d26049f7f2ec65401c5da1899922456bdb7eb312be154c9f1490415e0",
+        "size": 105615360,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536534
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.17.0",
+        "asset_name": "photocraft-0.17.0-windows-x86.msi",
+        "digest": "sha256:758e5cbd58eb85377cf2dc84a372bef39d3c1f7dd157c37d81417958bc903837",
+        "size": 102191104,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536535
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "photocraft-0.16.0-windows-x64.msi",
+        "digest": "sha256:1a073b3ce410cd68bed8c1e5d63f825a8cb578c78106bd54e598d8b07edb6982",
+        "size": 74760192,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536537
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "photocraft-0.16.0-windows-x86.msi",
+        "digest": "sha256:0d9e5028c4c8308319fbef3d60e915fc533ea8ec021eac4afd049f094de003bc",
+        "size": 71917568,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536538
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.15.1",
+        "asset_name": "photocraft-0.15.1-windows-x64.msi",
+        "digest": "sha256:2c4ec56914981135531fedfc28ce793bdb2e23caaa66ce174f7900dd766362f5",
+        "size": 73039872,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536540
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.15.1",
+        "asset_name": "photocraft-0.15.1-windows-x86.msi",
+        "digest": "sha256:758b5a67f308cfc617d14cca371f0421754abc31dc10e62527de49b54d750d7d",
+        "size": 70492160,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536541
     }
   ],
   "attempts": {
@@ -4583,7 +4667,15 @@
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-arm64.msi:sha256:245120d0bb0919e9c0c9f9d63ac04553ae5b6a36b41a477bd82dcb28a092586f": 1793536493,
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-x64.msi:sha256:372a80ff736b0e1f242f7001a2157de081fa5fdb2192d001b1cbbf7f53739f4b": 1793536495,
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-x86.msi:sha256:a0a055334128ed3b073d504b4198a8ea499fcc310502e6213e6e5da3717d37ec": 1793536496,
+    "storytold/photocraft:v0.15.1:photocraft-0.15.1-windows-arm64.msi:sha256:dede26ccef5c94194055189ca3f0183b77b17df8fbbc978d068e5d8f81a17961": 1793536538,
+    "storytold/photocraft:v0.15.1:photocraft-0.15.1-windows-x64.msi:sha256:2c4ec56914981135531fedfc28ce793bdb2e23caaa66ce174f7900dd766362f5": 1793536539,
+    "storytold/photocraft:v0.15.1:photocraft-0.15.1-windows-x86.msi:sha256:758b5a67f308cfc617d14cca371f0421754abc31dc10e62527de49b54d750d7d": 1793536540,
+    "storytold/photocraft:v0.16.0:photocraft-0.16.0-windows-arm64.msi:sha256:1ebd494f733ddc906e558766fd9351d7d90dfd67468e24c0edfa11c939d41b68": 1793536535,
+    "storytold/photocraft:v0.16.0:photocraft-0.16.0-windows-x64.msi:sha256:1a073b3ce410cd68bed8c1e5d63f825a8cb578c78106bd54e598d8b07edb6982": 1793536536,
+    "storytold/photocraft:v0.16.0:photocraft-0.16.0-windows-x86.msi:sha256:0d9e5028c4c8308319fbef3d60e915fc533ea8ec021eac4afd049f094de003bc": 1793536537,
     "storytold/photocraft:v0.17.0:photocraft-0.17.0-windows-arm64.msi:sha256:cce2af0bda3e687290f7d61b55aec0a56aba39fd711c7caf948918aa8f79bc32": 1793536529,
+    "storytold/photocraft:v0.17.0:photocraft-0.17.0-windows-x64.msi:sha256:e309e48d26049f7f2ec65401c5da1899922456bdb7eb312be154c9f1490415e0": 1793536532,
+    "storytold/photocraft:v0.17.0:photocraft-0.17.0-windows-x86.msi:sha256:758e5cbd58eb85377cf2dc84a372bef39d3c1f7dd157c37d81417958bc903837": 1793536534,
     "storytold/photocraft:v0.18.0:photocraft-0.18.0-windows-arm64.msi:sha256:7b920efb159d005104b278783ce113b355eba90220b857712368b75a5a1b7612": 1793536527,
     "storytold/photocraft:v0.18.0:photocraft-0.18.0-windows-x64.msi:sha256:0be3669adfda7f4b505f2ecdd443b110ef056daa03f27a65eb1d35948f6a1529": 1793536527,
     "storytold/photocraft:v0.18.0:photocraft-0.18.0-windows-x86.msi:sha256:8e2cec488eee06da057192bce2c4512a69317ed96d7fb3009906eee96751b423": 1793536528
@@ -4703,6 +4795,8 @@
     "storytold/pdfcraft:v0.7.1:pdfcraft-0.7.1-windows-arm64.msi:sha256:a896c293b560f0c5bb740fbae06d013e0ad341cba2f95a106b976a9dfd557969": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.8.0:pdfcraft-0.8.0-windows-arm64.msi:sha256:8b4e314b089eca1a8ad104a113cd82441b381335b97afbc040c71d4860f727d0": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-arm64.msi:sha256:245120d0bb0919e9c0c9f9d63ac04553ae5b6a36b41a477bd82dcb28a092586f": "Unsupported MSI architecture",
+    "storytold/photocraft:v0.15.1:photocraft-0.15.1-windows-arm64.msi:sha256:dede26ccef5c94194055189ca3f0183b77b17df8fbbc978d068e5d8f81a17961": "Unsupported MSI architecture",
+    "storytold/photocraft:v0.16.0:photocraft-0.16.0-windows-arm64.msi:sha256:1ebd494f733ddc906e558766fd9351d7d90dfd67468e24c0edfa11c939d41b68": "Unsupported MSI architecture",
     "storytold/photocraft:v0.17.0:photocraft-0.17.0-windows-arm64.msi:sha256:cce2af0bda3e687290f7d61b55aec0a56aba39fd711c7caf948918aa8f79bc32": "Unsupported MSI architecture",
     "storytold/photocraft:v0.18.0:photocraft-0.18.0-windows-arm64.msi:sha256:7b920efb159d005104b278783ce113b355eba90220b857712368b75a5a1b7612": "Unsupported MSI architecture"
   }
