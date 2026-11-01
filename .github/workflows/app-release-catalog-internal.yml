@@ -1,0 +1,36 @@
+name: Internal app release catalog
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: internal-app-release-catalog
+  cancel-in-progress: false
+jobs:
+  refresh:
+    name: Refresh signed internal catalog
+    runs-on: windows-2022
+    timeout-minutes: 15
+    steps:
+      - name: Check out trusted automation
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          path: automation
+          sparse-checkout: scripts
+      - name: Check out internal catalog
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: app-catalog-internal
+          path: feed
+      - name: Discover, inspect, sign and verify public metadata
+        shell: pwsh
+        working-directory: feed
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          APP_CATALOG_TEST_SIGNING_KEY: ${{ secrets.APP_CATALOG_TEST_SIGNING_KEY }}
+          CATALOG_TOOL_SHA256: 716db1f88a289ada26e27a80464b13a51cdd6098ce7ab516f549055fdce473d4
+        run: ../automation/scripts/refresh-app-catalog.ps1
+
+
