@@ -12,7 +12,7 @@ jobs:
   refresh:
     name: Refresh signed internal catalog
     runs-on: windows-2022
-    timeout-minutes: 15
+    timeout-minutes: 60
     steps:
       - name: Check out trusted automation
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
@@ -30,7 +30,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
           APP_CATALOG_TEST_SIGNING_KEY: ${{ secrets.APP_CATALOG_TEST_SIGNING_KEY }}
-          CATALOG_TOOL_SHA256: 716db1f88a289ada26e27a80464b13a51cdd6098ce7ab516f549055fdce473d4
+          CATALOG_TOOL_SHA256: e57bc44c3a09b6ed0392cd8e01600699edc750d47d13c7ba643ec2eed00ab63e
         run: ../automation/scripts/refresh-app-catalog.ps1
+
 
 
