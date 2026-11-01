@@ -2,8 +2,8 @@
   "index": {
     "schema": 1,
     "purpose": "app-release-catalog",
-    "sequence": 50,
-    "generated_at": 1793536489,
+    "sequence": 51,
+    "generated_at": 1793536502,
     "repositories": {
       "storytold/artcraft": {
         "sha256": "3677ef65240717ec48454ad8ecbe5fa3b9567c426102fd820a58b346674c6863",
@@ -51,8 +51,8 @@
         "checked_at": 1793535884
       },
       "storytold/pdfcraft": {
-        "sha256": "c81204706f278731410cd52e7e454d002a5fc1a21b067940077bb364b4f39001",
-        "size": 121951,
+        "sha256": "fb39abfe8268ccd1724d12769b1d525d1b2ae76457e4322feb27e0bba332dbca",
+        "size": 123419,
         "checked_at": 1793535886
       },
       "storytold/photocraft": {
@@ -32347,7 +32347,7 @@
       ],
       "scopes": []
     },
-    "c81204706f278731410cd52e7e454d002a5fc1a21b067940077bb364b4f39001": {
+    "fb39abfe8268ccd1724d12769b1d525d1b2ae76457e4322feb27e0bba332dbca": {
       "schema": 1,
       "repository": "storytold/pdfcraft",
       "latest_tag": "v0.16.1",
@@ -35101,6 +35101,26 @@
       ],
       "scopes": [
         {
+          "tag": "v0.10.1",
+          "asset_name": "pdfcraft-0.10.1-windows-x64.msi",
+          "digest": "sha256:70c302468998f748daeead851df3fe4736b3ae3dfe8bd60d4a94322529e6af64",
+          "size": 72130560,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.10.1",
+          "asset_name": "pdfcraft-0.10.1-windows-x86.msi",
+          "digest": "sha256:cdb9bc918ae8f78c56388b37d4057782e4d869cc67b95886637c91b71cacf827",
+          "size": 70103040,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
           "tag": "v0.11.0",
           "asset_name": "pdfcraft-0.11.0-windows-x64.msi",
           "digest": "sha256:0df327731448e5985aae08b80740c155fd35a6748055878366ac9d1da4e75a3e",
@@ -35218,6 +35238,46 @@
           "os": "windows",
           "architecture": "x86",
           "policy": "dual",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.8.0",
+          "asset_name": "pdfcraft-0.8.0-windows-x64.msi",
+          "digest": "sha256:c5527089f7ab5ce8e6c5ce06c093c22b19922df9cf9c92595521b6e965de9da1",
+          "size": 71266304,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.8.0",
+          "asset_name": "pdfcraft-0.8.0-windows-x86.msi",
+          "digest": "sha256:1257f0b68cd304501ca897cfa16c7657d066da5bdb9cfecbc4f38cc857238a69",
+          "size": 69292032,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.9.0",
+          "asset_name": "pdfcraft-0.9.0-windows-x64.msi",
+          "digest": "sha256:372a80ff736b0e1f242f7001a2157de081fa5fdb2192d001b1cbbf7f53739f4b",
+          "size": 71999488,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.9.0",
+          "asset_name": "pdfcraft-0.9.0-windows-x86.msi",
+          "digest": "sha256:a0a055334128ed3b073d504b4198a8ea499fcc310502e6213e6e5da3717d37ec",
+          "size": 69959680,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
           "inspector_version": 1
         }
       ]
