@@ -2,8 +2,8 @@
   "index": {
     "schema": 1,
     "purpose": "app-release-catalog",
-    "sequence": 96,
-    "generated_at": 1793539983,
+    "sequence": 97,
+    "generated_at": 1793539992,
     "repositories": {
       "storytold/artcraft": {
         "sha256": "3677ef65240717ec48454ad8ecbe5fa3b9567c426102fd820a58b346674c6863",
@@ -66,8 +66,8 @@
         "checked_at": 1793539845
       },
       "storytold/vectorcraft": {
-        "sha256": "c67222ccc6d8f9d95fa2666578be8cd064d95d00090887395d1f6c29a8d462d1",
-        "size": 146521,
+        "sha256": "cd1ba638a3fdf3b4bded41d65cfdac9cbc5af90e2575e93fe2125d5c2446ced6",
+        "size": 148543,
         "checked_at": 1793539846
       },
       "storytold/wordcraft": {
@@ -31816,7 +31816,7 @@
         }
       ]
     },
-    "c67222ccc6d8f9d95fa2666578be8cd064d95d00090887395d1f6c29a8d462d1": {
+    "cd1ba638a3fdf3b4bded41d65cfdac9cbc5af90e2575e93fe2125d5c2446ced6": {
       "schema": 1,
       "repository": "storytold/vectorcraft",
       "latest_tag": "v0.19.0",
@@ -34913,6 +34913,16 @@
         },
         {
           "tag": "v0.10.0",
+          "asset_name": "vectorcraft-0.10.0-windows-arm64.msi",
+          "digest": "sha256:b4a26c7af3c0736841f38e53743ef12911464311a21e0b6c0d10b13833d6aae7",
+          "size": 92045312,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.10.0",
           "asset_name": "vectorcraft-0.10.0-windows-x64.msi",
           "digest": "sha256:eec78d309d218c08ded9785134da4a2dffffefbb40c8170bfdaa24f8aa3676a7",
           "size": 97226752,
@@ -34928,6 +34938,16 @@
           "size": 94916608,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.11.0",
+          "asset_name": "vectorcraft-0.11.0-windows-arm64.msi",
+          "digest": "sha256:86514292e6aea4c529bc178664a2fb47103d3ef310df4b65ee0f44a61c5174d4",
+          "size": 93704192,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
@@ -34953,6 +34973,16 @@
         },
         {
           "tag": "v0.12.0",
+          "asset_name": "vectorcraft-0.12.0-windows-arm64.msi",
+          "digest": "sha256:e3994ad1763ec20a3927b0217e4d8263039ab706e326f302526b81b80a33eb70",
+          "size": 95698944,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.12.0",
           "asset_name": "vectorcraft-0.12.0-windows-x64.msi",
           "digest": "sha256:2f89995d97478eaa75d132316138aa528367ad1e840a3d910e554e7c4650c33a",
           "size": 101388288,
@@ -34968,6 +34998,16 @@
           "size": 98586624,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.13.1",
+          "asset_name": "vectorcraft-0.13.1-windows-arm64.msi",
+          "digest": "sha256:9aae537d33ce229875d396c2961f5eb724cb3c9e761f13be03e1f01420519bb4",
+          "size": 97189888,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
@@ -34993,6 +35033,16 @@
         },
         {
           "tag": "v0.14.0",
+          "asset_name": "vectorcraft-0.14.0-windows-arm64.msi",
+          "digest": "sha256:c0ac009e999a382755558a11376500990b90106b4d6883db689fdd4e69cfa9e9",
+          "size": 98201600,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.14.0",
           "asset_name": "vectorcraft-0.14.0-windows-x64.msi",
           "digest": "sha256:41d8bb251adb796220de1c1f5b8e72dd23304e0ee308d26a2bfa886c3944dedc",
           "size": 104124416,
@@ -35013,6 +35063,16 @@
         },
         {
           "tag": "v0.15.0",
+          "asset_name": "vectorcraft-0.15.0-windows-arm64.msi",
+          "digest": "sha256:045e92f393c08c83ba6e596999c9266f5c36234180e8e5d65fee3d10a9db0ff7",
+          "size": 98668544,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.15.0",
           "asset_name": "vectorcraft-0.15.0-windows-x64.msi",
           "digest": "sha256:1dcba92d3ccbd758ed27df294081350a2a5192557e7af61df41f7ae0a5fa58c0",
           "size": 104628224,
@@ -35028,6 +35088,16 @@
           "size": 101818368,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.16.0",
+          "asset_name": "vectorcraft-0.16.0-windows-arm64.msi",
+          "digest": "sha256:ac2c9bda9130687d2444ae75bb7944a03e97ac3e282568547c9a8c54874b7cb4",
+          "size": 98910208,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
@@ -35298,6 +35368,16 @@
           "size": 63365120,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.9.0",
+          "asset_name": "vectorcraft-0.9.0-windows-arm64.msi",
+          "digest": "sha256:481c2981eafc6de6a35295420ee7d8d65c65bf986b79e2ae272536ab8ca3274d",
+          "size": 61988864,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
