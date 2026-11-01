@@ -5040,6 +5040,90 @@
         "inspector_version": 1
       },
       "used": 1793536619
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.19.0",
+        "asset_name": "vectorcraft-0.19.0-windows-x64.msi",
+        "digest": "sha256:ee96823769c2363dcc05b2dcdf7b0e7935c355676d427a8a17f4e48dcd95c004",
+        "size": 114475008,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536623
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.19.0",
+        "asset_name": "vectorcraft-0.19.0-windows-x86.msi",
+        "digest": "sha256:596ef4c9782218a2c0fd8a3a4b73ac8a7fa959d2ee674b4c1ed51319413f8c80",
+        "size": 111091712,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536625
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.18.0",
+        "asset_name": "vectorcraft-0.18.0-windows-x64.msi",
+        "digest": "sha256:62267017a2aa30629a1112731e6e44a84bf5f9d13ee23c54a8ca18425bcc7e20",
+        "size": 112001024,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536627
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.18.0",
+        "asset_name": "vectorcraft-0.18.0-windows-x86.msi",
+        "digest": "sha256:4743c39fd6b9b11897e4a0cd8eadfb6844055a365478a696b98d3069ea343808",
+        "size": 108703744,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536629
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.17.0",
+        "asset_name": "vectorcraft-0.17.0-windows-x64.msi",
+        "digest": "sha256:861f4e9fe943dacddfd30bc6512a20a4db2fbc554a6daa4101595c2fc85d11c1",
+        "size": 106770432,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536631
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.17.0",
+        "asset_name": "vectorcraft-0.17.0-windows-x86.msi",
+        "digest": "sha256:1942be2f2c4a88a56e2292fb2b67ae341184a9981d25d140eb67a302616636a0",
+        "size": 103690240,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536632
     }
   ],
   "attempts": {
@@ -5542,7 +5626,15 @@
     "storytold/soundcraft:v0.8.0:soundcraft-0.8.0-windows-arm64.msi:sha256:c5006746b194818393748c8eb684f9116dccf5587c2b4e5d18a97c1954719331": 1793536609,
     "storytold/soundcraft:v0.8.0:soundcraft-0.8.0-windows-x64.msi:sha256:cf7fc07f9d1cf7cd31c0c8c2bef79c6a2e477e23fec4ecefa1cadb21b4db6ded": 1793536609,
     "storytold/soundcraft:v0.8.0:soundcraft-0.8.0-windows-x86.msi:sha256:27ff6dc669c447278717e21666d7fbe14d84015c4a6cb9a1748b21c772bea435": 1793536609,
-    "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-arm64.msi:sha256:fac2d4f345391ccf76bc2d9d796b41eb25e16e8a74acf5a080b528eabad67e40": 1793536619
+    "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-arm64.msi:sha256:f9e67f11da9679780510a7acc595e59057dc446781a7d41ae6e808d721fd0729": 1793536629,
+    "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-x64.msi:sha256:861f4e9fe943dacddfd30bc6512a20a4db2fbc554a6daa4101595c2fc85d11c1": 1793536630,
+    "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-x86.msi:sha256:1942be2f2c4a88a56e2292fb2b67ae341184a9981d25d140eb67a302616636a0": 1793536631,
+    "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-arm64.msi:sha256:f56b743afc03c6880865a8c58170681eb42d2aa996d57151f819d840fc342542": 1793536625,
+    "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-x64.msi:sha256:62267017a2aa30629a1112731e6e44a84bf5f9d13ee23c54a8ca18425bcc7e20": 1793536626,
+    "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-x86.msi:sha256:4743c39fd6b9b11897e4a0cd8eadfb6844055a365478a696b98d3069ea343808": 1793536627,
+    "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-arm64.msi:sha256:fac2d4f345391ccf76bc2d9d796b41eb25e16e8a74acf5a080b528eabad67e40": 1793536619,
+    "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-x64.msi:sha256:ee96823769c2363dcc05b2dcdf7b0e7935c355676d427a8a17f4e48dcd95c004": 1793536622,
+    "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-x86.msi:sha256:596ef4c9782218a2c0fd8a3a4b73ac8a7fa959d2ee674b4c1ed51319413f8c80": 1793536623
   },
   "errors": {
     "storytold/cadcraft:v0.1.0:cadcraft-0.1.0-windows-arm64.msi:sha256:ea90da8f773c8727b5fab9583dc743d2a98ebca6b2853ef0aa2279ce8d2fb361": "Unsupported MSI architecture",
@@ -5686,6 +5778,8 @@
     "storytold/soundcraft:v0.6.1:soundcraft-0.6.1-windows-arm64.msi:sha256:8d813302ccd64f1801721336482b5ed42fe6676315878289644708816fcfe764": "Unsupported MSI architecture",
     "storytold/soundcraft:v0.7.0:soundcraft-0.7.0-windows-arm64.msi:sha256:890d933225040fa7a3238e83a07eac489acd3a7229efaa8636909f110b327c3c": "Unsupported MSI architecture",
     "storytold/soundcraft:v0.8.0:soundcraft-0.8.0-windows-arm64.msi:sha256:c5006746b194818393748c8eb684f9116dccf5587c2b4e5d18a97c1954719331": "Unsupported MSI architecture",
+    "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-arm64.msi:sha256:f9e67f11da9679780510a7acc595e59057dc446781a7d41ae6e808d721fd0729": "Unsupported MSI architecture",
+    "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-arm64.msi:sha256:f56b743afc03c6880865a8c58170681eb42d2aa996d57151f819d840fc342542": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-arm64.msi:sha256:fac2d4f345391ccf76bc2d9d796b41eb25e16e8a74acf5a080b528eabad67e40": "Unsupported MSI architecture"
   }
 }
