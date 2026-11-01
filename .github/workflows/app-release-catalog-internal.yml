@@ -30,7 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
           APP_CATALOG_TEST_SIGNING_KEY: ${{ secrets.APP_CATALOG_TEST_SIGNING_KEY }}
-          CATALOG_TOOL_SHA256: a7f3fc828d7d474518e07f782b57d2f923173d58be1b2d14b203279ea6bcd03c
+          CATALOG_TOOL_SHA256: c597a8d098863f53635819e6de48c5ecb77f4318e311cb630c538919f1751bbe
         run: ../automation/scripts/refresh-app-catalog.ps1
 
 
