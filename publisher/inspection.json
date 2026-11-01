@@ -196,9 +196,125 @@
         "inspector_version": 1
       },
       "used": 1793535957
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-v0.14.0",
+        "asset_name": "ArtCraft_0.14.0_x64_en-US.msi",
+        "digest": "sha256:c7341a4fdea43a90bd2e25b8c2d2b2ff7f4ef9936d6bc94a86a7ebd136df7924",
+        "size": 431484928,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793535967
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-v0.12.0",
+        "asset_name": "ArtCraft_0.12.0_x64_en-US.msi",
+        "digest": "sha256:87195b4a4d4f02956209ce9804fbdde972827271c8050058978a3e8e95ca1ad2",
+        "size": 431390720,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793535975
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-v0.11.0",
+        "asset_name": "ArtCraft_0.11.0_x64_en-US.msi",
+        "digest": "sha256:28ee19f575aa6e938fe0d3582d9f69b976d82f062610a5a7d8f93cd2f4788d7e",
+        "size": 431403008,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793535983
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-v0.10.0",
+        "asset_name": "ArtCraft_0.10.0_x64_en-US.msi",
+        "digest": "sha256:b3ea718f7f46fc55d579e3e00b4fa4857e05735da6f663b492e424bc30e0a1e0",
+        "size": 431325184,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793535991
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-v0.8.0",
+        "asset_name": "ArtCraft_0.8.0_x64_en-US.msi",
+        "digest": "sha256:acee5ec82523c83f38892c1639030b82345508999f0e04e12f5e9b4be0d7cbf5",
+        "size": 431271936,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793535998
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-v0.7.0",
+        "asset_name": "ArtCraft_0.7.0_x64_en-US.msi",
+        "digest": "sha256:892b2bbad75079edbff4607f64219cf67e7bf0491d9ce3df97d114a65f389f91",
+        "size": 431255552,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536007
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-windows-v0.5.0",
+        "asset_name": "ArtCraft_0.5.0_x64_en-US.msi",
+        "digest": "sha256:95ca0fa9c4abd244f4a103e1b23b8a4e4be609bd1cb8112a7e33c4f3e1efedf6",
+        "size": 431214592,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536014
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-windows-v0.4.0",
+        "asset_name": "ArtCraft_0.4.0_x64_en-US.msi",
+        "digest": "sha256:fff019c8e138203ad09bccd7bc7036eced680efebf1ed66199d94ef97f86294b",
+        "size": 432300032,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536022
     }
   ],
   "attempts": {
+    "storytold/artcraft:artcraft-v0.10.0:ArtCraft_0.10.0_x64_en-US.msi:sha256:b3ea718f7f46fc55d579e3e00b4fa4857e05735da6f663b492e424bc30e0a1e0": 1793535983,
+    "storytold/artcraft:artcraft-v0.11.0:ArtCraft_0.11.0_x64_en-US.msi:sha256:28ee19f575aa6e938fe0d3582d9f69b976d82f062610a5a7d8f93cd2f4788d7e": 1793535975,
+    "storytold/artcraft:artcraft-v0.12.0:ArtCraft_0.12.0_x64_en-US.msi:sha256:87195b4a4d4f02956209ce9804fbdde972827271c8050058978a3e8e95ca1ad2": 1793535967,
+    "storytold/artcraft:artcraft-v0.14.0:ArtCraft_0.14.0_x64_en-US.msi:sha256:c7341a4fdea43a90bd2e25b8c2d2b2ff7f4ef9936d6bc94a86a7ebd136df7924": 1793535959,
     "storytold/artcraft:artcraft-v0.15.0:ArtCraft_0.15.0_x64_en-US.msi:sha256:f5bff8b1238d43e3a9cdd43716807bbb1b80cbbb44f88ac14cab2f685ae6ad5c": 1793535950,
     "storytold/artcraft:artcraft-v0.19.0:ArtCraft_0.19.0_x64_en-US.msi:sha256:b46fae2d9e617003c1ee67c7892f612cdd7e28e1d053145521acae1dffd337bd": 1793535942,
     "storytold/artcraft:artcraft-v0.20.0:ArtCraft_0.20.0_x64_en-US.msi:sha256:2363f1459818e4324034ca77e3bc89566c644135b1e641c6e0ea63df8c59e57f": 1793535934,
@@ -210,7 +326,11 @@
     "storytold/artcraft:artcraft-v0.29.0:ArtCraft_0.29.0_x64_en-US.msi:sha256:7b89b4bbd702a931c48cfe7532fabd5c41a28414ff2ca3b1d73cf2e55043ee65": 1793534799,
     "storytold/artcraft:artcraft-v0.32.0:ArtCraft_0.32.0_x64_en-US.msi:sha256:1134a7ba9407a47e997ed607a1ccf78d7c162cc405e2b9c287c14d299e99e432": 1793534792,
     "storytold/artcraft:artcraft-v0.37.0:ArtCraft_0.37.0_x64_en-US.msi:sha256:fb84e12392eed0aab7d11b17010d69499079f281df1f723d3aac35481e2ca23a": 1793534499,
-    "storytold/artcraft:artcraft-v0.41.0:ArtCraft_0.41.0_x64_en-US.msi:sha256:255f963ba8acb799b231ac23a5ef04ca157a8d26f9b9b279b3e55a59db29be77": 1793534498
+    "storytold/artcraft:artcraft-v0.41.0:ArtCraft_0.41.0_x64_en-US.msi:sha256:255f963ba8acb799b231ac23a5ef04ca157a8d26f9b9b279b3e55a59db29be77": 1793534498,
+    "storytold/artcraft:artcraft-v0.7.0:ArtCraft_0.7.0_x64_en-US.msi:sha256:892b2bbad75079edbff4607f64219cf67e7bf0491d9ce3df97d114a65f389f91": 1793535999,
+    "storytold/artcraft:artcraft-v0.8.0:ArtCraft_0.8.0_x64_en-US.msi:sha256:acee5ec82523c83f38892c1639030b82345508999f0e04e12f5e9b4be0d7cbf5": 1793535991,
+    "storytold/artcraft:artcraft-windows-v0.4.0:ArtCraft_0.4.0_x64_en-US.msi:sha256:fff019c8e138203ad09bccd7bc7036eced680efebf1ed66199d94ef97f86294b": 1793536014,
+    "storytold/artcraft:artcraft-windows-v0.5.0:ArtCraft_0.5.0_x64_en-US.msi:sha256:95ca0fa9c4abd244f4a103e1b23b8a4e4be609bd1cb8112a7e33c4f3e1efedf6": 1793536007
   },
   "errors": {}
 }
