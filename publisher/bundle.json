@@ -2,8 +2,8 @@
   "index": {
     "schema": 1,
     "purpose": "app-release-catalog",
-    "sequence": 118,
-    "generated_at": 1793555016,
+    "sequence": 119,
+    "generated_at": 1793555028,
     "repositories": {
       "storytold/artcraft": {
         "sha256": "3677ef65240717ec48454ad8ecbe5fa3b9567c426102fd820a58b346674c6863",
@@ -82,8 +82,8 @@
         "checked_at": 1793554784
       },
       "tangency-labs/solidcraft": {
-        "sha256": "d53163fe671e7ec4120018764b710ca6353c6533e9eb93cc9ed9fc363a5a57a0",
-        "size": 599982,
+        "sha256": "b7837bf2e5863762daf5a680979a016111643c7090fb2b5fd537ccc2bcee2f7c",
+        "size": 601953,
         "checked_at": 1793554786,
         "discovery_added_at": 1793516400
       }
@@ -33457,7 +33457,7 @@
         }
       ]
     },
-    "d53163fe671e7ec4120018764b710ca6353c6533e9eb93cc9ed9fc363a5a57a0": {
+    "b7837bf2e5863762daf5a680979a016111643c7090fb2b5fd537ccc2bcee2f7c": {
       "schema": 1,
       "repository": "tangency-labs/solidcraft",
       "latest_tag": "v0.29.0",
@@ -46121,12 +46121,92 @@
       ],
       "scopes": [
         {
+          "tag": "v0.16.1",
+          "asset_name": "solidcraft-0.16.1-windows-arm64.msi",
+          "digest": "sha256:c47be23db03324044177e6c938aeea7912a1575d34c512d80f5c362acbda0e6e",
+          "size": 42938368,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.16.1",
+          "asset_name": "solidcraft-0.16.1-windows-x64.msi",
+          "digest": "sha256:a1c4eb93801d8a5c153c1a0b4968cce67b5f980910a8c48467d78af8e15482de",
+          "size": 49283072,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.16.1",
+          "asset_name": "solidcraft-0.16.1-windows-x86.msi",
+          "digest": "sha256:28d331682b26cec53dc65361b71653fcf6a0ba70cd6152928ce51690f7936c41",
+          "size": 46252032,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
           "tag": "v0.16.2",
           "asset_name": "solidcraft-0.16.2-windows-arm64.msi",
           "digest": "sha256:464d0e7643f0717620871e86d4d6be166a5c825cf074fec3cad6dce8ab23ebff",
           "size": 42962944,
           "os": "windows",
           "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.16.2",
+          "asset_name": "solidcraft-0.16.2-windows-x64.msi",
+          "digest": "sha256:516d58096d247bbab04bbefd1eeff756cada6a1660f0accf0675ad7ed0475585",
+          "size": 49254400,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.16.2",
+          "asset_name": "solidcraft-0.16.2-windows-x86.msi",
+          "digest": "sha256:fc6d8b48fc6c8b19183e696749c4c68fdc3bbfce326a85dd005f9d87ce4957f5",
+          "size": 46272512,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.16.2",
+          "asset_name": "solidcraft-windows-arm64.msi",
+          "digest": "sha256:464d0e7643f0717620871e86d4d6be166a5c825cf074fec3cad6dce8ab23ebff",
+          "size": 42962944,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.16.2",
+          "asset_name": "solidcraft-windows-x64.msi",
+          "digest": "sha256:516d58096d247bbab04bbefd1eeff756cada6a1660f0accf0675ad7ed0475585",
+          "size": 49254400,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.16.2",
+          "asset_name": "solidcraft-windows-x86.msi",
+          "digest": "sha256:fc6d8b48fc6c8b19183e696749c4c68fdc3bbfce326a85dd005f9d87ce4957f5",
+          "size": 46272512,
+          "os": "windows",
+          "architecture": "x86",
           "policy": "machine_only",
           "inspector_version": 1
         },
