@@ -25,6 +25,7 @@ $runStarted = [DateTimeOffset]::UtcNow.ToUnixTimeSeconds()
 $deadline = [datetime]::UtcNow.AddMinutes(40)
 $checkpoint = @()
 if (Test-Path publisher/discovery.json) { $checkpoint = @('--checkpoint','publisher/discovery.json') }
+Run-Catalog enroll --repositories app-catalog/repositories.json --out app-catalog/repositories.json
 Run-Catalog discover --repositories app-catalog/repositories.json @checkpoint --out publisher/discovery.json
 if ([string]::IsNullOrWhiteSpace($env:APP_CATALOG_TEST_SIGNING_KEY)) { throw 'Missing dedicated test signing secret' }
 $keyFile = Join-Path $env:RUNNER_TEMP "catalog-test-key-$([guid]::NewGuid()).hex"
@@ -36,7 +37,7 @@ function Publish-Catalog {
     Run-Catalog aggregate --discovery publisher/discovery.json @previous @evidence --out publisher/bundle.json
     Run-Catalog sign --input publisher/bundle.json --key-file $keyFile --key-id internal-test-20261101 --out v1
     Run-Catalog verify --source source.json --index v1/index.json --objects v1/apps
-    git add -- v1 publisher
+    git add -- v1 publisher app-catalog
     if ($LASTEXITCODE -ne 0) { throw 'Could not stage catalog checkpoint' }
     git diff --cached --quiet
     if ($LASTEXITCODE -eq 1) {
