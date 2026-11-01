@@ -2,8 +2,8 @@
   "index": {
     "schema": 1,
     "purpose": "app-release-catalog",
-    "sequence": 37,
-    "generated_at": 1793536369,
+    "sequence": 38,
+    "generated_at": 1793536374,
     "repositories": {
       "storytold/artcraft": {
         "sha256": "3677ef65240717ec48454ad8ecbe5fa3b9567c426102fd820a58b346674c6863",
@@ -41,8 +41,8 @@
         "checked_at": 1793535880
       },
       "storytold/gridcraft": {
-        "sha256": "c09285d04e644679a61393d8fa556217c6489cf90e2bcd2881346502d0e570ba",
-        "size": 92850,
+        "sha256": "c43de49da6335c103714b5b7132a0ba9ccb8b122de271c7d37f7b95adea4a513",
+        "size": 94299,
         "checked_at": 1793535887
       },
       "storytold/lightcraft": {
@@ -29611,7 +29611,7 @@
       ],
       "scopes": []
     },
-    "c09285d04e644679a61393d8fa556217c6489cf90e2bcd2881346502d0e570ba": {
+    "c43de49da6335c103714b5b7132a0ba9ccb8b122de271c7d37f7b95adea4a513": {
       "schema": 1,
       "repository": "storytold/gridcraft",
       "latest_tag": "v0.14.2",
@@ -31743,7 +31743,68 @@
           ]
         }
       ],
-      "scopes": []
+      "scopes": [
+        {
+          "tag": "v0.12.1",
+          "asset_name": "gridcraft-0.12.1-windows-x64.msi",
+          "digest": "sha256:036f271206da7bbb453b1be9fe98fefb419eac829315803315e88df9f1ff4a71",
+          "size": 14905344,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.12.1",
+          "asset_name": "gridcraft-0.12.1-windows-x86.msi",
+          "digest": "sha256:7fa74f864a10a5d054f5dd32a6b2a61535a1d0e30f3e81394d32d6b21f8392f8",
+          "size": 14204928,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.13.0",
+          "asset_name": "gridcraft-0.13.0-windows-x64.msi",
+          "digest": "sha256:48acede0009eaf15ddced187c2143043d87e8e882d1ee0eb1e52e9ac7ecab1b2",
+          "size": 38047744,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "dual",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.13.0",
+          "asset_name": "gridcraft-0.13.0-windows-x86.msi",
+          "digest": "sha256:f84bcac2ebcd36a8bcf3916f0e4e64c494b247a8fff76a8705f06fc8f88fa9af",
+          "size": 37056512,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "dual",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.14.2",
+          "asset_name": "gridcraft-0.14.2-windows-x64.msi",
+          "digest": "sha256:c782dbb579ce23a0b2e5303510b907a23777ca5b854837fabc20b5ef4dbf149f",
+          "size": 39161856,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "dual",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.14.2",
+          "asset_name": "gridcraft-0.14.2-windows-x86.msi",
+          "digest": "sha256:686f273c7f36c35da5034a2d3b7abd04bfe741f87e43431988f90bedd455cbee",
+          "size": 37888000,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "dual",
+          "inspector_version": 1
+        }
+      ]
     },
     "efce78e881cf339ca183780f63607678d25f357cf7ad814ec840d8c5bf84430f": {
       "schema": 1,
