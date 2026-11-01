@@ -4256,6 +4256,76 @@
         "inspector_version": 1
       },
       "used": 1793536541
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.14.0",
+        "asset_name": "photocraft-0.14.0-windows-x64.msi",
+        "digest": "sha256:a25a2a15c85dd0563f817e206da125ef594a7c8020f34301c1ff67767b2b8d6f",
+        "size": 72843264,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536546
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.14.0",
+        "asset_name": "photocraft-0.14.0-windows-x86.msi",
+        "digest": "sha256:d7db4c7c1bf677880743092b665c46d165c0b718ed60feb14093e298c10af508",
+        "size": 70328320,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536547
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.13.0",
+        "asset_name": "photocraft-0.13.0-windows-x64.msi",
+        "digest": "sha256:394d59361459eb2ff5d7e0aaff4f121c1ae04c17a2d7fb41bc929cc737d5820b",
+        "size": 72855552,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536549
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.13.0",
+        "asset_name": "photocraft-0.13.0-windows-x86.msi",
+        "digest": "sha256:34b66e0502fe9e451ca4b3502facb197edd7416728701ed411b46977d99ddaad",
+        "size": 70316032,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536551
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.12.0",
+        "asset_name": "photocraft-0.12.0-windows-x64.msi",
+        "digest": "sha256:79f937909ad32c6f66e31da828aa41f5795b58fd9c272f00f8cba6e3847ded0f",
+        "size": 71860224,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536554
     }
   ],
   "attempts": {
@@ -4667,6 +4737,14 @@
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-arm64.msi:sha256:245120d0bb0919e9c0c9f9d63ac04553ae5b6a36b41a477bd82dcb28a092586f": 1793536493,
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-x64.msi:sha256:372a80ff736b0e1f242f7001a2157de081fa5fdb2192d001b1cbbf7f53739f4b": 1793536495,
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-x86.msi:sha256:a0a055334128ed3b073d504b4198a8ea499fcc310502e6213e6e5da3717d37ec": 1793536496,
+    "storytold/photocraft:v0.12.0:photocraft-0.12.0-windows-arm64.msi:sha256:c80420838137a8bd4f86f3f0fb5a00fccf7d31e9234204365371348ec56337cd": 1793536551,
+    "storytold/photocraft:v0.12.0:photocraft-0.12.0-windows-x64.msi:sha256:79f937909ad32c6f66e31da828aa41f5795b58fd9c272f00f8cba6e3847ded0f": 1793536553,
+    "storytold/photocraft:v0.13.0:photocraft-0.13.0-windows-arm64.msi:sha256:48db40439eff4156dfbde661233c05df6230d8e36247cf70fe78f2750f145c37": 1793536547,
+    "storytold/photocraft:v0.13.0:photocraft-0.13.0-windows-x64.msi:sha256:394d59361459eb2ff5d7e0aaff4f121c1ae04c17a2d7fb41bc929cc737d5820b": 1793536548,
+    "storytold/photocraft:v0.13.0:photocraft-0.13.0-windows-x86.msi:sha256:34b66e0502fe9e451ca4b3502facb197edd7416728701ed411b46977d99ddaad": 1793536549,
+    "storytold/photocraft:v0.14.0:photocraft-0.14.0-windows-arm64.msi:sha256:c429b8f12c4b980dc3f93f3d36b1c1177ff7899225b0417107b9dd96c7510349": 1793536543,
+    "storytold/photocraft:v0.14.0:photocraft-0.14.0-windows-x64.msi:sha256:a25a2a15c85dd0563f817e206da125ef594a7c8020f34301c1ff67767b2b8d6f": 1793536544,
+    "storytold/photocraft:v0.14.0:photocraft-0.14.0-windows-x86.msi:sha256:d7db4c7c1bf677880743092b665c46d165c0b718ed60feb14093e298c10af508": 1793536546,
     "storytold/photocraft:v0.15.1:photocraft-0.15.1-windows-arm64.msi:sha256:dede26ccef5c94194055189ca3f0183b77b17df8fbbc978d068e5d8f81a17961": 1793536538,
     "storytold/photocraft:v0.15.1:photocraft-0.15.1-windows-x64.msi:sha256:2c4ec56914981135531fedfc28ce793bdb2e23caaa66ce174f7900dd766362f5": 1793536539,
     "storytold/photocraft:v0.15.1:photocraft-0.15.1-windows-x86.msi:sha256:758b5a67f308cfc617d14cca371f0421754abc31dc10e62527de49b54d750d7d": 1793536540,
@@ -4795,6 +4873,9 @@
     "storytold/pdfcraft:v0.7.1:pdfcraft-0.7.1-windows-arm64.msi:sha256:a896c293b560f0c5bb740fbae06d013e0ad341cba2f95a106b976a9dfd557969": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.8.0:pdfcraft-0.8.0-windows-arm64.msi:sha256:8b4e314b089eca1a8ad104a113cd82441b381335b97afbc040c71d4860f727d0": "Unsupported MSI architecture",
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-arm64.msi:sha256:245120d0bb0919e9c0c9f9d63ac04553ae5b6a36b41a477bd82dcb28a092586f": "Unsupported MSI architecture",
+    "storytold/photocraft:v0.12.0:photocraft-0.12.0-windows-arm64.msi:sha256:c80420838137a8bd4f86f3f0fb5a00fccf7d31e9234204365371348ec56337cd": "Unsupported MSI architecture",
+    "storytold/photocraft:v0.13.0:photocraft-0.13.0-windows-arm64.msi:sha256:48db40439eff4156dfbde661233c05df6230d8e36247cf70fe78f2750f145c37": "Unsupported MSI architecture",
+    "storytold/photocraft:v0.14.0:photocraft-0.14.0-windows-arm64.msi:sha256:c429b8f12c4b980dc3f93f3d36b1c1177ff7899225b0417107b9dd96c7510349": "Unsupported MSI architecture",
     "storytold/photocraft:v0.15.1:photocraft-0.15.1-windows-arm64.msi:sha256:dede26ccef5c94194055189ca3f0183b77b17df8fbbc978d068e5d8f81a17961": "Unsupported MSI architecture",
     "storytold/photocraft:v0.16.0:photocraft-0.16.0-windows-arm64.msi:sha256:1ebd494f733ddc906e558766fd9351d7d90dfd67468e24c0edfa11c939d41b68": "Unsupported MSI architecture",
     "storytold/photocraft:v0.17.0:photocraft-0.17.0-windows-arm64.msi:sha256:cce2af0bda3e687290f7d61b55aec0a56aba39fd711c7caf948918aa8f79bc32": "Unsupported MSI architecture",
