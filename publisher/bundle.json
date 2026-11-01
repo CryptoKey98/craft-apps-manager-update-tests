@@ -2,8 +2,8 @@
   "index": {
     "schema": 1,
     "purpose": "app-release-catalog",
-    "sequence": 57,
-    "generated_at": 1793536565,
+    "sequence": 58,
+    "generated_at": 1793536576,
     "repositories": {
       "storytold/artcraft": {
         "sha256": "3677ef65240717ec48454ad8ecbe5fa3b9567c426102fd820a58b346674c6863",
@@ -56,8 +56,8 @@
         "checked_at": 1793535886
       },
       "storytold/photocraft": {
-        "sha256": "8c829d54cc24d890023f95853e0ed27bb55108590be1cd1a969f8ae4df848e85",
-        "size": 139838,
+        "sha256": "af8c2a719afb6458619a1ae10ecfd86b9e46bf8beb4c815177d5fb3d8ef0b3ef",
+        "size": 141314,
         "checked_at": 1793535883
       },
       "storytold/soundcraft": {
@@ -32370,7 +32370,7 @@
       ],
       "scopes": []
     },
-    "8c829d54cc24d890023f95853e0ed27bb55108590be1cd1a969f8ae4df848e85": {
+    "af8c2a719afb6458619a1ae10ecfd86b9e46bf8beb4c815177d5fb3d8ef0b3ef": {
       "schema": 1,
       "repository": "storytold/photocraft",
       "latest_tag": "v0.18.0",
@@ -35619,6 +35619,66 @@
           "os": "windows",
           "architecture": "x86",
           "policy": "dual",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.7.0",
+          "asset_name": "photocraft-0.7.0-windows-x64.msi",
+          "digest": "sha256:af959a169ba0b93bdcec4df0e9dfdbac365b7759d3d74b06c3f8f96ed45ff9a0",
+          "size": 64626688,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.7.0",
+          "asset_name": "photocraft-0.7.0-windows-x86.msi",
+          "digest": "sha256:b3dc6af0c151f89e7c3471d26dd04c6c31c315518e21eb124cc4f565f36c5f58",
+          "size": 62763008,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.8.2",
+          "asset_name": "photocraft-0.8.2-windows-x64.msi",
+          "digest": "sha256:cca4415e073ecb2255e8deea180c2e69e29f2f3b2c402c832b9d67e0dc386a8b",
+          "size": 67420160,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.8.2",
+          "asset_name": "photocraft-0.8.2-windows-x86.msi",
+          "digest": "sha256:354111d2466d46e280fa72c12272a5f957a3c1ec3f68acefca30307a60c14ab5",
+          "size": 65314816,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.9.0",
+          "asset_name": "photocraft-0.9.0-windows-x64.msi",
+          "digest": "sha256:785c81a5fc78c9b683b0f9e6653c38f95b306a38303f60b391670a9e1ac590d4",
+          "size": 69443584,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.9.0",
+          "asset_name": "photocraft-0.9.0-windows-x86.msi",
+          "digest": "sha256:226892dbc266cea6d338081ec5683de7d5520411fa0da7124225239c4321eca4",
+          "size": 67239936,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
           "inspector_version": 1
         }
       ]
