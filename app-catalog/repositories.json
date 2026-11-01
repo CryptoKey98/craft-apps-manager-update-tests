@@ -1,16 +1,16 @@
 [
-  "storytold/filmcraft",
+  "storytold/artcraft",
+  "storytold/cadcraft",
+  "storytold/deckcraft",
   "storytold/designcraft",
   "storytold/effectcraft",
-  "storytold/photocraft",
-  "storytold/lightcraft",
-  "storytold/vectorcraft",
-  "storytold/pdfcraft",
-  "storytold/wordcraft",
+  "storytold/figcraft",
+  "storytold/filmcraft",
   "storytold/gridcraft",
-  "storytold/deckcraft",
+  "storytold/lightcraft",
+  "storytold/pdfcraft",
+  "storytold/photocraft",
   "storytold/soundcraft",
-  "storytold/cadcraft",
-  "storytold/artcraft",
-  "storytold/figcraft"
+  "storytold/vectorcraft",
+  "storytold/wordcraft"
 ]
