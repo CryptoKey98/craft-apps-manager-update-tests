@@ -10906,6 +10906,118 @@
         "inspector_version": 1
       },
       "used": 1793555081
+    },
+    {
+      "repository": "tangency-labs/solidcraft",
+      "evidence": {
+        "tag": "v0.11.1",
+        "asset_name": "solidcraft-0.11.1-windows-x64.msi",
+        "digest": "sha256:9568ced4424f6739638f395bcac9b5cbca4e5df209dfbe328ed49bae97216068",
+        "size": 28098560,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793555084
+    },
+    {
+      "repository": "tangency-labs/solidcraft",
+      "evidence": {
+        "tag": "v0.11.1",
+        "asset_name": "solidcraft-0.11.1-windows-x86.msi",
+        "digest": "sha256:85325fefe45beda96256c48949fa1d4dedbeca495669891eb0203989ea22f825",
+        "size": 26308608,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793555085
+    },
+    {
+      "repository": "tangency-labs/solidcraft",
+      "evidence": {
+        "tag": "v0.11.1",
+        "asset_name": "solidcraft-windows-arm64.msi",
+        "digest": "sha256:8a948e8fd04d404ad5afba23d625abf0426c9c026df400cbc99cd4116db8dfad",
+        "size": 24571904,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793555086
+    },
+    {
+      "repository": "tangency-labs/solidcraft",
+      "evidence": {
+        "tag": "v0.11.1",
+        "asset_name": "solidcraft-windows-x64.msi",
+        "digest": "sha256:9568ced4424f6739638f395bcac9b5cbca4e5df209dfbe328ed49bae97216068",
+        "size": 28098560,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793555087
+    },
+    {
+      "repository": "tangency-labs/solidcraft",
+      "evidence": {
+        "tag": "v0.11.1",
+        "asset_name": "solidcraft-windows-x86.msi",
+        "digest": "sha256:85325fefe45beda96256c48949fa1d4dedbeca495669891eb0203989ea22f825",
+        "size": 26308608,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793555088
+    },
+    {
+      "repository": "tangency-labs/solidcraft",
+      "evidence": {
+        "tag": "v0.11.0",
+        "asset_name": "solidcraft-0.11.0-windows-arm64.msi",
+        "digest": "sha256:27417afc62f6c8fc787c97ab227fa752c96511e1c2e5ca2381b5f76643730cfb",
+        "size": 24563712,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793555088
+    },
+    {
+      "repository": "tangency-labs/solidcraft",
+      "evidence": {
+        "tag": "v0.11.0",
+        "asset_name": "solidcraft-0.11.0-windows-x64.msi",
+        "digest": "sha256:0426393e169d86eb856a6f8c1fc2b168aeeb2a59e4da95b8729715f3e3141012",
+        "size": 28106752,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793555089
+    },
+    {
+      "repository": "tangency-labs/solidcraft",
+      "evidence": {
+        "tag": "v0.11.0",
+        "asset_name": "solidcraft-0.11.0-windows-x86.msi",
+        "digest": "sha256:811b8ec51af17ee34acd281671c5f7171509053049f1be7809f68d9a0972326f",
+        "size": 26296320,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793555090
     }
   ],
   "attempts": {
@@ -11505,7 +11617,15 @@
     "storytold/wordcraft:v0.9.0:wordcraft-0.9.0-windows-arm64.msi:sha256:0894d2abd5fa3ae2761da08ee940a78fed6613bd2b804a36055bbe951e4c58ec": 1793540002,
     "storytold/wordcraft:v0.9.0:wordcraft-0.9.0-windows-x64.msi:sha256:7f69510ca4ea8af8409de38f14dde3eb18adf0f0ae3616237f3ac44bfcdc5ef9": 1793536735,
     "storytold/wordcraft:v0.9.0:wordcraft-0.9.0-windows-x86.msi:sha256:a55e70d1e2a3794d4aa76680c968b6a95e1b21330547757707599cd5ec5c516c": 1793536736,
+    "tangency-labs/solidcraft:v0.11.0:solidcraft-0.11.0-windows-arm64.msi:sha256:27417afc62f6c8fc787c97ab227fa752c96511e1c2e5ca2381b5f76643730cfb": 1793555088,
+    "tangency-labs/solidcraft:v0.11.0:solidcraft-0.11.0-windows-x64.msi:sha256:0426393e169d86eb856a6f8c1fc2b168aeeb2a59e4da95b8729715f3e3141012": 1793555088,
+    "tangency-labs/solidcraft:v0.11.0:solidcraft-0.11.0-windows-x86.msi:sha256:811b8ec51af17ee34acd281671c5f7171509053049f1be7809f68d9a0972326f": 1793555089,
     "tangency-labs/solidcraft:v0.11.1:solidcraft-0.11.1-windows-arm64.msi:sha256:8a948e8fd04d404ad5afba23d625abf0426c9c026df400cbc99cd4116db8dfad": 1793555080,
+    "tangency-labs/solidcraft:v0.11.1:solidcraft-0.11.1-windows-x64.msi:sha256:9568ced4424f6739638f395bcac9b5cbca4e5df209dfbe328ed49bae97216068": 1793555083,
+    "tangency-labs/solidcraft:v0.11.1:solidcraft-0.11.1-windows-x86.msi:sha256:85325fefe45beda96256c48949fa1d4dedbeca495669891eb0203989ea22f825": 1793555084,
+    "tangency-labs/solidcraft:v0.11.1:solidcraft-windows-arm64.msi:sha256:8a948e8fd04d404ad5afba23d625abf0426c9c026df400cbc99cd4116db8dfad": 1793555085,
+    "tangency-labs/solidcraft:v0.11.1:solidcraft-windows-x64.msi:sha256:9568ced4424f6739638f395bcac9b5cbca4e5df209dfbe328ed49bae97216068": 1793555086,
+    "tangency-labs/solidcraft:v0.11.1:solidcraft-windows-x86.msi:sha256:85325fefe45beda96256c48949fa1d4dedbeca495669891eb0203989ea22f825": 1793555087,
     "tangency-labs/solidcraft:v0.12.0:solidcraft-0.12.0-windows-arm64.msi:sha256:fd1fd0e95087f5ec429d383803302cd04432b00f7319ecd96fc0ef1764e27250": 1793555075,
     "tangency-labs/solidcraft:v0.12.0:solidcraft-0.12.0-windows-x64.msi:sha256:dce4fa5733231b7ba1369468367518000c313699c4d3d21f142246178f092ef8": 1793555076,
     "tangency-labs/solidcraft:v0.12.0:solidcraft-0.12.0-windows-x86.msi:sha256:1bda7cc92a67b708b2c06fefe2e11f33e9f9dc3b3f626d916bdfe2225bf538b5": 1793555077,
