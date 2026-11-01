@@ -8316,6 +8316,20 @@
         "inspector_version": 1
       },
       "used": 1793540006
+    },
+    {
+      "repository": "storytold/wordcraft",
+      "evidence": {
+        "tag": "v0.1.0",
+        "asset_name": "wordcraft-0.1.0-windows-arm64.msi",
+        "digest": "sha256:d7142165e0499089af44b76ac4f6ee4c4bb1024b2fe7af1b9d4bb9b47f060f93",
+        "size": 42950656,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793540009
     }
   ],
   "attempts": {
@@ -8876,7 +8890,7 @@
     "storytold/vectorcraft:v0.9.0:vectorcraft-0.9.0-windows-arm64.msi:sha256:481c2981eafc6de6a35295420ee7d8d65c65bf986b79e2ae272536ab8ca3274d": 1793539991,
     "storytold/vectorcraft:v0.9.0:vectorcraft-0.9.0-windows-x64.msi:sha256:de590a69ac3345f32586efa1b608f868c5ca71cde5646aed715054c68da73c23": 1793536678,
     "storytold/vectorcraft:v0.9.0:vectorcraft-0.9.0-windows-x86.msi:sha256:1bbfc98ca33a045c4c5ac6aef7c87d7e1a9a12dd1c6425761c4cc51658023917": 1793536679,
-    "storytold/wordcraft:v0.1.0:wordcraft-0.1.0-windows-arm64.msi:sha256:d7142165e0499089af44b76ac4f6ee4c4bb1024b2fe7af1b9d4bb9b47f060f93": 1793536766,
+    "storytold/wordcraft:v0.1.0:wordcraft-0.1.0-windows-arm64.msi:sha256:d7142165e0499089af44b76ac4f6ee4c4bb1024b2fe7af1b9d4bb9b47f060f93": 1793540008,
     "storytold/wordcraft:v0.1.0:wordcraft-0.1.0-windows-x64.msi:sha256:a8435a8b064c30afcd3618be04a146ccfb69eb731d1cba3b0d0e8d8b106456dc": 1793536766,
     "storytold/wordcraft:v0.1.0:wordcraft-0.1.0-windows-x86.msi:sha256:b3989a316c459bad74eb9e9dab17a232abf3cd5f25a269f108ff2af409525f51": 1793536767,
     "storytold/wordcraft:v0.10.0:wordcraft-0.10.0-windows-arm64.msi:sha256:974f7924672d820fafc9e80a439883337846a7b7b9f8d9b63876627603c04fe2": 1793540001,
@@ -8913,7 +8927,5 @@
     "storytold/wordcraft:v0.9.0:wordcraft-0.9.0-windows-x64.msi:sha256:7f69510ca4ea8af8409de38f14dde3eb18adf0f0ae3616237f3ac44bfcdc5ef9": 1793536735,
     "storytold/wordcraft:v0.9.0:wordcraft-0.9.0-windows-x86.msi:sha256:a55e70d1e2a3794d4aa76680c968b6a95e1b21330547757707599cd5ec5c516c": 1793536736
   },
-  "errors": {
-    "storytold/wordcraft:v0.1.0:wordcraft-0.1.0-windows-arm64.msi:sha256:d7142165e0499089af44b76ac4f6ee4c4bb1024b2fe7af1b9d4bb9b47f060f93": "Unsupported MSI architecture"
-  }
+  "errors": {}
 }
