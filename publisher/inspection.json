@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "observations": [
+    {
+      "repository": "storytold/filmcraft",
+      "evidence": {
+        "tag": "v0.13.0",
+        "asset_name": "filmcraft-0.13.0-windows-x64.msi",
+        "digest": "sha256:6e9e2903ca47cbf677d598391e76ed862223a86c0d6d79da7a93a32455b5f593",
+        "size": 83537920,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793534485
+    },
+    {
+      "repository": "storytold/filmcraft",
+      "evidence": {
+        "tag": "v0.14.0",
+        "asset_name": "filmcraft-0.14.0-windows-x64.msi",
+        "digest": "sha256:47767e1f3e97c2a706c960335d887639ad7fb28eeef145ad921ed790ba3625e1",
+        "size": 88502272,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793534485
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-v0.41.0",
+        "asset_name": "ArtCraft_0.41.0_x64_en-US.msi",
+        "digest": "sha256:255f963ba8acb799b231ac23a5ef04ca157a8d26f9b9b279b3e55a59db29be77",
+        "size": 46837760,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793534499
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-v0.37.0",
+        "asset_name": "ArtCraft_0.37.0_x64_en-US.msi",
+        "digest": "sha256:fb84e12392eed0aab7d11b17010d69499079f281df1f723d3aac35481e2ca23a",
+        "size": 48676864,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793534501
+    }
+  ],
+  "attempts": {
+    "storytold/artcraft:artcraft-v0.37.0:ArtCraft_0.37.0_x64_en-US.msi:sha256:fb84e12392eed0aab7d11b17010d69499079f281df1f723d3aac35481e2ca23a": 1793534499,
+    "storytold/artcraft:artcraft-v0.41.0:ArtCraft_0.41.0_x64_en-US.msi:sha256:255f963ba8acb799b231ac23a5ef04ca157a8d26f9b9b279b3e55a59db29be77": 1793534498
+  },
+  "errors": {}
+}
