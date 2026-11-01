@@ -11,6 +11,8 @@
   "storytold/pdfcraft",
   "storytold/photocraft",
   "storytold/soundcraft",
+  "storytold/texturecraft",
   "storytold/vectorcraft",
-  "storytold/wordcraft"
+  "storytold/wordcraft",
+  "tangency-labs/solidcraft"
 ]
