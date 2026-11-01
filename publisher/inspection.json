@@ -2212,6 +2212,76 @@
         "inspector_version": 1
       },
       "used": 1793536281
+    },
+    {
+      "repository": "storytold/figcraft",
+      "evidence": {
+        "tag": "v0.7.0",
+        "asset_name": "figcraft-0.7.0-windows-x64.msi",
+        "digest": "sha256:897e1a2cec07e3cd6ffb024cccc7da4d3a2366c667f69ba539981b6f59051a6f",
+        "size": 70254592,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536285
+    },
+    {
+      "repository": "storytold/figcraft",
+      "evidence": {
+        "tag": "v0.7.0",
+        "asset_name": "figcraft-0.7.0-windows-x86.msi",
+        "digest": "sha256:4f5739577bcd9edaab94685997d6d371e193ff8f196d134a8d3b702d87ffe5c5",
+        "size": 68677632,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536287
+    },
+    {
+      "repository": "storytold/figcraft",
+      "evidence": {
+        "tag": "v0.6.0",
+        "asset_name": "figcraft-0.6.0-windows-x64.msi",
+        "digest": "sha256:e3fd2fb6e7a283fcd08ba99752cf983d7e93597d069f173d0b226e4017c5c161",
+        "size": 69382144,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536289
+    },
+    {
+      "repository": "storytold/figcraft",
+      "evidence": {
+        "tag": "v0.6.0",
+        "asset_name": "figcraft-0.6.0-windows-x86.msi",
+        "digest": "sha256:9a128c00d4d628d2872ffe9928e8d385236df8c80d5a3776442c2bf2faa77359",
+        "size": 67903488,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536290
+    },
+    {
+      "repository": "storytold/figcraft",
+      "evidence": {
+        "tag": "v0.5.1",
+        "asset_name": "figcraft-0.5.1-windows-x64.msi",
+        "digest": "sha256:7939c059b3b7d72480c3d9f71629ac73849d2c97f8e56b3e0013cbcb26e5ae8e",
+        "size": 68141056,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536293
     }
   ],
   "attempts": {
@@ -2421,6 +2491,14 @@
     "storytold/figcraft:v0.13.1:figcraft-0.13.1-windows-arm64.msi:sha256:38a85840b4a023b031986baeb919d0338192b62805452dd70627b1b09cc3dfc3": 1793536256,
     "storytold/figcraft:v0.13.1:figcraft-0.13.1-windows-x64.msi:sha256:c9807ae713de0960d4de274b3a16c40837dea364978754e6b123c050b15af424": 1793536257,
     "storytold/figcraft:v0.13.1:figcraft-0.13.1-windows-x86.msi:sha256:5069426b7c4fbec66190971d27c8aa74a0ddf64a663904b9245a94c8cbbd55a6": 1793536259,
+    "storytold/figcraft:v0.5.1:figcraft-0.5.1-windows-arm64.msi:sha256:d5012eae9aae29a2f64c70b4cc11e30bdc94f10c074a5686be6391df6e94e86b": 1793536290,
+    "storytold/figcraft:v0.5.1:figcraft-0.5.1-windows-x64.msi:sha256:7939c059b3b7d72480c3d9f71629ac73849d2c97f8e56b3e0013cbcb26e5ae8e": 1793536292,
+    "storytold/figcraft:v0.6.0:figcraft-0.6.0-windows-arm64.msi:sha256:d75015c023f9d33aafed95e9788fb1ad50fecdba01ba52e7f05d352ac7186a56": 1793536287,
+    "storytold/figcraft:v0.6.0:figcraft-0.6.0-windows-x64.msi:sha256:e3fd2fb6e7a283fcd08ba99752cf983d7e93597d069f173d0b226e4017c5c161": 1793536288,
+    "storytold/figcraft:v0.6.0:figcraft-0.6.0-windows-x86.msi:sha256:9a128c00d4d628d2872ffe9928e8d385236df8c80d5a3776442c2bf2faa77359": 1793536289,
+    "storytold/figcraft:v0.7.0:figcraft-0.7.0-windows-arm64.msi:sha256:cbe8c0790598e10a960a024c48ef54039b6e99cf6fffc0c83df658a552ab1a0a": 1793536283,
+    "storytold/figcraft:v0.7.0:figcraft-0.7.0-windows-x64.msi:sha256:897e1a2cec07e3cd6ffb024cccc7da4d3a2366c667f69ba539981b6f59051a6f": 1793536284,
+    "storytold/figcraft:v0.7.0:figcraft-0.7.0-windows-x86.msi:sha256:4f5739577bcd9edaab94685997d6d371e193ff8f196d134a8d3b702d87ffe5c5": 1793536285,
     "storytold/figcraft:v0.8.0:figcraft-0.8.0-windows-arm64.msi:sha256:be544824f3a8961252398dcdbb8a81e0e6e4d0b05bf6e2604107150fd830f500": 1793536276,
     "storytold/figcraft:v0.8.0:figcraft-0.8.0-windows-x64.msi:sha256:3dc39bbc710bd1b844ee621b4377f4369dca6046497d37dab88610e858cb47dd": 1793536278,
     "storytold/figcraft:v0.8.0:figcraft-0.8.0-windows-x86.msi:sha256:e67d2f919fe2fb3b6d19f0e43bfef5a99ff2b96aeeb0585509c4f90010cd2db2": 1793536279,
@@ -2483,6 +2561,9 @@
     "storytold/figcraft:v0.11.2:figcraft-0.11.2-windows-arm64.msi:sha256:1d53cbd03a0835dc45d61edc85e8f76d00eb539e7a66086ab86eca51edbcb0a6": "Unsupported MSI architecture",
     "storytold/figcraft:v0.12.1:figcraft-0.12.1-windows-arm64.msi:sha256:690a579470866d59dd933e6a705fb780f9ccd0f71c5ed563c5bf5d5fc4682978": "Unsupported MSI architecture",
     "storytold/figcraft:v0.13.1:figcraft-0.13.1-windows-arm64.msi:sha256:38a85840b4a023b031986baeb919d0338192b62805452dd70627b1b09cc3dfc3": "Unsupported MSI architecture",
+    "storytold/figcraft:v0.5.1:figcraft-0.5.1-windows-arm64.msi:sha256:d5012eae9aae29a2f64c70b4cc11e30bdc94f10c074a5686be6391df6e94e86b": "Unsupported MSI architecture",
+    "storytold/figcraft:v0.6.0:figcraft-0.6.0-windows-arm64.msi:sha256:d75015c023f9d33aafed95e9788fb1ad50fecdba01ba52e7f05d352ac7186a56": "Unsupported MSI architecture",
+    "storytold/figcraft:v0.7.0:figcraft-0.7.0-windows-arm64.msi:sha256:cbe8c0790598e10a960a024c48ef54039b6e99cf6fffc0c83df658a552ab1a0a": "Unsupported MSI architecture",
     "storytold/figcraft:v0.8.0:figcraft-0.8.0-windows-arm64.msi:sha256:be544824f3a8961252398dcdbb8a81e0e6e4d0b05bf6e2604107150fd830f500": "Unsupported MSI architecture",
     "storytold/figcraft:v0.9.0:figcraft-0.9.0-windows-arm64.msi:sha256:8f41d72b83b7a009d327862c7ae54b126185e05f9eae3a02f0bf30c81de79982": "Unsupported MSI architecture"
   }
