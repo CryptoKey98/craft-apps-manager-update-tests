@@ -2,7 +2,7 @@
   "schema": 1,
   "repositories": {
     "storytold/artcraft": {
-      "checked_at": 1793554774,
+      "checked_at": 1793557068,
       "latest_tag": "artcraft-v0.41.0",
       "releases": [
         {
@@ -809,7 +809,7 @@
       "error": null
     },
     "storytold/cadcraft": {
-      "checked_at": 1793554775,
+      "checked_at": 1793557069,
       "latest_tag": "v0.15.1",
       "releases": [
         {
@@ -2936,7 +2936,7 @@
       "error": null
     },
     "storytold/deckcraft": {
-      "checked_at": 1793554776,
+      "checked_at": 1793557070,
       "latest_tag": "v0.13.1",
       "releases": [
         {
@@ -4881,7 +4881,7 @@
       "error": null
     },
     "storytold/designcraft": {
-      "checked_at": 1793554776,
+      "checked_at": 1793557070,
       "latest_tag": "v0.15.2",
       "releases": [
         {
@@ -7320,7 +7320,7 @@
       "error": null
     },
     "storytold/effectcraft": {
-      "checked_at": 1793554777,
+      "checked_at": 1793557071,
       "latest_tag": "v0.19.0",
       "releases": [
         {
@@ -10137,7 +10137,7 @@
       "error": null
     },
     "storytold/figcraft": {
-      "checked_at": 1793554778,
+      "checked_at": 1793557072,
       "latest_tag": "v0.13.1",
       "releases": [
         {
@@ -12414,7 +12414,7 @@
       "error": null
     },
     "storytold/filmcraft": {
-      "checked_at": 1793554779,
+      "checked_at": 1793557073,
       "latest_tag": "v0.15.0",
       "releases": [
         {
@@ -14835,7 +14835,7 @@
       "error": null
     },
     "storytold/gridcraft": {
-      "checked_at": 1793554779,
+      "checked_at": 1793557073,
       "latest_tag": "v0.14.2",
       "releases": [
         {
@@ -16968,7 +16968,7 @@
       "error": null
     },
     "storytold/lightcraft": {
-      "checked_at": 1793554780,
+      "checked_at": 1793557074,
       "latest_tag": "v0.16.0",
       "releases": [
         {
@@ -19541,7 +19541,7 @@
       "error": null
     },
     "storytold/pdfcraft": {
-      "checked_at": 1793554781,
+      "checked_at": 1793557075,
       "latest_tag": "v0.16.1",
       "releases": [
         {
@@ -22294,7 +22294,7 @@
       "error": null
     },
     "storytold/photocraft": {
-      "checked_at": 1793554781,
+      "checked_at": 1793557076,
       "latest_tag": "v0.18.0",
       "releases": [
         {
@@ -25365,7 +25365,7 @@
       "error": null
     },
     "storytold/soundcraft": {
-      "checked_at": 1793554782,
+      "checked_at": 1793557077,
       "latest_tag": "v0.15.0",
       "releases": [
         {
@@ -27376,9 +27376,191 @@
       "error": null
     },
     "storytold/texturecraft": {
-      "checked_at": 1793554782,
-      "latest_tag": "v0.1.0",
+      "checked_at": 1793557077,
+      "latest_tag": "v0.2.0",
       "releases": [
+        {
+          "tag_name": "v0.2.0",
+          "name": "TextureCraft v0.2.0",
+          "draft": false,
+          "prerelease": false,
+          "assets": [
+            {
+              "name": "SHA256SUMS.txt",
+              "size": 2968,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/SHA256SUMS.txt",
+              "digest": "sha256:89fcc0d42f7b9b466ce0c97c1313a2684bc7d513099d1908142f256fdf21069f"
+            },
+            {
+              "name": "texturecraft-0.2.0-freebsd-aarch64.tar.gz",
+              "size": 35207987,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-freebsd-aarch64.tar.gz",
+              "digest": "sha256:148139d1b7dd91ad6d68b385a52479071fefdd89731f0704cf641a4fae5757c4"
+            },
+            {
+              "name": "texturecraft-0.2.0-freebsd-x86_64.tar.gz",
+              "size": 36910128,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-freebsd-x86_64.tar.gz",
+              "digest": "sha256:3d9fb417c3e0b852e2c364512b656899f5e5bfb0f1117169769e08d2f1aec020"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-aarch64.AppImage",
+              "size": 34466312,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.AppImage",
+              "digest": "sha256:f81a27cab5286b5dbf4601b814aa586b6ba9dc53be762fb9e11d43b960d5b24a"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-aarch64.AppImage.zsync",
+              "size": 118063,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.AppImage.zsync",
+              "digest": "sha256:d61f63a18845475d259d207d43e1c453c0da90e8257c2badb8921f59b21f594b"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-aarch64.deb",
+              "size": 36663282,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.deb",
+              "digest": "sha256:f01d804aae0b597036d7eea654f312f805832a594d7fecda447c86f724b1fc85"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-aarch64.flatpak",
+              "size": 25756256,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.flatpak",
+              "digest": "sha256:250427aad145b17b6d63e30dab62293bdc2efe4f95249e29da8e9a5a3d595dd8"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-aarch64.pkg.tar.zst",
+              "size": 28579235,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.pkg.tar.zst",
+              "digest": "sha256:a2f3a264382af323574cfb5746b1cbf10cd25a80e19dae7d49d1eb0175f5a7ad"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-aarch64.rpm",
+              "size": 36356655,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.rpm",
+              "digest": "sha256:b899096e0ec9c2dd219e5dfbe7a098cfe60a09869397974df24984ebb6628092"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-aarch64.tar.gz",
+              "size": 35613347,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.tar.gz",
+              "digest": "sha256:88024d8168583c25a9e83ab2d4414a7b00ab93063a42b8c86af85668b3ea646a"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-riscv64.deb",
+              "size": 37269040,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.deb",
+              "digest": "sha256:99ac0443fb1b9abfbee9a86d42b9908051c9f3df476e11ee1d78596a480afcbd"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-riscv64.rpm",
+              "size": 37121229,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.rpm",
+              "digest": "sha256:a6bab7bc41e7a8a4cb6ac807680ca92b8c631361700df332cfbc64d018373c74"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-riscv64.tar.gz",
+              "size": 36683325,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.tar.gz",
+              "digest": "sha256:d13159efefaec0a8184a30ca49f5969dbe481b488a345cd51f8e835fff3c5f51"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-x86_64.AppImage",
+              "size": 35711480,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.AppImage",
+              "digest": "sha256:27fbecd858e1afc4e738a7a1198c92d02fb8bd823005853e08ede56091dd69a6"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-x86_64.AppImage.zsync",
+              "size": 122317,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.AppImage.zsync",
+              "digest": "sha256:f41aa0a8329cda505c1fb26c19b68c26f050a26bd44ccea1044b0a2aee13e984"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-x86_64.deb",
+              "size": 37603688,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.deb",
+              "digest": "sha256:d1339c54bde5bd22f42b8a07c20637d5f05db0a0195d49802421d698ca84d17e"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-x86_64.flatpak",
+              "size": 27442896,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.flatpak",
+              "digest": "sha256:a51ce430f13ac1793c24095e7c83a41e98bf6341cb8217b71f81c5964e65dde6"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-x86_64.pkg.tar.zst",
+              "size": 26558776,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.pkg.tar.zst",
+              "digest": "sha256:3dabe9d281c11e524c92018faa2703d3fe0002b20bbb66190e45fbca3910563e"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-x86_64.rpm",
+              "size": 37370226,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.rpm",
+              "digest": "sha256:a1aaabf76fcd0d9b0e6a649efcb2e492a5bccfb1996c63a8c3f1cb8ecbff3e2b"
+            },
+            {
+              "name": "texturecraft-0.2.0-linux-x86_64.tar.gz",
+              "size": 36972234,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.tar.gz",
+              "digest": "sha256:9919068b13d880d512d6a995433446c9fccb3e0b447fdce2c7716e1393d7cfb2"
+            },
+            {
+              "name": "texturecraft-0.2.0-macos-universal.dmg",
+              "size": 56000418,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-macos-universal.dmg",
+              "digest": "sha256:d8c78b01eb6d3acc2b495219b813b311a619938d2c2b9b2fa50b1c36ded96222"
+            },
+            {
+              "name": "texturecraft-0.2.0-windows-arm64-portable.zip",
+              "size": 35412646,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-arm64-portable.zip",
+              "digest": "sha256:b91def3c46eff84e59331ca626356225edbe1d9309e240ac71e96b903aab8d96"
+            },
+            {
+              "name": "texturecraft-0.2.0-windows-arm64.msi",
+              "size": 28905472,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-arm64.msi",
+              "digest": "sha256:b4b5dbc23e460178857db741d5562686d52b4bf059d365d5d342a5129dae7efd"
+            },
+            {
+              "name": "texturecraft-0.2.0-windows-x64-portable.zip",
+              "size": 36877360,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x64-portable.zip",
+              "digest": "sha256:f4259bde63ee894ae3bc8c8f7f0a281b66c195e0080c819f1db5edffa887c4f4"
+            },
+            {
+              "name": "texturecraft-0.2.0-windows-x64.msi",
+              "size": 30547968,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x64.msi",
+              "digest": "sha256:312b6fab3ca67873042359db36fa0f0016c6b087a66b0da3ff492a96683c4656"
+            },
+            {
+              "name": "texturecraft-0.2.0-windows-x86-portable.zip",
+              "size": 35558937,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x86-portable.zip",
+              "digest": "sha256:94707f1ff1a9c6f32562c1204817ba415be3294232d3bb2c997d94021e943a8f"
+            },
+            {
+              "name": "texturecraft-0.2.0-windows-x86.msi",
+              "size": 30015488,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x86.msi",
+              "digest": "sha256:8e9ad71a259fe1d9763e8f6c8c0c5498342bf8112a3369989ab8ce04f018aecb"
+            },
+            {
+              "name": "texturecraft-cli-0.2.0-macos-universal.zip",
+              "size": 13455174,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-cli-0.2.0-macos-universal.zip",
+              "digest": "sha256:989f9113e15d52f36109b362ded0e2902f5b9d179821cb6d517c141a4da524c7"
+            },
+            {
+              "name": "texturecraft-web-0.2.0.zip",
+              "size": 8221675,
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-web-0.2.0.zip",
+              "digest": "sha256:77866fb28e658709b08ab72e8b427d598b0f1e36bd86d3b35d996b16e7220f84"
+            }
+          ]
+        },
         {
           "tag_name": "v0.1.0",
           "name": "TextureCraft v0.1.0",
@@ -27529,7 +27711,7 @@
       "error": null
     },
     "storytold/vectorcraft": {
-      "checked_at": 1793554783,
+      "checked_at": 1793557078,
       "latest_tag": "v0.19.0",
       "releases": [
         {
@@ -30584,7 +30766,7 @@
       "error": null
     },
     "storytold/wordcraft": {
-      "checked_at": 1793554784,
+      "checked_at": 1793557079,
       "latest_tag": "v0.13.2",
       "releases": [
         {
@@ -32535,7 +32717,7 @@
       "error": null
     },
     "tangency-labs/solidcraft": {
-      "checked_at": 1793554786,
+      "checked_at": 1793557081,
       "latest_tag": "v0.29.0",
       "releases": [
         {
@@ -45200,7 +45382,7 @@
   },
   "pages": {
     "https://api.github.com/repos/storytold/artcraft/releases/latest": {
-      "etag": "\"e5a34521a05f336614bfaa854f7166e72d5cd404e752d8577bcc3417f333412e\"",
+      "etag": "\"f12a1a2b2b81a093313ba2f2696dfc9982d500bbbe28494c92ae7abd66114e56\"",
       "body": {
         "assets": [
           {
@@ -45235,7 +45417,7 @@
       }
     },
     "https://api.github.com/repos/storytold/artcraft/releases?per_page=100&page=1": {
-      "etag": "\"07db895eb702ef5fb62a1c35494a7c3d235333f6844121f092596665620ffe26\"",
+      "etag": "\"b26d9241089a7da0ec8fc205c729b2dbfa508d9e2430d066c8973b564e45dfff\"",
       "body": [
         {
           "assets": [
@@ -46040,7 +46222,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/cadcraft/releases/latest": {
-      "etag": "\"9e5f439c37a72d5169127503a2166180407b4687217970e4d31ddcbbd4dbe3d3\"",
+      "etag": "\"bb84bdefaf53ef3084ae82052eff737a4897ad7abd7718ebe136d4896484278f\"",
       "body": {
         "assets": [
           {
@@ -46225,7 +46407,7 @@
       }
     },
     "https://api.github.com/repos/storytold/cadcraft/releases?per_page=100&page=1": {
-      "etag": "\"46f9c141558cc5ea99c6eaa889c4fa9f5392b4e3fd865b2996e1d23cb16f8fb7\"",
+      "etag": "\"14e00bf8e1bed33a9d6fb2e38e3036bdf6632cf393480c61b1c2b4019f069c6f\"",
       "body": [
         {
           "assets": [
@@ -48350,7 +48532,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/deckcraft/releases/latest": {
-      "etag": "\"7837253f8cf3974544436d90cb27f7501171ac5f70772dfe3207043cc19b9169\"",
+      "etag": "\"c69e1e43361d9d22da20a25827ca8672b9c25ea16f8b79481316d30e58e1c28d\"",
       "body": {
         "assets": [
           {
@@ -48535,7 +48717,7 @@
       }
     },
     "https://api.github.com/repos/storytold/deckcraft/releases?per_page=100&page=1": {
-      "etag": "\"bf7f217e5172945f559b5c103fc773e496d3d2a730d2f62a1d9b15274637bf87\"",
+      "etag": "\"b63e9ed6161b4e66df36d81d79ad8c5ed7e5e0e50fdf01463ba4a2c06dbcd5b0\"",
       "body": [
         {
           "assets": [
@@ -50478,7 +50660,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/designcraft/releases/latest": {
-      "etag": "\"cb2dd6d10969f4a3ef81d54d71bbccd82077c54f2db9a1b94033ae9c71f5839d\"",
+      "etag": "\"add9eb543b7835b5fe62f8b4f658cabe0559ffd4d4eb32ded7e6983e8ab94591\"",
       "body": {
         "assets": [
           {
@@ -50663,7 +50845,7 @@
       }
     },
     "https://api.github.com/repos/storytold/designcraft/releases?per_page=100&page=1": {
-      "etag": "\"fd853bf5af7061272f5c1703cc577c502afcd3b888bf218772176d13437da00b\"",
+      "etag": "\"5446255047764437f50d8a77ac924c70f90eb43773e04f14d0c7ac97c079abc1\"",
       "body": [
         {
           "assets": [
@@ -53100,7 +53282,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/effectcraft/releases/latest": {
-      "etag": "\"eed68af8c61c3fd1f64788e86e66a2c6c9bedc1dceca9405f8b5c4d609db2077\"",
+      "etag": "\"84b465ec64e9699325becf629c2038e97545679ff16b4f97ab1236130b82d980\"",
       "body": {
         "assets": [
           {
@@ -53285,7 +53467,7 @@
       }
     },
     "https://api.github.com/repos/storytold/effectcraft/releases?per_page=100&page=1": {
-      "etag": "\"f62dfc6fc2b15e001d79f00c149dbd03d07cba41a5b21292eb100ca890b2d5f4\"",
+      "etag": "\"6a83b360b62d3b9163845a8a1bac9c33581d1f680e05f796151cb2c86267ffa7\"",
       "body": [
         {
           "assets": [
@@ -56100,7 +56282,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/figcraft/releases/latest": {
-      "etag": "\"62f0f637bc7d0b1c1e14417aec739f2fff8f9120e59d278986c9640c15b34f89\"",
+      "etag": "\"a34dfa7b948a2b715432778c480ec42cc720021ebb0421408bcaf3c67812d449\"",
       "body": {
         "assets": [
           {
@@ -56297,7 +56479,7 @@
       }
     },
     "https://api.github.com/repos/storytold/figcraft/releases?per_page=100&page=1": {
-      "etag": "\"39265b2977a9836567361b8733e506cf285c3617a9c830b19c71016e762cf1f0\"",
+      "etag": "\"21bfe92323eb9827c6387e0201867e2fb3d2e834b95056339ce7b473b8058426\"",
       "body": [
         {
           "assets": [
@@ -58572,7 +58754,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/filmcraft/releases/latest": {
-      "etag": "\"d7f0cc2e69ab0e8771254df48109f06e5c3442c2d717845bd4f097a3a1406b0d\"",
+      "etag": "\"8ee80d40e407d0a63fb61975a454b2112136c67dd4942f89ab6c2d472d0575b7\"",
       "body": {
         "assets": [
           {
@@ -58757,7 +58939,7 @@
       }
     },
     "https://api.github.com/repos/storytold/filmcraft/releases?per_page=100&page=1": {
-      "etag": "\"5aa497909768b55256cfad0a392573b8bb1fcc675edabc6155d71eb15aeb6511\"",
+      "etag": "\"a944e258edd8f7b2574592dfb3a2e4a4f171d7aa3ec3ccbededec6612e4bb0e7\"",
       "body": [
         {
           "assets": [
@@ -61176,7 +61358,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/gridcraft/releases/latest": {
-      "etag": "\"ca7dfa6ce4ec1c563eae3a60e69dc8f75769914009da28d4f19f6944ca3996c4\"",
+      "etag": "\"d31f0dbc29234732285b1c497031636470daa0efcca9dfbf52f424e682b1080e\"",
       "body": {
         "assets": [
           {
@@ -61361,7 +61543,7 @@
       }
     },
     "https://api.github.com/repos/storytold/gridcraft/releases?per_page=100&page=1": {
-      "etag": "\"4bd174aba17f81276ce8fb1d2f764c02816ee558cb46948599ad05b1cd46387a\"",
+      "etag": "\"600f114f65bde94e0a21e8fd89aa0351d6f51ed06cba2dd355b0989eabf6408f\"",
       "body": [
         {
           "assets": [
@@ -63492,7 +63674,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/lightcraft/releases/latest": {
-      "etag": "\"f20c766fc11bc56f064465a1fdef9e31012be82db595971be7689e7126396fbe\"",
+      "etag": "\"49a99977b17d39d292da49ad86cc74fc0b3ff31766e8311adb2d76efe12ec01c\"",
       "body": {
         "assets": [
           {
@@ -63677,7 +63859,7 @@
       }
     },
     "https://api.github.com/repos/storytold/lightcraft/releases?per_page=100&page=1": {
-      "etag": "\"ae8d8d227d38fce960b60bd5173f5ee819dff66924f055a89068df7135200e10\"",
+      "etag": "\"ce8dc10138e3fe304f9a35795e7efebbbb49366d11259efdf460fd3884a776fc\"",
       "body": [
         {
           "assets": [
@@ -66248,7 +66430,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/pdfcraft/releases/latest": {
-      "etag": "\"728c13991988807fe276159ffa5a2ae2cb19a80109eec0a0c139bca89da99355\"",
+      "etag": "\"ea500a95957922d126cbe98639ad25f0399000a1f6c5ac902eb4740d164feccb\"",
       "body": {
         "assets": [
           {
@@ -66445,7 +66627,7 @@
       }
     },
     "https://api.github.com/repos/storytold/pdfcraft/releases?per_page=100&page=1": {
-      "etag": "\"977497264a9be2dbed62a2660df62aa00b260e148ecc273efc1121a802574675\"",
+      "etag": "\"1ed1264288ed376be72f36b8218ca4054a0f54ae0373c1a7ce415024314245d2\"",
       "body": [
         {
           "assets": [
@@ -69196,7 +69378,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/photocraft/releases/latest": {
-      "etag": "\"fa0867862ad94d9772fbd524ff45f70b1343659a928707829ad1b92fae3e6a52\"",
+      "etag": "\"e022cbcbaca6bdb3d06d5f0282cc4c05fabb2b89c5b46f157a6ca4a01b21effe\"",
       "body": {
         "assets": [
           {
@@ -69399,7 +69581,7 @@
       }
     },
     "https://api.github.com/repos/storytold/photocraft/releases?per_page=100&page=1": {
-      "etag": "\"63b1ee0cf29e699fdcff8fa33b4b527fc4432023e89dd6c9cfc496ef5d7fe747\"",
+      "etag": "\"81ab1a5f97617ca39f4be29c8db913ee10eb15a4cc5f5fd9d1399655667c612c\"",
       "body": [
         {
           "assets": [
@@ -72468,7 +72650,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/soundcraft/releases/latest": {
-      "etag": "\"e311698abd70a07cae47452d8944b0c699e4c83885e5c2e89b48b92978705169\"",
+      "etag": "\"7a8b55269f9d847bfb2a44d879d8a6e8a20e9a39e68ac71055d1830ecf174c7a\"",
       "body": {
         "assets": [
           {
@@ -72653,7 +72835,7 @@
       }
     },
     "https://api.github.com/repos/storytold/soundcraft/releases?per_page=100&page=1": {
-      "etag": "\"4e4fa40299ffc4e5b803ebeae73b38c63e320795bcdc58be943f1f3c5a901b32\"",
+      "etag": "\"b17637462dbadbc3ae33bf3cecd082dbae7de8169fbe538ac1c5a9ea9d8cce95\"",
       "body": [
         {
           "assets": [
@@ -74662,157 +74844,375 @@
       ]
     },
     "https://api.github.com/repos/storytold/texturecraft/releases/latest": {
-      "etag": "\"9f3e09464112d57c745780ff5a8eb50b62dfde173d738731121633e9c4cdd904\"",
+      "etag": "\"4fb760a5a9357dbb9737b091490aa52dbe23868fe5e450991efa93abd86d794a\"",
       "body": {
         "assets": [
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/SHA256SUMS.txt",
-            "digest": "sha256:cd6ef3c6ab6dc63a8bf3783635eb5861825e3ec20ee318373b3e50b791900aa3",
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/SHA256SUMS.txt",
+            "digest": "sha256:89fcc0d42f7b9b466ce0c97c1313a2684bc7d513099d1908142f256fdf21069f",
             "name": "SHA256SUMS.txt",
-            "size": 2327
+            "size": 2968
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-freebsd-x86_64.tar.gz",
-            "digest": "sha256:bbbf74fd308ae688a5b282a0496f30ec6583e3feea37f1b5cc00540df80a413d",
-            "name": "texturecraft-0.1.0-freebsd-x86_64.tar.gz",
-            "size": 36213946
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-freebsd-aarch64.tar.gz",
+            "digest": "sha256:148139d1b7dd91ad6d68b385a52479071fefdd89731f0704cf641a4fae5757c4",
+            "name": "texturecraft-0.2.0-freebsd-aarch64.tar.gz",
+            "size": 35207987
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-aarch64.AppImage",
-            "digest": "sha256:883559a1746becdf018364736cee6b04d342c93c696017617aba3f37e22862d1",
-            "name": "texturecraft-0.1.0-linux-aarch64.AppImage",
-            "size": 33868296
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-freebsd-x86_64.tar.gz",
+            "digest": "sha256:3d9fb417c3e0b852e2c364512b656899f5e5bfb0f1117169769e08d2f1aec020",
+            "name": "texturecraft-0.2.0-freebsd-x86_64.tar.gz",
+            "size": 36910128
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-aarch64.AppImage.zsync",
-            "digest": "sha256:2fe7c994127dd079ef24913008cd1f39ae2d60363871801d5c78dbd2c1aa9262",
-            "name": "texturecraft-0.1.0-linux-aarch64.AppImage.zsync",
-            "size": 116019
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.AppImage",
+            "digest": "sha256:f81a27cab5286b5dbf4601b814aa586b6ba9dc53be762fb9e11d43b960d5b24a",
+            "name": "texturecraft-0.2.0-linux-aarch64.AppImage",
+            "size": 34466312
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-aarch64.deb",
-            "digest": "sha256:e84838e505f8bd284d05fa247fe302a1b564a169c459da609f0295d7447ef140",
-            "name": "texturecraft-0.1.0-linux-aarch64.deb",
-            "size": 35934666
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.AppImage.zsync",
+            "digest": "sha256:d61f63a18845475d259d207d43e1c453c0da90e8257c2badb8921f59b21f594b",
+            "name": "texturecraft-0.2.0-linux-aarch64.AppImage.zsync",
+            "size": 118063
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-aarch64.flatpak",
-            "digest": "sha256:f048e4446efa5eb141bd0d541e206c85844dcc49adb1c43731429cf6270079c6",
-            "name": "texturecraft-0.1.0-linux-aarch64.flatpak",
-            "size": 25456240
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.deb",
+            "digest": "sha256:f01d804aae0b597036d7eea654f312f805832a594d7fecda447c86f724b1fc85",
+            "name": "texturecraft-0.2.0-linux-aarch64.deb",
+            "size": 36663282
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-aarch64.rpm",
-            "digest": "sha256:74eaef767754ef48027a80292a0b77131ac2c05284716861148ce241add7d0ad",
-            "name": "texturecraft-0.1.0-linux-aarch64.rpm",
-            "size": 35641537
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.flatpak",
+            "digest": "sha256:250427aad145b17b6d63e30dab62293bdc2efe4f95249e29da8e9a5a3d595dd8",
+            "name": "texturecraft-0.2.0-linux-aarch64.flatpak",
+            "size": 25756256
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-aarch64.tar.gz",
-            "digest": "sha256:4c6377cc21bafe524494dfdc3dfdb2e288735c209e7ad90cb61ce75a3450091e",
-            "name": "texturecraft-0.1.0-linux-aarch64.tar.gz",
-            "size": 34931674
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.pkg.tar.zst",
+            "digest": "sha256:a2f3a264382af323574cfb5746b1cbf10cd25a80e19dae7d49d1eb0175f5a7ad",
+            "name": "texturecraft-0.2.0-linux-aarch64.pkg.tar.zst",
+            "size": 28579235
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-x86_64.AppImage",
-            "digest": "sha256:21187b468e1685f605a465a8b3b93dad0e21e200f22bda21f92394eb01c1164a",
-            "name": "texturecraft-0.1.0-linux-x86_64.AppImage",
-            "size": 35101176
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.rpm",
+            "digest": "sha256:b899096e0ec9c2dd219e5dfbe7a098cfe60a09869397974df24984ebb6628092",
+            "name": "texturecraft-0.2.0-linux-aarch64.rpm",
+            "size": 36356655
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-x86_64.AppImage.zsync",
-            "digest": "sha256:28aade4e1a5dda7815784fc08c61ed22642af298ceea0415ef74ba9d852387c8",
-            "name": "texturecraft-0.1.0-linux-x86_64.AppImage.zsync",
-            "size": 120231
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.tar.gz",
+            "digest": "sha256:88024d8168583c25a9e83ab2d4414a7b00ab93063a42b8c86af85668b3ea646a",
+            "name": "texturecraft-0.2.0-linux-aarch64.tar.gz",
+            "size": 35613347
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-x86_64.deb",
-            "digest": "sha256:34d60e5e667f21b5fb4754a6d72aaba53473e29945c4f22ff0d80b71b001ad4c",
-            "name": "texturecraft-0.1.0-linux-x86_64.deb",
-            "size": 36890572
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.deb",
+            "digest": "sha256:99ac0443fb1b9abfbee9a86d42b9908051c9f3df476e11ee1d78596a480afcbd",
+            "name": "texturecraft-0.2.0-linux-riscv64.deb",
+            "size": 37269040
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-x86_64.flatpak",
-            "digest": "sha256:7e36e02205a9d44086cd76cce4b077e883bfb80caf19dcbdb7725faceb429cb9",
-            "name": "texturecraft-0.1.0-linux-x86_64.flatpak",
-            "size": 27105696
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.rpm",
+            "digest": "sha256:a6bab7bc41e7a8a4cb6ac807680ca92b8c631361700df332cfbc64d018373c74",
+            "name": "texturecraft-0.2.0-linux-riscv64.rpm",
+            "size": 37121229
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-x86_64.rpm",
-            "digest": "sha256:44e075dbc3adac969b717e57251ba1dc5d5e0708db66750f6857ced6277e83c8",
-            "name": "texturecraft-0.1.0-linux-x86_64.rpm",
-            "size": 36665217
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.tar.gz",
+            "digest": "sha256:d13159efefaec0a8184a30ca49f5969dbe481b488a345cd51f8e835fff3c5f51",
+            "name": "texturecraft-0.2.0-linux-riscv64.tar.gz",
+            "size": 36683325
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-linux-x86_64.tar.gz",
-            "digest": "sha256:1fa58c2ec961c1b4be04635d171ee515298b763376b2ef5a1f06aa3b62b6e5e2",
-            "name": "texturecraft-0.1.0-linux-x86_64.tar.gz",
-            "size": 36281030
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.AppImage",
+            "digest": "sha256:27fbecd858e1afc4e738a7a1198c92d02fb8bd823005853e08ede56091dd69a6",
+            "name": "texturecraft-0.2.0-linux-x86_64.AppImage",
+            "size": 35711480
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-macos-universal.dmg",
-            "digest": "sha256:12f7aff8904a80f9c86a16a8b10debfa863bee46ec9334c93582cd1caf3b3aa4",
-            "name": "texturecraft-0.1.0-macos-universal.dmg",
-            "size": 54396612
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.AppImage.zsync",
+            "digest": "sha256:f41aa0a8329cda505c1fb26c19b68c26f050a26bd44ccea1044b0a2aee13e984",
+            "name": "texturecraft-0.2.0-linux-x86_64.AppImage.zsync",
+            "size": 122317
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-windows-arm64-portable.zip",
-            "digest": "sha256:5a19d180e175394182ed65866f88ee89aa3fa8775b14260ed66f0b2d5dac5f9f",
-            "name": "texturecraft-0.1.0-windows-arm64-portable.zip",
-            "size": 34525200
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.deb",
+            "digest": "sha256:d1339c54bde5bd22f42b8a07c20637d5f05db0a0195d49802421d698ca84d17e",
+            "name": "texturecraft-0.2.0-linux-x86_64.deb",
+            "size": 37603688
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-windows-arm64.msi",
-            "digest": "sha256:f8516ea292cadda4b79cf3bcb379f50f33b72e19392df8b053e2928b05b43b97",
-            "name": "texturecraft-0.1.0-windows-arm64.msi",
-            "size": 28413952
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.flatpak",
+            "digest": "sha256:a51ce430f13ac1793c24095e7c83a41e98bf6341cb8217b71f81c5964e65dde6",
+            "name": "texturecraft-0.2.0-linux-x86_64.flatpak",
+            "size": 27442896
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-windows-x64-portable.zip",
-            "digest": "sha256:443d39d3bf3b14fdbc2beba71350ed36ced15631821829c0d641bdfc0155c220",
-            "name": "texturecraft-0.1.0-windows-x64-portable.zip",
-            "size": 35982824
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.pkg.tar.zst",
+            "digest": "sha256:3dabe9d281c11e524c92018faa2703d3fe0002b20bbb66190e45fbca3910563e",
+            "name": "texturecraft-0.2.0-linux-x86_64.pkg.tar.zst",
+            "size": 26558776
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-windows-x64.msi",
-            "digest": "sha256:36b9bfd6db83bfef47f32f750d437cc67dc8ff0588f017682534ea5c58d4cf26",
-            "name": "texturecraft-0.1.0-windows-x64.msi",
-            "size": 29990912
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.rpm",
+            "digest": "sha256:a1aaabf76fcd0d9b0e6a649efcb2e492a5bccfb1996c63a8c3f1cb8ecbff3e2b",
+            "name": "texturecraft-0.2.0-linux-x86_64.rpm",
+            "size": 37370226
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-windows-x86-portable.zip",
-            "digest": "sha256:f7b7bb949e805a78383d788f60964d7ee4eba17f2d962e9016a14eefaaf3731a",
-            "name": "texturecraft-0.1.0-windows-x86-portable.zip",
-            "size": 34706872
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.tar.gz",
+            "digest": "sha256:9919068b13d880d512d6a995433446c9fccb3e0b447fdce2c7716e1393d7cfb2",
+            "name": "texturecraft-0.2.0-linux-x86_64.tar.gz",
+            "size": 36972234
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-0.1.0-windows-x86.msi",
-            "digest": "sha256:90d000dda9208e1120353ae690a5f83f0cd6bd5eb5d4d91e398a70288fa68969",
-            "name": "texturecraft-0.1.0-windows-x86.msi",
-            "size": 29491200
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-macos-universal.dmg",
+            "digest": "sha256:d8c78b01eb6d3acc2b495219b813b311a619938d2c2b9b2fa50b1c36ded96222",
+            "name": "texturecraft-0.2.0-macos-universal.dmg",
+            "size": 56000418
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-cli-0.1.0-macos-universal.zip",
-            "digest": "sha256:9af2f4033fb4571385fd2ce5635003c8ce5542d35942fd7e4ea1e0fce8a35960",
-            "name": "texturecraft-cli-0.1.0-macos-universal.zip",
-            "size": 13361190
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-arm64-portable.zip",
+            "digest": "sha256:b91def3c46eff84e59331ca626356225edbe1d9309e240ac71e96b903aab8d96",
+            "name": "texturecraft-0.2.0-windows-arm64-portable.zip",
+            "size": 35412646
           },
           {
-            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.1.0/texturecraft-web-0.1.0.zip",
-            "digest": "sha256:5dfdb751cec6efbd11ab6d9889cb8683a6522992c03c056de7b9428eb5e7c22d",
-            "name": "texturecraft-web-0.1.0.zip",
-            "size": 7950871
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-arm64.msi",
+            "digest": "sha256:b4b5dbc23e460178857db741d5562686d52b4bf059d365d5d342a5129dae7efd",
+            "name": "texturecraft-0.2.0-windows-arm64.msi",
+            "size": 28905472
+          },
+          {
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x64-portable.zip",
+            "digest": "sha256:f4259bde63ee894ae3bc8c8f7f0a281b66c195e0080c819f1db5edffa887c4f4",
+            "name": "texturecraft-0.2.0-windows-x64-portable.zip",
+            "size": 36877360
+          },
+          {
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x64.msi",
+            "digest": "sha256:312b6fab3ca67873042359db36fa0f0016c6b087a66b0da3ff492a96683c4656",
+            "name": "texturecraft-0.2.0-windows-x64.msi",
+            "size": 30547968
+          },
+          {
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x86-portable.zip",
+            "digest": "sha256:94707f1ff1a9c6f32562c1204817ba415be3294232d3bb2c997d94021e943a8f",
+            "name": "texturecraft-0.2.0-windows-x86-portable.zip",
+            "size": 35558937
+          },
+          {
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x86.msi",
+            "digest": "sha256:8e9ad71a259fe1d9763e8f6c8c0c5498342bf8112a3369989ab8ce04f018aecb",
+            "name": "texturecraft-0.2.0-windows-x86.msi",
+            "size": 30015488
+          },
+          {
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-cli-0.2.0-macos-universal.zip",
+            "digest": "sha256:989f9113e15d52f36109b362ded0e2902f5b9d179821cb6d517c141a4da524c7",
+            "name": "texturecraft-cli-0.2.0-macos-universal.zip",
+            "size": 13455174
+          },
+          {
+            "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-web-0.2.0.zip",
+            "digest": "sha256:77866fb28e658709b08ab72e8b427d598b0f1e36bd86d3b35d996b16e7220f84",
+            "name": "texturecraft-web-0.2.0.zip",
+            "size": 8221675
           }
         ],
         "draft": false,
-        "name": "TextureCraft v0.1.0",
+        "name": "TextureCraft v0.2.0",
         "prerelease": false,
-        "tag_name": "v0.1.0"
+        "tag_name": "v0.2.0"
       }
     },
     "https://api.github.com/repos/storytold/texturecraft/releases?per_page=100&page=1": {
-      "etag": "\"c0609b454305cea8240adab12fbafa068388dfbc30184779790b27d6a11a4c5e\"",
+      "etag": "\"01e7b3674dbc4ba1ae135bd994bc9c4455245150d255e210c63ff385f3088d48\"",
       "body": [
+        {
+          "assets": [
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/SHA256SUMS.txt",
+              "digest": "sha256:89fcc0d42f7b9b466ce0c97c1313a2684bc7d513099d1908142f256fdf21069f",
+              "name": "SHA256SUMS.txt",
+              "size": 2968
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-freebsd-aarch64.tar.gz",
+              "digest": "sha256:148139d1b7dd91ad6d68b385a52479071fefdd89731f0704cf641a4fae5757c4",
+              "name": "texturecraft-0.2.0-freebsd-aarch64.tar.gz",
+              "size": 35207987
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-freebsd-x86_64.tar.gz",
+              "digest": "sha256:3d9fb417c3e0b852e2c364512b656899f5e5bfb0f1117169769e08d2f1aec020",
+              "name": "texturecraft-0.2.0-freebsd-x86_64.tar.gz",
+              "size": 36910128
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.AppImage",
+              "digest": "sha256:f81a27cab5286b5dbf4601b814aa586b6ba9dc53be762fb9e11d43b960d5b24a",
+              "name": "texturecraft-0.2.0-linux-aarch64.AppImage",
+              "size": 34466312
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.AppImage.zsync",
+              "digest": "sha256:d61f63a18845475d259d207d43e1c453c0da90e8257c2badb8921f59b21f594b",
+              "name": "texturecraft-0.2.0-linux-aarch64.AppImage.zsync",
+              "size": 118063
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.deb",
+              "digest": "sha256:f01d804aae0b597036d7eea654f312f805832a594d7fecda447c86f724b1fc85",
+              "name": "texturecraft-0.2.0-linux-aarch64.deb",
+              "size": 36663282
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.flatpak",
+              "digest": "sha256:250427aad145b17b6d63e30dab62293bdc2efe4f95249e29da8e9a5a3d595dd8",
+              "name": "texturecraft-0.2.0-linux-aarch64.flatpak",
+              "size": 25756256
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.pkg.tar.zst",
+              "digest": "sha256:a2f3a264382af323574cfb5746b1cbf10cd25a80e19dae7d49d1eb0175f5a7ad",
+              "name": "texturecraft-0.2.0-linux-aarch64.pkg.tar.zst",
+              "size": 28579235
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.rpm",
+              "digest": "sha256:b899096e0ec9c2dd219e5dfbe7a098cfe60a09869397974df24984ebb6628092",
+              "name": "texturecraft-0.2.0-linux-aarch64.rpm",
+              "size": 36356655
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-aarch64.tar.gz",
+              "digest": "sha256:88024d8168583c25a9e83ab2d4414a7b00ab93063a42b8c86af85668b3ea646a",
+              "name": "texturecraft-0.2.0-linux-aarch64.tar.gz",
+              "size": 35613347
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.deb",
+              "digest": "sha256:99ac0443fb1b9abfbee9a86d42b9908051c9f3df476e11ee1d78596a480afcbd",
+              "name": "texturecraft-0.2.0-linux-riscv64.deb",
+              "size": 37269040
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.rpm",
+              "digest": "sha256:a6bab7bc41e7a8a4cb6ac807680ca92b8c631361700df332cfbc64d018373c74",
+              "name": "texturecraft-0.2.0-linux-riscv64.rpm",
+              "size": 37121229
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-riscv64.tar.gz",
+              "digest": "sha256:d13159efefaec0a8184a30ca49f5969dbe481b488a345cd51f8e835fff3c5f51",
+              "name": "texturecraft-0.2.0-linux-riscv64.tar.gz",
+              "size": 36683325
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.AppImage",
+              "digest": "sha256:27fbecd858e1afc4e738a7a1198c92d02fb8bd823005853e08ede56091dd69a6",
+              "name": "texturecraft-0.2.0-linux-x86_64.AppImage",
+              "size": 35711480
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.AppImage.zsync",
+              "digest": "sha256:f41aa0a8329cda505c1fb26c19b68c26f050a26bd44ccea1044b0a2aee13e984",
+              "name": "texturecraft-0.2.0-linux-x86_64.AppImage.zsync",
+              "size": 122317
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.deb",
+              "digest": "sha256:d1339c54bde5bd22f42b8a07c20637d5f05db0a0195d49802421d698ca84d17e",
+              "name": "texturecraft-0.2.0-linux-x86_64.deb",
+              "size": 37603688
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.flatpak",
+              "digest": "sha256:a51ce430f13ac1793c24095e7c83a41e98bf6341cb8217b71f81c5964e65dde6",
+              "name": "texturecraft-0.2.0-linux-x86_64.flatpak",
+              "size": 27442896
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.pkg.tar.zst",
+              "digest": "sha256:3dabe9d281c11e524c92018faa2703d3fe0002b20bbb66190e45fbca3910563e",
+              "name": "texturecraft-0.2.0-linux-x86_64.pkg.tar.zst",
+              "size": 26558776
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.rpm",
+              "digest": "sha256:a1aaabf76fcd0d9b0e6a649efcb2e492a5bccfb1996c63a8c3f1cb8ecbff3e2b",
+              "name": "texturecraft-0.2.0-linux-x86_64.rpm",
+              "size": 37370226
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-linux-x86_64.tar.gz",
+              "digest": "sha256:9919068b13d880d512d6a995433446c9fccb3e0b447fdce2c7716e1393d7cfb2",
+              "name": "texturecraft-0.2.0-linux-x86_64.tar.gz",
+              "size": 36972234
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-macos-universal.dmg",
+              "digest": "sha256:d8c78b01eb6d3acc2b495219b813b311a619938d2c2b9b2fa50b1c36ded96222",
+              "name": "texturecraft-0.2.0-macos-universal.dmg",
+              "size": 56000418
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-arm64-portable.zip",
+              "digest": "sha256:b91def3c46eff84e59331ca626356225edbe1d9309e240ac71e96b903aab8d96",
+              "name": "texturecraft-0.2.0-windows-arm64-portable.zip",
+              "size": 35412646
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-arm64.msi",
+              "digest": "sha256:b4b5dbc23e460178857db741d5562686d52b4bf059d365d5d342a5129dae7efd",
+              "name": "texturecraft-0.2.0-windows-arm64.msi",
+              "size": 28905472
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x64-portable.zip",
+              "digest": "sha256:f4259bde63ee894ae3bc8c8f7f0a281b66c195e0080c819f1db5edffa887c4f4",
+              "name": "texturecraft-0.2.0-windows-x64-portable.zip",
+              "size": 36877360
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x64.msi",
+              "digest": "sha256:312b6fab3ca67873042359db36fa0f0016c6b087a66b0da3ff492a96683c4656",
+              "name": "texturecraft-0.2.0-windows-x64.msi",
+              "size": 30547968
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x86-portable.zip",
+              "digest": "sha256:94707f1ff1a9c6f32562c1204817ba415be3294232d3bb2c997d94021e943a8f",
+              "name": "texturecraft-0.2.0-windows-x86-portable.zip",
+              "size": 35558937
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-0.2.0-windows-x86.msi",
+              "digest": "sha256:8e9ad71a259fe1d9763e8f6c8c0c5498342bf8112a3369989ab8ce04f018aecb",
+              "name": "texturecraft-0.2.0-windows-x86.msi",
+              "size": 30015488
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-cli-0.2.0-macos-universal.zip",
+              "digest": "sha256:989f9113e15d52f36109b362ded0e2902f5b9d179821cb6d517c141a4da524c7",
+              "name": "texturecraft-cli-0.2.0-macos-universal.zip",
+              "size": 13455174
+            },
+            {
+              "browser_download_url": "https://github.com/storytold/texturecraft/releases/download/v0.2.0/texturecraft-web-0.2.0.zip",
+              "digest": "sha256:77866fb28e658709b08ab72e8b427d598b0f1e36bd86d3b35d996b16e7220f84",
+              "name": "texturecraft-web-0.2.0.zip",
+              "size": 8221675
+            }
+          ],
+          "draft": false,
+          "name": "TextureCraft v0.2.0",
+          "prerelease": false,
+          "tag_name": "v0.2.0"
+        },
         {
           "assets": [
             {
@@ -74962,7 +75362,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/vectorcraft/releases/latest": {
-      "etag": "\"658652185379808bbb0d54feb6f06639956a4b9cfcc1eda0442f801a9feeccab\"",
+      "etag": "\"ca1d278f01420d05851bfdf39d570a62b1a624e4d5bf15b2c6c04fec4a49b557\"",
       "body": {
         "assets": [
           {
@@ -75147,7 +75547,7 @@
       }
     },
     "https://api.github.com/repos/storytold/vectorcraft/releases?per_page=100&page=1": {
-      "etag": "\"c896e0f598d7cd1b06b704ecc8ff52b5954be0674eb6f43b2b1bb08ba4102aab\"",
+      "etag": "\"c4f44482adf6979a50745f34b7554ab8f8f3bd9e3ec13282163aa3430a8d10d7\"",
       "body": [
         {
           "assets": [
@@ -78200,7 +78600,7 @@
       ]
     },
     "https://api.github.com/repos/storytold/wordcraft/releases/latest": {
-      "etag": "\"93c678bce7ac142ff13491d75251073b58388de296dd4f7ed1d5fed5beb802e4\"",
+      "etag": "\"aea6c842669517f44d6c037559a98b2ebecdb712853f57acd0a2326c33deca9f\"",
       "body": {
         "assets": [
           {
@@ -78385,7 +78785,7 @@
       }
     },
     "https://api.github.com/repos/storytold/wordcraft/releases?per_page=100&page=1": {
-      "etag": "\"8efbf4d2ec4297a2c35f0c7efb4f7deac4c27cc00e78c7f8653d53e70088dab5\"",
+      "etag": "\"271182ad3083e205543ed78d5b127f1deea982c1bfd183be41e5894b8fe964f9\"",
       "body": [
         {
           "assets": [
@@ -80334,7 +80734,7 @@
       ]
     },
     "https://api.github.com/repos/tangency-labs/solidcraft/releases/latest": {
-      "etag": "\"91ab334db8e62853900177fb3af3978b122588a30ebf9960863beab7fb69cb63\"",
+      "etag": "\"782bded929dfbb45114bb22c2df74ab0455a9ea42a78def0b6822e302cad2f3a\"",
       "body": {
         "assets": [
           {
@@ -80639,7 +81039,7 @@
       }
     },
     "https://api.github.com/repos/tangency-labs/solidcraft/releases?per_page=100&page=1": {
-      "etag": "\"7a92dd1d9a7994afbd8ade1bfc6d2e0bc6a08ce09787591c1cf55dfa098b7a00\"",
+      "etag": "\"1582306a5976df6a75f1057be522a4cf4ea980f5f2ea4f29444f5ee990536b5d\"",
       "body": [
         {
           "assets": [
