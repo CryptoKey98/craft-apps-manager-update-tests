@@ -7644,6 +7644,118 @@
         "inspector_version": 1
       },
       "used": 1793539963
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.12.0",
+        "asset_name": "photocraft-0.12.0-windows-arm64.msi",
+        "digest": "sha256:c80420838137a8bd4f86f3f0fb5a00fccf7d31e9234204365371348ec56337cd",
+        "size": 66752512,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539966
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.11.1",
+        "asset_name": "photocraft-0.11.1-windows-arm64.msi",
+        "digest": "sha256:8795d887ea8fe3984502b6f46d2d9ed89e54a84853be5db7b95755e8cc0b1da2",
+        "size": 66265088,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539967
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.10.0",
+        "asset_name": "photocraft-0.10.0-windows-arm64.msi",
+        "digest": "sha256:8a52bafc47a4a6f55634b98a5f765ea0f974cc49c170b42b8de30b3b51745cc6",
+        "size": 65830912,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539968
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.9.0",
+        "asset_name": "photocraft-0.9.0-windows-arm64.msi",
+        "digest": "sha256:98f005f4de27d2412b69cb6866f9c31ac252ea60a951a579ce26696113a75098",
+        "size": 64647168,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539969
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.8.2",
+        "asset_name": "photocraft-0.8.2-windows-arm64.msi",
+        "digest": "sha256:d3bb740ba3ef654467101aaa08ca5deee8e5def339128db45a6d36f54cc42cf2",
+        "size": 62885888,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539970
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.7.0",
+        "asset_name": "photocraft-0.7.0-windows-arm64.msi",
+        "digest": "sha256:19dc2e1b00163dacd69d552d088f5fd2727b435efc8195c7ee75aab89cbd1e80",
+        "size": 60682240,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539971
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.6.0",
+        "asset_name": "photocraft-0.6.0-windows-arm64.msi",
+        "digest": "sha256:7aa48bea73852d960a571c9a409ae299246d10774e5ec332a16999e1b3d0073a",
+        "size": 59740160,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539972
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.5.0",
+        "asset_name": "photocraft-0.5.0-windows-arm64.msi",
+        "digest": "sha256:d1e81892c837d38b394401def73aac87b8bf59d4df0fa8fa43f73341dd397b88",
+        "size": 52805632,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539972
     }
   ],
   "attempts": {
@@ -8063,13 +8175,13 @@
     "storytold/photocraft:v0.1.1-rc.5:photocraft-0.1.1-rc.5-windows-x86.msi:sha256:1f39ef0dab5d0e29d7e5e91360bf71fb026421f392b79431bd688b235e3ff354": 1793536594,
     "storytold/photocraft:v0.1.1:photocraft-0.1.1-windows-x64.msi:sha256:b20c30aa24ac86e299d6576095b634e254885cb0dd3b4de3f6a790a4451edd7b": 1793536593,
     "storytold/photocraft:v0.1.1:photocraft-0.1.1-windows-x86.msi:sha256:7e293cfb7608140c9577bae294a94a47dc2b56fd19d392076fa206829ba8ed96": 1793536593,
-    "storytold/photocraft:v0.10.0:photocraft-0.10.0-windows-arm64.msi:sha256:8a52bafc47a4a6f55634b98a5f765ea0f974cc49c170b42b8de30b3b51745cc6": 1793536561,
+    "storytold/photocraft:v0.10.0:photocraft-0.10.0-windows-arm64.msi:sha256:8a52bafc47a4a6f55634b98a5f765ea0f974cc49c170b42b8de30b3b51745cc6": 1793539967,
     "storytold/photocraft:v0.10.0:photocraft-0.10.0-windows-x64.msi:sha256:96a2a77093d3cdbfe72e989c9fb5bddcdcec94abb0261ad0617b07e893f4542b": 1793536562,
     "storytold/photocraft:v0.10.0:photocraft-0.10.0-windows-x86.msi:sha256:3114bf45d6e9ba52ec23996acad2d3a719c60578e3b1396b95c89ec21b80bfbe": 1793536563,
-    "storytold/photocraft:v0.11.1:photocraft-0.11.1-windows-arm64.msi:sha256:8795d887ea8fe3984502b6f46d2d9ed89e54a84853be5db7b95755e8cc0b1da2": 1793536557,
+    "storytold/photocraft:v0.11.1:photocraft-0.11.1-windows-arm64.msi:sha256:8795d887ea8fe3984502b6f46d2d9ed89e54a84853be5db7b95755e8cc0b1da2": 1793539966,
     "storytold/photocraft:v0.11.1:photocraft-0.11.1-windows-x64.msi:sha256:22073db2e3c90b277e760535fdc523025411f4107983833d3fbf74f641e0741d": 1793536558,
     "storytold/photocraft:v0.11.1:photocraft-0.11.1-windows-x86.msi:sha256:dee420101dce7ed7146d86befa489ccff14553d814aeb42690ba37132c571e3c": 1793536559,
-    "storytold/photocraft:v0.12.0:photocraft-0.12.0-windows-arm64.msi:sha256:c80420838137a8bd4f86f3f0fb5a00fccf7d31e9234204365371348ec56337cd": 1793536551,
+    "storytold/photocraft:v0.12.0:photocraft-0.12.0-windows-arm64.msi:sha256:c80420838137a8bd4f86f3f0fb5a00fccf7d31e9234204365371348ec56337cd": 1793539965,
     "storytold/photocraft:v0.12.0:photocraft-0.12.0-windows-x64.msi:sha256:79f937909ad32c6f66e31da828aa41f5795b58fd9c272f00f8cba6e3847ded0f": 1793536553,
     "storytold/photocraft:v0.12.0:photocraft-0.12.0-windows-x86.msi:sha256:503910d31a9faa689d743ac40709865f9f04b886033f9281a35daffe8c51d53e": 1793536556,
     "storytold/photocraft:v0.13.0:photocraft-0.13.0-windows-arm64.msi:sha256:48db40439eff4156dfbde661233c05df6230d8e36247cf70fe78f2750f145c37": 1793539962,
@@ -8095,19 +8207,19 @@
     "storytold/photocraft:v0.3.0:photocraft-0.3.0-windows-arm64.msi:sha256:990a6c05a5a3de92ed4e1410546624db8f1eb696589db15beeca730e268d1316": 1793536586,
     "storytold/photocraft:v0.3.0:photocraft-0.3.0-windows-x64.msi:sha256:2b3e1bfdacfb597c1cab783c9ed14ed59854cc4bf11f333973d1c823d77e9db6": 1793536587,
     "storytold/photocraft:v0.3.0:photocraft-0.3.0-windows-x86.msi:sha256:7294cce12465d9755b776f1c558050367c49c795af84fba28e4428f73404d18f": 1793536590,
-    "storytold/photocraft:v0.5.0:photocraft-0.5.0-windows-arm64.msi:sha256:d1e81892c837d38b394401def73aac87b8bf59d4df0fa8fa43f73341dd397b88": 1793536583,
+    "storytold/photocraft:v0.5.0:photocraft-0.5.0-windows-arm64.msi:sha256:d1e81892c837d38b394401def73aac87b8bf59d4df0fa8fa43f73341dd397b88": 1793539972,
     "storytold/photocraft:v0.5.0:photocraft-0.5.0-windows-x64.msi:sha256:ad4e1a1e574bae0b0eb0ea9dd7538da70a6e5d94d441488d94e1ccc32830be38": 1793536584,
     "storytold/photocraft:v0.5.0:photocraft-0.5.0-windows-x86.msi:sha256:48f0bf5657aa6b62c1c6c14ca665aea4d7ae0eef5fc3ec8416920897055ca487": 1793536585,
-    "storytold/photocraft:v0.6.0:photocraft-0.6.0-windows-arm64.msi:sha256:7aa48bea73852d960a571c9a409ae299246d10774e5ec332a16999e1b3d0073a": 1793536578,
+    "storytold/photocraft:v0.6.0:photocraft-0.6.0-windows-arm64.msi:sha256:7aa48bea73852d960a571c9a409ae299246d10774e5ec332a16999e1b3d0073a": 1793539971,
     "storytold/photocraft:v0.6.0:photocraft-0.6.0-windows-x64.msi:sha256:3194467c6202fd355fdf61571069b4d01150ab8b9ad062f591be7339414a7201": 1793536580,
     "storytold/photocraft:v0.6.0:photocraft-0.6.0-windows-x86.msi:sha256:ae0aafdde670c5b6d4bd755e153181bf193c18fb00e3b7ed530376ff364bf1e5": 1793536582,
-    "storytold/photocraft:v0.7.0:photocraft-0.7.0-windows-arm64.msi:sha256:19dc2e1b00163dacd69d552d088f5fd2727b435efc8195c7ee75aab89cbd1e80": 1793536573,
+    "storytold/photocraft:v0.7.0:photocraft-0.7.0-windows-arm64.msi:sha256:19dc2e1b00163dacd69d552d088f5fd2727b435efc8195c7ee75aab89cbd1e80": 1793539970,
     "storytold/photocraft:v0.7.0:photocraft-0.7.0-windows-x64.msi:sha256:af959a169ba0b93bdcec4df0e9dfdbac365b7759d3d74b06c3f8f96ed45ff9a0": 1793536574,
     "storytold/photocraft:v0.7.0:photocraft-0.7.0-windows-x86.msi:sha256:b3dc6af0c151f89e7c3471d26dd04c6c31c315518e21eb124cc4f565f36c5f58": 1793536575,
-    "storytold/photocraft:v0.8.2:photocraft-0.8.2-windows-arm64.msi:sha256:d3bb740ba3ef654467101aaa08ca5deee8e5def339128db45a6d36f54cc42cf2": 1793536569,
+    "storytold/photocraft:v0.8.2:photocraft-0.8.2-windows-arm64.msi:sha256:d3bb740ba3ef654467101aaa08ca5deee8e5def339128db45a6d36f54cc42cf2": 1793539969,
     "storytold/photocraft:v0.8.2:photocraft-0.8.2-windows-x64.msi:sha256:cca4415e073ecb2255e8deea180c2e69e29f2f3b2c402c832b9d67e0dc386a8b": 1793536571,
     "storytold/photocraft:v0.8.2:photocraft-0.8.2-windows-x86.msi:sha256:354111d2466d46e280fa72c12272a5f957a3c1ec3f68acefca30307a60c14ab5": 1793536572,
-    "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-arm64.msi:sha256:98f005f4de27d2412b69cb6866f9c31ac252ea60a951a579ce26696113a75098": 1793536564,
+    "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-arm64.msi:sha256:98f005f4de27d2412b69cb6866f9c31ac252ea60a951a579ce26696113a75098": 1793539968,
     "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-x64.msi:sha256:785c81a5fc78c9b683b0f9e6653c38f95b306a38303f60b391670a9e1ac590d4": 1793536567,
     "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-x86.msi:sha256:226892dbc266cea6d338081ec5683de7d5520411fa0da7124225239c4321eca4": 1793536568,
     "storytold/soundcraft:v0.10.0:soundcraft-0.10.0-windows-arm64.msi:sha256:72091d42aa7f60251a9eaa6410424f0314d6bf4f9b7f5d93a2d7460d97d8e89a": 1793536608,
@@ -8242,15 +8354,7 @@
     "storytold/wordcraft:v0.9.0:wordcraft-0.9.0-windows-x86.msi:sha256:a55e70d1e2a3794d4aa76680c968b6a95e1b21330547757707599cd5ec5c516c": 1793536736
   },
   "errors": {
-    "storytold/photocraft:v0.10.0:photocraft-0.10.0-windows-arm64.msi:sha256:8a52bafc47a4a6f55634b98a5f765ea0f974cc49c170b42b8de30b3b51745cc6": "Unsupported MSI architecture",
-    "storytold/photocraft:v0.11.1:photocraft-0.11.1-windows-arm64.msi:sha256:8795d887ea8fe3984502b6f46d2d9ed89e54a84853be5db7b95755e8cc0b1da2": "Unsupported MSI architecture",
-    "storytold/photocraft:v0.12.0:photocraft-0.12.0-windows-arm64.msi:sha256:c80420838137a8bd4f86f3f0fb5a00fccf7d31e9234204365371348ec56337cd": "Unsupported MSI architecture",
     "storytold/photocraft:v0.3.0:photocraft-0.3.0-windows-arm64.msi:sha256:990a6c05a5a3de92ed4e1410546624db8f1eb696589db15beeca730e268d1316": "Unsupported MSI architecture",
-    "storytold/photocraft:v0.5.0:photocraft-0.5.0-windows-arm64.msi:sha256:d1e81892c837d38b394401def73aac87b8bf59d4df0fa8fa43f73341dd397b88": "Unsupported MSI architecture",
-    "storytold/photocraft:v0.6.0:photocraft-0.6.0-windows-arm64.msi:sha256:7aa48bea73852d960a571c9a409ae299246d10774e5ec332a16999e1b3d0073a": "Unsupported MSI architecture",
-    "storytold/photocraft:v0.7.0:photocraft-0.7.0-windows-arm64.msi:sha256:19dc2e1b00163dacd69d552d088f5fd2727b435efc8195c7ee75aab89cbd1e80": "Unsupported MSI architecture",
-    "storytold/photocraft:v0.8.2:photocraft-0.8.2-windows-arm64.msi:sha256:d3bb740ba3ef654467101aaa08ca5deee8e5def339128db45a6d36f54cc42cf2": "Unsupported MSI architecture",
-    "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-arm64.msi:sha256:98f005f4de27d2412b69cb6866f9c31ac252ea60a951a579ce26696113a75098": "Unsupported MSI architecture",
     "storytold/soundcraft:v0.10.0:soundcraft-0.10.0-windows-arm64.msi:sha256:72091d42aa7f60251a9eaa6410424f0314d6bf4f9b7f5d93a2d7460d97d8e89a": "Unsupported MSI architecture",
     "storytold/soundcraft:v0.11.0:soundcraft-0.11.0-windows-arm64.msi:sha256:07dd3870f5da5c89a3904ebeb21ccfe71b4917caf403ed4d29198936d95a0592": "Unsupported MSI architecture",
     "storytold/soundcraft:v0.12.1:soundcraft-0.12.1-windows-arm64.msi:sha256:20e84433317a4dd65f044355242e62fbc73af54f66a1dfcdf6b846b1b1f3aee4": "Unsupported MSI architecture",
