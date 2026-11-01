@@ -12446,6 +12446,118 @@
         "inspector_version": 1
       },
       "used": 1793564718
+    },
+    {
+      "repository": "storytold/pdfcraft",
+      "evidence": {
+        "tag": "v0.17.0",
+        "asset_name": "pdfcraft-0.17.0-windows-arm64.msi",
+        "digest": "sha256:0895a0666be7c7361222d16bef8e0bd1754f6819364fcd0a282b061b57a53ef7",
+        "size": 87990272,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564722
+    },
+    {
+      "repository": "storytold/pdfcraft",
+      "evidence": {
+        "tag": "v0.17.0",
+        "asset_name": "pdfcraft-0.17.0-windows-x64.msi",
+        "digest": "sha256:d90005503e00a74e40def82fa4544da311be1925e583799c0143d1c9666ecacb",
+        "size": 92295168,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564723
+    },
+    {
+      "repository": "storytold/pdfcraft",
+      "evidence": {
+        "tag": "v0.17.0",
+        "asset_name": "pdfcraft-0.17.0-windows-x86.msi",
+        "digest": "sha256:df208ff1266f6a507e47651f3ecd93051bb7b26aec0b1322a58ff75299cbc546",
+        "size": 90308608,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564724
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.19.0",
+        "asset_name": "photocraft-0.19.0-windows-arm64.msi",
+        "digest": "sha256:ce325e4fdecece2289638cdecad378ddec633c968b8de8f0c7a49e5c56f80acc",
+        "size": 101318656,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564726
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.19.0",
+        "asset_name": "photocraft-0.19.0-windows-x64.msi",
+        "digest": "sha256:b351c9253275a928cc1bec1c4a3a551f4fe5b90d57f908b782f37af7970e7f05",
+        "size": 107081728,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564727
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.19.0",
+        "asset_name": "photocraft-0.19.0-windows-x86.msi",
+        "digest": "sha256:36c0298515c2a20a9e79a002ec5fe6cdfc5a80a37701721b5a52297bf254d8b6",
+        "size": 103636992,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564729
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "soundcraft-0.16.0-windows-arm64.msi",
+        "digest": "sha256:30c1edc5a35cbd04cc43c39025da52a7938c535a9d1fcaf56eb44ca6e2325faa",
+        "size": 13000704,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564729
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "soundcraft-0.16.0-windows-x64.msi",
+        "digest": "sha256:ebc22dc279bbf4376a7d94384cbfb703e60376ce7b661fef0c73ab62bce1b086",
+        "size": 14512128,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564729
     }
   ],
   "attempts": {
@@ -12859,6 +12971,9 @@
     "storytold/pdfcraft:v0.16.1:pdfcraft-0.16.1-windows-arm64.msi:sha256:9b051d045de058900b4d9e03c8a8ac4135ef933aab643f005d07a882ab18073b": 1793539943,
     "storytold/pdfcraft:v0.16.1:pdfcraft-0.16.1-windows-x64.msi:sha256:eaac4377df997a5448d98e4413da83886c2ef20e512ff57691893e1bda074a72": 1793536466,
     "storytold/pdfcraft:v0.16.1:pdfcraft-0.16.1-windows-x86.msi:sha256:ebcaa3e530fa0733f6537ca30d52c941c38bfab831de4bf8f158bfe9de3f6445": 1793536467,
+    "storytold/pdfcraft:v0.17.0:pdfcraft-0.17.0-windows-arm64.msi:sha256:0895a0666be7c7361222d16bef8e0bd1754f6819364fcd0a282b061b57a53ef7": 1793564721,
+    "storytold/pdfcraft:v0.17.0:pdfcraft-0.17.0-windows-x64.msi:sha256:d90005503e00a74e40def82fa4544da311be1925e583799c0143d1c9666ecacb": 1793564722,
+    "storytold/pdfcraft:v0.17.0:pdfcraft-0.17.0-windows-x86.msi:sha256:df208ff1266f6a507e47651f3ecd93051bb7b26aec0b1322a58ff75299cbc546": 1793564723,
     "storytold/pdfcraft:v0.2.0:printcraft-0.2.0-windows-x64.msi:sha256:3715b509322f7b80e2e361a18ad242cf8703237710d541091658349c967eeb62": 1793536521,
     "storytold/pdfcraft:v0.2.0:printcraft-0.2.0-windows-x86.msi:sha256:77fcc56e0fd5f636087dfd2077ac794369b4b59b33154dcdf742e28b0d27b0fe": 1793536522,
     "storytold/pdfcraft:v0.2.1:printcraft-0.2.1-windows-x64.msi:sha256:35408d34f23fbb1224251a95d04a4a7c3472f24faa6609ba8c953f4d46fcc6cf": 1793536520,
@@ -12916,6 +13031,9 @@
     "storytold/photocraft:v0.18.0:photocraft-0.18.0-windows-arm64.msi:sha256:7b920efb159d005104b278783ce113b355eba90220b857712368b75a5a1b7612": 1793539958,
     "storytold/photocraft:v0.18.0:photocraft-0.18.0-windows-x64.msi:sha256:0be3669adfda7f4b505f2ecdd443b110ef056daa03f27a65eb1d35948f6a1529": 1793536527,
     "storytold/photocraft:v0.18.0:photocraft-0.18.0-windows-x86.msi:sha256:8e2cec488eee06da057192bce2c4512a69317ed96d7fb3009906eee96751b423": 1793536528,
+    "storytold/photocraft:v0.19.0:photocraft-0.19.0-windows-arm64.msi:sha256:ce325e4fdecece2289638cdecad378ddec633c968b8de8f0c7a49e5c56f80acc": 1793564724,
+    "storytold/photocraft:v0.19.0:photocraft-0.19.0-windows-x64.msi:sha256:b351c9253275a928cc1bec1c4a3a551f4fe5b90d57f908b782f37af7970e7f05": 1793564726,
+    "storytold/photocraft:v0.19.0:photocraft-0.19.0-windows-x86.msi:sha256:36c0298515c2a20a9e79a002ec5fe6cdfc5a80a37701721b5a52297bf254d8b6": 1793564727,
     "storytold/photocraft:v0.2.0:photocraft-0.2.0-windows-x64.msi:sha256:9f7cb9025c06fd1b15899b8364b8a60ff28ee7b4ee5def869aa248cf0da67750": 1793536592,
     "storytold/photocraft:v0.2.0:photocraft-0.2.0-windows-x86.msi:sha256:602c4666050d001ffbd9d4a73eabbbd1f3b01db6806535c6c9f8ca2b2d76c100": 1793536592,
     "storytold/photocraft:v0.3.0:photocraft-0.3.0-windows-arm64.msi:sha256:990a6c05a5a3de92ed4e1410546624db8f1eb696589db15beeca730e268d1316": 1793539975,
@@ -12954,6 +13072,8 @@
     "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-arm64.msi:sha256:17190125ced8502e02de6ddd28e3708f71603839edce29c81ca1e7eb5d0aa072": 1793539976,
     "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-x64.msi:sha256:7c0fc9fc783128e5c66deb541d4c9d722d9adf798afc3908fc47b463fe173e1d": 1793536599,
     "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-x86.msi:sha256:3a154ea4833fd69771729e57a56e934f65070f1dbf0399eb29d990c756682a80": 1793536599,
+    "storytold/soundcraft:v0.16.0:soundcraft-0.16.0-windows-arm64.msi:sha256:30c1edc5a35cbd04cc43c39025da52a7938c535a9d1fcaf56eb44ca6e2325faa": 1793564729,
+    "storytold/soundcraft:v0.16.0:soundcraft-0.16.0-windows-x64.msi:sha256:ebc22dc279bbf4376a7d94384cbfb703e60376ce7b661fef0c73ab62bce1b086": 1793564729,
     "storytold/soundcraft:v0.3.0:soundcraft-0.3.0-windows-arm64.msi:sha256:ba77dc5e7e10250c163ee4f98b046096d9dc355ab45045f4376e382ebc54972d": 1793539980,
     "storytold/soundcraft:v0.3.0:soundcraft-0.3.0-windows-x64.msi:sha256:cb084ef5efc9be5151fa52d345656ce17ae511776e32f39ed510517dbdb0bdc8": 1793536619,
     "storytold/soundcraft:v0.3.0:soundcraft-0.3.0-windows-x86.msi:sha256:a0bb9e8e68a34270f4c08b652313abf2e797a40f3ffa72777a771f81983eaca7": 1793536619,
