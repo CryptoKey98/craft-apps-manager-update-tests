@@ -1232,6 +1232,76 @@
         "inspector_version": 1
       },
       "used": 1793536162
+    },
+    {
+      "repository": "storytold/designcraft",
+      "evidence": {
+        "tag": "v0.9.0",
+        "asset_name": "designcraft-0.9.0-windows-x64.msi",
+        "digest": "sha256:f8a6e21012f90f6faed6d88309b4e3aa366c6ff9ce0d80bab53ed7f7aadd582f",
+        "size": 63664128,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536165
+    },
+    {
+      "repository": "storytold/designcraft",
+      "evidence": {
+        "tag": "v0.9.0",
+        "asset_name": "designcraft-0.9.0-windows-x86.msi",
+        "digest": "sha256:71b0ddc643ce5048cd0a87cbb3a850f308ad08270e2340f2d79ca0c548b7e52d",
+        "size": 62271488,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536166
+    },
+    {
+      "repository": "storytold/designcraft",
+      "evidence": {
+        "tag": "v0.8.0",
+        "asset_name": "designcraft-0.8.0-windows-x64.msi",
+        "digest": "sha256:d0090227d5aa27948fa19604444ac033b80e4387294c49f088110a1dff8cc1a0",
+        "size": 56143872,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536168
+    },
+    {
+      "repository": "storytold/designcraft",
+      "evidence": {
+        "tag": "v0.8.0",
+        "asset_name": "designcraft-0.8.0-windows-x86.msi",
+        "digest": "sha256:7aabd324b5ae74d3469eb20c842776a5dad2be745a72066ecb2994619447cc3f",
+        "size": 55189504,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536169
+    },
+    {
+      "repository": "storytold/designcraft",
+      "evidence": {
+        "tag": "v0.7.1",
+        "asset_name": "designcraft-0.7.1-windows-x64.msi",
+        "digest": "sha256:650c6f70ef965f1d922d6c233fc768dfac214054a833a516c2b25741c4b1c758",
+        "size": 55574528,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536171
     }
   ],
   "attempts": {
@@ -1350,7 +1420,15 @@
     "storytold/designcraft:v0.14.0:designcraft-0.14.0-windows-x86.msi:sha256:a59368f0c843014877c123dcc88fc17e6efc47db02adb3019056fa4729b93d97": 1793536145,
     "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-arm64.msi:sha256:0ebd49015e4a8d3786abdef96390df2820e05a49abb91cec6d7461c00474fd84": 1793536138,
     "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-x64.msi:sha256:05b56bd0fe0defb054b7c38f81b30ad90093c5d353435e54c567e99a6e326925": 1793536139,
-    "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-x86.msi:sha256:43cd3ae431afdc2c284600de54fd97a6ec83262911f3e52e3385b8c158a2533d": 1793536142
+    "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-x86.msi:sha256:43cd3ae431afdc2c284600de54fd97a6ec83262911f3e52e3385b8c158a2533d": 1793536142,
+    "storytold/designcraft:v0.7.1:designcraft-0.7.1-windows-arm64.msi:sha256:a6da74d2eb7f2dbc5a2dc6059b473a9e14f9075cacf3a9b03a359e343bfa8ba5": 1793536169,
+    "storytold/designcraft:v0.7.1:designcraft-0.7.1-windows-x64.msi:sha256:650c6f70ef965f1d922d6c233fc768dfac214054a833a516c2b25741c4b1c758": 1793536170,
+    "storytold/designcraft:v0.8.0:designcraft-0.8.0-windows-arm64.msi:sha256:04b5dcfe52b5874ae9cc395b8e9184873f211e22f5aa6c096526df13e9719dc2": 1793536166,
+    "storytold/designcraft:v0.8.0:designcraft-0.8.0-windows-x64.msi:sha256:d0090227d5aa27948fa19604444ac033b80e4387294c49f088110a1dff8cc1a0": 1793536167,
+    "storytold/designcraft:v0.8.0:designcraft-0.8.0-windows-x86.msi:sha256:7aabd324b5ae74d3469eb20c842776a5dad2be745a72066ecb2994619447cc3f": 1793536168,
+    "storytold/designcraft:v0.9.0:designcraft-0.9.0-windows-arm64.msi:sha256:d09c61d5a16ccd411805e8f68650983cebd698207f732e41af72d076918867c8": 1793536163,
+    "storytold/designcraft:v0.9.0:designcraft-0.9.0-windows-x64.msi:sha256:f8a6e21012f90f6faed6d88309b4e3aa366c6ff9ce0d80bab53ed7f7aadd582f": 1793536164,
+    "storytold/designcraft:v0.9.0:designcraft-0.9.0-windows-x86.msi:sha256:71b0ddc643ce5048cd0a87cbb3a850f308ad08270e2340f2d79ca0c548b7e52d": 1793536165
   },
   "errors": {
     "storytold/cadcraft:v0.1.0:cadcraft-0.1.0-windows-arm64.msi:sha256:ea90da8f773c8727b5fab9583dc743d2a98ebca6b2853ef0aa2279ce8d2fb361": "Unsupported MSI architecture",
@@ -1382,6 +1460,9 @@
     "storytold/designcraft:v0.12.0:designcraft-0.12.0-windows-arm64.msi:sha256:9262d8203225df8c67d857176b9fbfc6588e814cf1a096ffd52feb3cb30aad6b": "Unsupported MSI architecture",
     "storytold/designcraft:v0.13.0:designcraft-0.13.0-windows-arm64.msi:sha256:cb52cd969912a0ad3d4121f43f87491453f00b44e00628e45d76cd6e361705fc": "Unsupported MSI architecture",
     "storytold/designcraft:v0.14.0:designcraft-0.14.0-windows-arm64.msi:sha256:a98db5fb9059f9c6f7e951a656b2ed778b502fca418fb9b813547b2b2608a2d5": "Unsupported MSI architecture",
-    "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-arm64.msi:sha256:0ebd49015e4a8d3786abdef96390df2820e05a49abb91cec6d7461c00474fd84": "Unsupported MSI architecture"
+    "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-arm64.msi:sha256:0ebd49015e4a8d3786abdef96390df2820e05a49abb91cec6d7461c00474fd84": "Unsupported MSI architecture",
+    "storytold/designcraft:v0.7.1:designcraft-0.7.1-windows-arm64.msi:sha256:a6da74d2eb7f2dbc5a2dc6059b473a9e14f9075cacf3a9b03a359e343bfa8ba5": "Unsupported MSI architecture",
+    "storytold/designcraft:v0.8.0:designcraft-0.8.0-windows-arm64.msi:sha256:04b5dcfe52b5874ae9cc395b8e9184873f211e22f5aa6c096526df13e9719dc2": "Unsupported MSI architecture",
+    "storytold/designcraft:v0.9.0:designcraft-0.9.0-windows-arm64.msi:sha256:d09c61d5a16ccd411805e8f68650983cebd698207f732e41af72d076918867c8": "Unsupported MSI architecture"
   }
 }
