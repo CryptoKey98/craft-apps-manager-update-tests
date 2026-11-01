@@ -12110,6 +12110,118 @@
         "inspector_version": 1
       },
       "used": 1793557085
+    },
+    {
+      "repository": "storytold/cadcraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "cadcraft-0.16.0-windows-arm64.msi",
+        "digest": "sha256:cb23c44f775a66a3085590936547caf82f3141c16e5d44d54b17b1679529f949",
+        "size": 53866496,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564689
+    },
+    {
+      "repository": "storytold/cadcraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "cadcraft-0.16.0-windows-x64.msi",
+        "digest": "sha256:1d94ed2f46ab5473038dbccfe1c8521e8768063fdf99f65ff29e43b8bc616388",
+        "size": 57200640,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564690
+    },
+    {
+      "repository": "storytold/cadcraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "cadcraft-0.16.0-windows-x86.msi",
+        "digest": "sha256:ae4d7f099363afbd8c28baa0e290561621814da44116c87776178db531cf55fa",
+        "size": 56000512,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564691
+    },
+    {
+      "repository": "storytold/deckcraft",
+      "evidence": {
+        "tag": "v0.14.1",
+        "asset_name": "deckcraft-0.14.1-windows-arm64.msi",
+        "digest": "sha256:7233d0de4feef3edc18a4465c0800a6ac41411f883de1d2e8186c15f17b9bac3",
+        "size": 79851520,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564692
+    },
+    {
+      "repository": "storytold/deckcraft",
+      "evidence": {
+        "tag": "v0.14.1",
+        "asset_name": "deckcraft-0.14.1-windows-x64.msi",
+        "digest": "sha256:6f79a9bdb5bcd34c941688019b3422962fe448070efc6d0c7554a9af8e473460",
+        "size": 82681856,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564693
+    },
+    {
+      "repository": "storytold/deckcraft",
+      "evidence": {
+        "tag": "v0.14.1",
+        "asset_name": "deckcraft-0.14.1-windows-x86.msi",
+        "digest": "sha256:d85933051e85a22f3c4325acb227aff90d27460d7ad5e1c216a1cf7b76fe5ccf",
+        "size": 81735680,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564694
+    },
+    {
+      "repository": "storytold/designcraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "designcraft-0.16.0-windows-arm64.msi",
+        "digest": "sha256:56be6c48cbf75e109b0fa8fd437a4ec506cc0ac94e0aa5749375a9c9d74d1317",
+        "size": 94072832,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564696
+    },
+    {
+      "repository": "storytold/designcraft",
+      "evidence": {
+        "tag": "v0.16.0",
+        "asset_name": "designcraft-0.16.0-windows-x64.msi",
+        "digest": "sha256:e569330cb54cb71298630e72f82ce39625bff5f9a6cf2c79e88440ab7bdd683a",
+        "size": 98426880,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793564697
     }
   ],
   "attempts": {
@@ -12158,6 +12270,9 @@
     "storytold/cadcraft:v0.15.1:cadcraft-0.15.1-windows-arm64.msi:sha256:8f614871d89c1525886fcd89d8d1642a72e106239dfd891b8d1e54ec3e1401bd": 1793539849,
     "storytold/cadcraft:v0.15.1:cadcraft-0.15.1-windows-x64.msi:sha256:8788212a7e9f662360773676690f869ef890797d8b50446b76cc60053779e87c": 1793536056,
     "storytold/cadcraft:v0.15.1:cadcraft-0.15.1-windows-x86.msi:sha256:be4672d9a076de1e2fc2ddb03b3e903849b39f5e9564162eb03a4b2a8f37ad04": 1793536057,
+    "storytold/cadcraft:v0.16.0:cadcraft-0.16.0-windows-arm64.msi:sha256:cb23c44f775a66a3085590936547caf82f3141c16e5d44d54b17b1679529f949": 1793564688,
+    "storytold/cadcraft:v0.16.0:cadcraft-0.16.0-windows-x64.msi:sha256:1d94ed2f46ab5473038dbccfe1c8521e8768063fdf99f65ff29e43b8bc616388": 1793564689,
+    "storytold/cadcraft:v0.16.0:cadcraft-0.16.0-windows-x86.msi:sha256:ae4d7f099363afbd8c28baa0e290561621814da44116c87776178db531cf55fa": 1793564690,
     "storytold/cadcraft:v0.3.0:cadcraft-0.3.0-windows-arm64.msi:sha256:246eb1d5f7c1884e268fcaef299c42baeffc2cd9972d88991c4486458d8c89a3": 1793539859,
     "storytold/cadcraft:v0.3.0:cadcraft-0.3.0-windows-x64.msi:sha256:c89c35736a36358617d687ebb356c4d9231937c3b322fc524d2737ea425c0973": 1793536089,
     "storytold/cadcraft:v0.3.0:cadcraft-0.3.0-windows-x86.msi:sha256:92db2365544308e54d5ac843030c88d0da0375790c054904cbfc3a4fbc945d14": 1793536089,
@@ -12190,6 +12305,9 @@
     "storytold/deckcraft:v0.13.1:deckcraft-0.13.1-windows-arm64.msi:sha256:2a1f952a77ba07d49c8c9e652478e6accb1bc67b7ad57fddd118c556eb3332b2": 1793539860,
     "storytold/deckcraft:v0.13.1:deckcraft-0.13.1-windows-x64.msi:sha256:768e6ac70271d664831af9009f12adcdf784cb03460b7000aa76ea4883f46cbd": 1793536094,
     "storytold/deckcraft:v0.13.1:deckcraft-0.13.1-windows-x86.msi:sha256:8abd5db70d4bcac138f5e93520d46ffe3ed1f944bdc29e9c219d73cce948252f": 1793536094,
+    "storytold/deckcraft:v0.14.1:deckcraft-0.14.1-windows-arm64.msi:sha256:7233d0de4feef3edc18a4465c0800a6ac41411f883de1d2e8186c15f17b9bac3": 1793564691,
+    "storytold/deckcraft:v0.14.1:deckcraft-0.14.1-windows-x64.msi:sha256:6f79a9bdb5bcd34c941688019b3422962fe448070efc6d0c7554a9af8e473460": 1793564692,
+    "storytold/deckcraft:v0.14.1:deckcraft-0.14.1-windows-x86.msi:sha256:d85933051e85a22f3c4325acb227aff90d27460d7ad5e1c216a1cf7b76fe5ccf": 1793564693,
     "storytold/deckcraft:v0.3.0:deckcraft-0.3.0-windows-arm64.msi:sha256:e18eff23cd16c250091a6e5641de5aff84a465ef21ae045f6a89240ccfa77746": 1793539870,
     "storytold/deckcraft:v0.3.0:deckcraft-0.3.0-windows-x64.msi:sha256:707ad46d6a17428291a0193cb7f1aaf8d5bf103d2202381f770b233845586b4d": 1793536133,
     "storytold/deckcraft:v0.3.0:deckcraft-0.3.0-windows-x86.msi:sha256:9201ef1d337b47e99bf638d5477cbd41f41cfba4c4660c213b510e3233dc7467": 1793536134,
@@ -12233,6 +12351,8 @@
     "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-arm64.msi:sha256:0ebd49015e4a8d3786abdef96390df2820e05a49abb91cec6d7461c00474fd84": 1793539873,
     "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-x64.msi:sha256:05b56bd0fe0defb054b7c38f81b30ad90093c5d353435e54c567e99a6e326925": 1793536139,
     "storytold/designcraft:v0.15.2:designcraft-0.15.2-windows-x86.msi:sha256:43cd3ae431afdc2c284600de54fd97a6ec83262911f3e52e3385b8c158a2533d": 1793536142,
+    "storytold/designcraft:v0.16.0:designcraft-0.16.0-windows-arm64.msi:sha256:56be6c48cbf75e109b0fa8fd437a4ec506cc0ac94e0aa5749375a9c9d74d1317": 1793564694,
+    "storytold/designcraft:v0.16.0:designcraft-0.16.0-windows-x64.msi:sha256:e569330cb54cb71298630e72f82ce39625bff5f9a6cf2c79e88440ab7bdd683a": 1793564696,
     "storytold/designcraft:v0.2.0:designcraft-0.2.0-windows-x64.msi:sha256:147069888ae9b1e63605f54516c1bd8906f8e3ae8607ba8a40e11198c5184888": 1793536187,
     "storytold/designcraft:v0.2.0:designcraft-0.2.0-windows-x86.msi:sha256:57190f1490a8a38aa6ff73735267bbb7c3492110becfca3d2528b4d8f90e4bd4": 1793536188,
     "storytold/designcraft:v0.2.1:designcraft-0.2.1-windows-x64.msi:sha256:d320310c33b9e887ab5a68b76b67e63e426e909ab92e3e3f39d06c2d49697d2c": 1793536186,
