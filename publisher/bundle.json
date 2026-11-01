@@ -2,8 +2,8 @@
   "index": {
     "schema": 1,
     "purpose": "app-release-catalog",
-    "sequence": 45,
-    "generated_at": 1793536436,
+    "sequence": 46,
+    "generated_at": 1793536449,
     "repositories": {
       "storytold/artcraft": {
         "sha256": "3677ef65240717ec48454ad8ecbe5fa3b9567c426102fd820a58b346674c6863",
@@ -46,8 +46,8 @@
         "checked_at": 1793535887
       },
       "storytold/lightcraft": {
-        "sha256": "b26ec1d555d00db5ab92856eb22c5a4bf6cc96619599bc63a6101760d22213f3",
-        "size": 117187,
+        "sha256": "9b12491edf5cac9ef97f57aa2a2a3f81755bca0e7dd40733f90cb13ea3ff1ea6",
+        "size": 118417,
         "checked_at": 1793535884
       },
       "storytold/pdfcraft": {
@@ -26360,7 +26360,7 @@
       ],
       "scopes": []
     },
-    "b26ec1d555d00db5ab92856eb22c5a4bf6cc96619599bc63a6101760d22213f3": {
+    "9b12491edf5cac9ef97f57aa2a2a3f81755bca0e7dd40733f90cb13ea3ff1ea6": {
       "schema": 1,
       "repository": "storytold/lightcraft",
       "latest_tag": "v0.16.0",
@@ -29074,12 +29074,62 @@
           "inspector_version": 1
         },
         {
+          "tag": "v0.6.0",
+          "asset_name": "lightcraft-0.6.0-windows-x64.msi",
+          "digest": "sha256:cb61c2c8d8d5fe7f11b0dcdc9eebe1fc180f514d58b43018aacda9444b8a4772",
+          "size": 82681856,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.6.0",
+          "asset_name": "lightcraft-0.6.0-windows-x86.msi",
+          "digest": "sha256:3a4274b1b0e7c4020978ce720f059308608f01be559a35368538a0c20767ada1",
+          "size": 81391616,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.7.1",
+          "asset_name": "lightcraft-0.7.1-windows-x64.msi",
+          "digest": "sha256:73de928a80e534557c7ce594620166b09a4eeaf6966f7a2735fced4b0909cb15",
+          "size": 86724608,
+          "os": "windows",
+          "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.7.1",
+          "asset_name": "lightcraft-0.7.1-windows-x86.msi",
+          "digest": "sha256:7e1f84ecb99316cdd0cbcda34ac60f97e594d95ef30a6cb69cc271748693262b",
+          "size": 85438464,
+          "os": "windows",
+          "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
           "tag": "v0.8.0",
           "asset_name": "lightcraft-0.8.0-windows-x64.msi",
           "digest": "sha256:2ae1b2c8c20f1fd11cf61dd944e09f90a72abc72797a879fcf92ed3b779620f3",
           "size": 87281664,
           "os": "windows",
           "architecture": "x64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.8.0",
+          "asset_name": "lightcraft-0.8.0-windows-x86.msi",
+          "digest": "sha256:dcdc1027d6d87ee037f73e6eaf619de7e8292b06e047e1d78ef44b0a489bdb92",
+          "size": 85520384,
+          "os": "windows",
+          "architecture": "x86",
           "policy": "machine_only",
           "inspector_version": 1
         },

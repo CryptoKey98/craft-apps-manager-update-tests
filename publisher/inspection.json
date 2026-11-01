@@ -3430,6 +3430,76 @@
         "inspector_version": 1
       },
       "used": 1793536436
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.8.0",
+        "asset_name": "lightcraft-0.8.0-windows-x86.msi",
+        "digest": "sha256:dcdc1027d6d87ee037f73e6eaf619de7e8292b06e047e1d78ef44b0a489bdb92",
+        "size": 85520384,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536439
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.7.1",
+        "asset_name": "lightcraft-0.7.1-windows-x64.msi",
+        "digest": "sha256:73de928a80e534557c7ce594620166b09a4eeaf6966f7a2735fced4b0909cb15",
+        "size": 86724608,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536442
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.7.1",
+        "asset_name": "lightcraft-0.7.1-windows-x86.msi",
+        "digest": "sha256:7e1f84ecb99316cdd0cbcda34ac60f97e594d95ef30a6cb69cc271748693262b",
+        "size": 85438464,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536444
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.6.0",
+        "asset_name": "lightcraft-0.6.0-windows-x64.msi",
+        "digest": "sha256:cb61c2c8d8d5fe7f11b0dcdc9eebe1fc180f514d58b43018aacda9444b8a4772",
+        "size": 82681856,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536446
+    },
+    {
+      "repository": "storytold/lightcraft",
+      "evidence": {
+        "tag": "v0.6.0",
+        "asset_name": "lightcraft-0.6.0-windows-x86.msi",
+        "digest": "sha256:3a4274b1b0e7c4020978ce720f059308608f01be559a35368538a0c20767ada1",
+        "size": 81391616,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536447
     }
   ],
   "attempts": {
@@ -3768,8 +3838,16 @@
     "storytold/lightcraft:v0.16.0:lightcraft-0.16.0-windows-arm64.msi:sha256:11a43aca22e00dceab0b6d94825c4ae7fa72ddc8c75a3b7c085d7d5649d30ad8": 1793536393,
     "storytold/lightcraft:v0.16.0:lightcraft-0.16.0-windows-x64.msi:sha256:6133f27569668fa473807b4db29ef6f02bba3730b0c5b4de6a059fcde14d7498": 1793536394,
     "storytold/lightcraft:v0.16.0:lightcraft-0.16.0-windows-x86.msi:sha256:22ad31cdca48546187a130e77cc84774b58d84495ba4959cc859895df9960fcf": 1793536397,
+    "storytold/lightcraft:v0.5.0:lightcraft-0.5.0-windows-arm64.msi:sha256:c9ef2962a3fbd260363532eb024dfccf68401bb04111c2c537e0eea3b077b01c": 1793536447,
+    "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-arm64.msi:sha256:de170f6ecead114885ac32b804de45eb8e37f42cb4bcd17c4afd0117ef3ad735": 1793536444,
+    "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-x64.msi:sha256:cb61c2c8d8d5fe7f11b0dcdc9eebe1fc180f514d58b43018aacda9444b8a4772": 1793536445,
+    "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-x86.msi:sha256:3a4274b1b0e7c4020978ce720f059308608f01be559a35368538a0c20767ada1": 1793536446,
+    "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-arm64.msi:sha256:968d715e08e956148e38ce3ee9cf010a7d5e069936a6153a6637063cc893c4eb": 1793536439,
+    "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-x64.msi:sha256:73de928a80e534557c7ce594620166b09a4eeaf6966f7a2735fced4b0909cb15": 1793536440,
+    "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-x86.msi:sha256:7e1f84ecb99316cdd0cbcda34ac60f97e594d95ef30a6cb69cc271748693262b": 1793536442,
     "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-arm64.msi:sha256:a0c3ca6e5d7c3568e5fa4d3674363b3ce9987f6b33087eb724433ebd73bc8c92": 1793536434,
     "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-x64.msi:sha256:2ae1b2c8c20f1fd11cf61dd944e09f90a72abc72797a879fcf92ed3b779620f3": 1793536435,
+    "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-x86.msi:sha256:dcdc1027d6d87ee037f73e6eaf619de7e8292b06e047e1d78ef44b0a489bdb92": 1793536438,
     "storytold/lightcraft:v0.9.1:lightcraft-0.9.1-windows-arm64.msi:sha256:a683e16d16ccc93009ae1cd4f5aacbd16f1a118036f78c86eab6175fd4069bc0": 1793536429,
     "storytold/lightcraft:v0.9.1:lightcraft-0.9.1-windows-x64.msi:sha256:fd1d5a4235a274cec1bd654067ad48b914f6f59d1ccadbcffc45a1ce35d16ad4": 1793536431,
     "storytold/lightcraft:v0.9.1:lightcraft-0.9.1-windows-x86.msi:sha256:6db6269efa2634da4a12851f38cbe47e2345aec0a85308c1d58b317f87f1e318": 1793536433
@@ -3870,6 +3948,9 @@
     "storytold/lightcraft:v0.14.0:lightcraft-0.14.0-windows-arm64.msi:sha256:0c7a16076a7731a122b914db6e177e85ce7b2e8fa1268a128c7539663d696c0e": "Unsupported MSI architecture",
     "storytold/lightcraft:v0.15.0:lightcraft-0.15.0-windows-arm64.msi:sha256:402df0f9aeee3ab8cf15b0a25259b8415be25825f357368c0f97c9be1d8eac8a": "Unsupported MSI architecture",
     "storytold/lightcraft:v0.16.0:lightcraft-0.16.0-windows-arm64.msi:sha256:11a43aca22e00dceab0b6d94825c4ae7fa72ddc8c75a3b7c085d7d5649d30ad8": "Unsupported MSI architecture",
+    "storytold/lightcraft:v0.5.0:lightcraft-0.5.0-windows-arm64.msi:sha256:c9ef2962a3fbd260363532eb024dfccf68401bb04111c2c537e0eea3b077b01c": "Unsupported MSI architecture",
+    "storytold/lightcraft:v0.6.0:lightcraft-0.6.0-windows-arm64.msi:sha256:de170f6ecead114885ac32b804de45eb8e37f42cb4bcd17c4afd0117ef3ad735": "Unsupported MSI architecture",
+    "storytold/lightcraft:v0.7.1:lightcraft-0.7.1-windows-arm64.msi:sha256:968d715e08e956148e38ce3ee9cf010a7d5e069936a6153a6637063cc893c4eb": "Unsupported MSI architecture",
     "storytold/lightcraft:v0.8.0:lightcraft-0.8.0-windows-arm64.msi:sha256:a0c3ca6e5d7c3568e5fa4d3674363b3ce9987f6b33087eb724433ebd73bc8c92": "Unsupported MSI architecture",
     "storytold/lightcraft:v0.9.1:lightcraft-0.9.1-windows-arm64.msi:sha256:a683e16d16ccc93009ae1cd4f5aacbd16f1a118036f78c86eab6175fd4069bc0": "Unsupported MSI architecture"
   }
