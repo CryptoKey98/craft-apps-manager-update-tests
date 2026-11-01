@@ -4662,6 +4662,90 @@
         "inspector_version": 1
       },
       "used": 1793536595
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.1.1-rc.4",
+        "asset_name": "photocraft-0.1.1-rc.4-windows-x86.msi",
+        "digest": "sha256:25f85a0f8fc054bad4079ccd08846767b56c771f03acb43163917a32f6b3bdca",
+        "size": 16228352,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536598
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.1.0",
+        "asset_name": "photocraft-0.1.0-windows-x64.msi",
+        "digest": "sha256:f6474b590f6c3d808db9132a15b44a319ec51026abaa914da03d8b9021793f8a",
+        "size": 16965632,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536598
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.1.0",
+        "asset_name": "photocraft-0.1.0-windows-x86.msi",
+        "digest": "sha256:606b273c58ade331a5d5bfec4b97dc3b6c17f423bd80ec944c55174f402e863d",
+        "size": 16187392,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536598
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.15.0",
+        "asset_name": "soundcraft-0.15.0-windows-x64.msi",
+        "digest": "sha256:7c0fc9fc783128e5c66deb541d4c9d722d9adf798afc3908fc47b463fe173e1d",
+        "size": 14508032,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536599
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.15.0",
+        "asset_name": "soundcraft-0.15.0-windows-x86.msi",
+        "digest": "sha256:3a154ea4833fd69771729e57a56e934f65070f1dbf0399eb29d990c756682a80",
+        "size": 13651968,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536599
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.14.0",
+        "asset_name": "soundcraft-0.14.0-windows-x64.msi",
+        "digest": "sha256:a37cb70fb7c93c61391e2e7cb0898e9984ccaac2cc9b693bbdee15bcdbdfc51b",
+        "size": 14381056,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536600
     }
   ],
   "attempts": {
@@ -5073,7 +5157,10 @@
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-arm64.msi:sha256:245120d0bb0919e9c0c9f9d63ac04553ae5b6a36b41a477bd82dcb28a092586f": 1793536493,
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-x64.msi:sha256:372a80ff736b0e1f242f7001a2157de081fa5fdb2192d001b1cbbf7f53739f4b": 1793536495,
     "storytold/pdfcraft:v0.9.0:pdfcraft-0.9.0-windows-x86.msi:sha256:a0a055334128ed3b073d504b4198a8ea499fcc310502e6213e6e5da3717d37ec": 1793536496,
+    "storytold/photocraft:v0.1.0:photocraft-0.1.0-windows-x64.msi:sha256:f6474b590f6c3d808db9132a15b44a319ec51026abaa914da03d8b9021793f8a": 1793536598,
+    "storytold/photocraft:v0.1.0:photocraft-0.1.0-windows-x86.msi:sha256:606b273c58ade331a5d5bfec4b97dc3b6c17f423bd80ec944c55174f402e863d": 1793536598,
     "storytold/photocraft:v0.1.1-rc.4:photocraft-0.1.1-rc.4-windows-x64.msi:sha256:c86dcaa18cd3dd76c15eaed6296b9b49e099df8d2f7679e6b2aa752c89d80511": 1793536594,
+    "storytold/photocraft:v0.1.1-rc.4:photocraft-0.1.1-rc.4-windows-x86.msi:sha256:25f85a0f8fc054bad4079ccd08846767b56c771f03acb43163917a32f6b3bdca": 1793536597,
     "storytold/photocraft:v0.1.1-rc.5:photocraft-0.1.1-rc.5-windows-x64.msi:sha256:2a4afc221356a4ca5a2378fa000badda1bb318ad2497618b6c2b958f27781062": 1793536593,
     "storytold/photocraft:v0.1.1-rc.5:photocraft-0.1.1-rc.5-windows-x86.msi:sha256:1f39ef0dab5d0e29d7e5e91360bf71fb026421f392b79431bd688b235e3ff354": 1793536594,
     "storytold/photocraft:v0.1.1:photocraft-0.1.1-windows-x64.msi:sha256:b20c30aa24ac86e299d6576095b634e254885cb0dd3b4de3f6a790a4451edd7b": 1793536593,
@@ -5124,7 +5211,12 @@
     "storytold/photocraft:v0.8.2:photocraft-0.8.2-windows-x86.msi:sha256:354111d2466d46e280fa72c12272a5f957a3c1ec3f68acefca30307a60c14ab5": 1793536572,
     "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-arm64.msi:sha256:98f005f4de27d2412b69cb6866f9c31ac252ea60a951a579ce26696113a75098": 1793536564,
     "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-x64.msi:sha256:785c81a5fc78c9b683b0f9e6653c38f95b306a38303f60b391670a9e1ac590d4": 1793536567,
-    "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-x86.msi:sha256:226892dbc266cea6d338081ec5683de7d5520411fa0da7124225239c4321eca4": 1793536568
+    "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-x86.msi:sha256:226892dbc266cea6d338081ec5683de7d5520411fa0da7124225239c4321eca4": 1793536568,
+    "storytold/soundcraft:v0.14.0:soundcraft-0.14.0-windows-arm64.msi:sha256:b11c3dd170badcc40b08736810f53b58360cde84eff00d4a733fb7bb1afe6298": 1793536599,
+    "storytold/soundcraft:v0.14.0:soundcraft-0.14.0-windows-x64.msi:sha256:a37cb70fb7c93c61391e2e7cb0898e9984ccaac2cc9b693bbdee15bcdbdfc51b": 1793536600,
+    "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-arm64.msi:sha256:17190125ced8502e02de6ddd28e3708f71603839edce29c81ca1e7eb5d0aa072": 1793536598,
+    "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-x64.msi:sha256:7c0fc9fc783128e5c66deb541d4c9d722d9adf798afc3908fc47b463fe173e1d": 1793536599,
+    "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-x86.msi:sha256:3a154ea4833fd69771729e57a56e934f65070f1dbf0399eb29d990c756682a80": 1793536599
   },
   "errors": {
     "storytold/cadcraft:v0.1.0:cadcraft-0.1.0-windows-arm64.msi:sha256:ea90da8f773c8727b5fab9583dc743d2a98ebca6b2853ef0aa2279ce8d2fb361": "Unsupported MSI architecture",
@@ -5255,6 +5347,8 @@
     "storytold/photocraft:v0.6.0:photocraft-0.6.0-windows-arm64.msi:sha256:7aa48bea73852d960a571c9a409ae299246d10774e5ec332a16999e1b3d0073a": "Unsupported MSI architecture",
     "storytold/photocraft:v0.7.0:photocraft-0.7.0-windows-arm64.msi:sha256:19dc2e1b00163dacd69d552d088f5fd2727b435efc8195c7ee75aab89cbd1e80": "Unsupported MSI architecture",
     "storytold/photocraft:v0.8.2:photocraft-0.8.2-windows-arm64.msi:sha256:d3bb740ba3ef654467101aaa08ca5deee8e5def339128db45a6d36f54cc42cf2": "Unsupported MSI architecture",
-    "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-arm64.msi:sha256:98f005f4de27d2412b69cb6866f9c31ac252ea60a951a579ce26696113a75098": "Unsupported MSI architecture"
+    "storytold/photocraft:v0.9.0:photocraft-0.9.0-windows-arm64.msi:sha256:98f005f4de27d2412b69cb6866f9c31ac252ea60a951a579ce26696113a75098": "Unsupported MSI architecture",
+    "storytold/soundcraft:v0.14.0:soundcraft-0.14.0-windows-arm64.msi:sha256:b11c3dd170badcc40b08736810f53b58360cde84eff00d4a733fb7bb1afe6298": "Unsupported MSI architecture",
+    "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-arm64.msi:sha256:17190125ced8502e02de6ddd28e3708f71603839edce29c81ca1e7eb5d0aa072": "Unsupported MSI architecture"
   }
 }
