@@ -12068,6 +12068,48 @@
         "inspector_version": 1
       },
       "used": 1793555166
+    },
+    {
+      "repository": "storytold/texturecraft",
+      "evidence": {
+        "tag": "v0.2.0",
+        "asset_name": "texturecraft-0.2.0-windows-arm64.msi",
+        "digest": "sha256:b4b5dbc23e460178857db741d5562686d52b4bf059d365d5d342a5129dae7efd",
+        "size": 28905472,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793557084
+    },
+    {
+      "repository": "storytold/texturecraft",
+      "evidence": {
+        "tag": "v0.2.0",
+        "asset_name": "texturecraft-0.2.0-windows-x64.msi",
+        "digest": "sha256:312b6fab3ca67873042359db36fa0f0016c6b087a66b0da3ff492a96683c4656",
+        "size": 30547968,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793557085
+    },
+    {
+      "repository": "storytold/texturecraft",
+      "evidence": {
+        "tag": "v0.2.0",
+        "asset_name": "texturecraft-0.2.0-windows-x86.msi",
+        "digest": "sha256:8e9ad71a259fe1d9763e8f6c8c0c5498342bf8112a3369989ab8ce04f018aecb",
+        "size": 30015488,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793557085
     }
   ],
   "attempts": {
@@ -12573,6 +12615,9 @@
     "storytold/texturecraft:v0.1.0:texturecraft-0.1.0-windows-arm64.msi:sha256:f8516ea292cadda4b79cf3bcb379f50f33b72e19392df8b053e2928b05b43b97": 1793554790,
     "storytold/texturecraft:v0.1.0:texturecraft-0.1.0-windows-x64.msi:sha256:36b9bfd6db83bfef47f32f750d437cc67dc8ff0588f017682534ea5c58d4cf26": 1793554790,
     "storytold/texturecraft:v0.1.0:texturecraft-0.1.0-windows-x86.msi:sha256:90d000dda9208e1120353ae690a5f83f0cd6bd5eb5d4d91e398a70288fa68969": 1793554791,
+    "storytold/texturecraft:v0.2.0:texturecraft-0.2.0-windows-arm64.msi:sha256:b4b5dbc23e460178857db741d5562686d52b4bf059d365d5d342a5129dae7efd": 1793557084,
+    "storytold/texturecraft:v0.2.0:texturecraft-0.2.0-windows-x64.msi:sha256:312b6fab3ca67873042359db36fa0f0016c6b087a66b0da3ff492a96683c4656": 1793557084,
+    "storytold/texturecraft:v0.2.0:texturecraft-0.2.0-windows-x86.msi:sha256:8e9ad71a259fe1d9763e8f6c8c0c5498342bf8112a3369989ab8ce04f018aecb": 1793557085,
     "storytold/vectorcraft:v0.1.0:vectorcraft-0.1.0-windows-x64.msi:sha256:a5dfa6fdb845e6d028c02231f8008a55207f89d8e25c17af604fa4b46fddfc32": 1793536714,
     "storytold/vectorcraft:v0.1.0:vectorcraft-0.1.0-windows-x86.msi:sha256:2c9fad577aeba8ffc674c8a525d22e7fe6da70f181508802ced7b4f3536d8719": 1793536716,
     "storytold/vectorcraft:v0.1.1:vectorcraft-0.1.1-windows-x64.msi:sha256:07cabe681220d18bd2b958e43cdc74bcd1576ab02d38465d7e94e538f3a42bb0": 1793536713,
