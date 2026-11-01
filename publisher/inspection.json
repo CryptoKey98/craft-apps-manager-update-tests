@@ -308,6 +308,90 @@
         "inspector_version": 1
       },
       "used": 1793536022
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-windows-v0.3.0",
+        "asset_name": "ArtCraft_0.3.0_x64_en-US.msi",
+        "digest": "sha256:5ce3b80e89512be323c5ad779e10d523861e2d1d7275c4b9632c926299b32d69",
+        "size": 432263168,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536032
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-windows-v0.2.0",
+        "asset_name": "ArtCraft_0.2.0_x64_en-US.msi",
+        "digest": "sha256:a599f883721ee304f71367ca62fb3a50ee1e7a7662b9e25cf437e057ed6ca58f",
+        "size": 432246784,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536040
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-windows-v0.0.1",
+        "asset_name": "ArtCraft_0.0.1_x64_en-US.msi",
+        "digest": "sha256:d8ca2803063e12d86d4c589083b12cd50201c6249e19bba67452993816143a4c",
+        "size": 432242688,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536048
+    },
+    {
+      "repository": "storytold/artcraft",
+      "evidence": {
+        "tag": "artcraft-windows-v0.0.1",
+        "asset_name": "ArtCraft_0.0.1_x64_en-US_windows.msi",
+        "digest": "sha256:59969d60ca5435c1d3b90a481833ae1dc88ef5c08790cafd0f85ee0f37b237a0",
+        "size": 416821248,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793536056
+    },
+    {
+      "repository": "storytold/cadcraft",
+      "evidence": {
+        "tag": "v0.15.1",
+        "asset_name": "cadcraft-0.15.1-windows-x64.msi",
+        "digest": "sha256:8788212a7e9f662360773676690f869ef890797d8b50446b76cc60053779e87c",
+        "size": 57024512,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536057
+    },
+    {
+      "repository": "storytold/cadcraft",
+      "evidence": {
+        "tag": "v0.15.1",
+        "asset_name": "cadcraft-0.15.1-windows-x86.msi",
+        "digest": "sha256:be4672d9a076de1e2fc2ddb03b3e903849b39f5e9564162eb03a4b2a8f37ad04",
+        "size": 55963648,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793536058
     }
   ],
   "attempts": {
@@ -329,8 +413,19 @@
     "storytold/artcraft:artcraft-v0.41.0:ArtCraft_0.41.0_x64_en-US.msi:sha256:255f963ba8acb799b231ac23a5ef04ca157a8d26f9b9b279b3e55a59db29be77": 1793534498,
     "storytold/artcraft:artcraft-v0.7.0:ArtCraft_0.7.0_x64_en-US.msi:sha256:892b2bbad75079edbff4607f64219cf67e7bf0491d9ce3df97d114a65f389f91": 1793535999,
     "storytold/artcraft:artcraft-v0.8.0:ArtCraft_0.8.0_x64_en-US.msi:sha256:acee5ec82523c83f38892c1639030b82345508999f0e04e12f5e9b4be0d7cbf5": 1793535991,
+    "storytold/artcraft:artcraft-windows-v0.0.1:ArtCraft_0.0.1_x64_en-US.msi:sha256:d8ca2803063e12d86d4c589083b12cd50201c6249e19bba67452993816143a4c": 1793536040,
+    "storytold/artcraft:artcraft-windows-v0.0.1:ArtCraft_0.0.1_x64_en-US_windows.msi:sha256:59969d60ca5435c1d3b90a481833ae1dc88ef5c08790cafd0f85ee0f37b237a0": 1793536048,
+    "storytold/artcraft:artcraft-windows-v0.2.0:ArtCraft_0.2.0_x64_en-US.msi:sha256:a599f883721ee304f71367ca62fb3a50ee1e7a7662b9e25cf437e057ed6ca58f": 1793536032,
+    "storytold/artcraft:artcraft-windows-v0.3.0:ArtCraft_0.3.0_x64_en-US.msi:sha256:5ce3b80e89512be323c5ad779e10d523861e2d1d7275c4b9632c926299b32d69": 1793536024,
     "storytold/artcraft:artcraft-windows-v0.4.0:ArtCraft_0.4.0_x64_en-US.msi:sha256:fff019c8e138203ad09bccd7bc7036eced680efebf1ed66199d94ef97f86294b": 1793536014,
-    "storytold/artcraft:artcraft-windows-v0.5.0:ArtCraft_0.5.0_x64_en-US.msi:sha256:95ca0fa9c4abd244f4a103e1b23b8a4e4be609bd1cb8112a7e33c4f3e1efedf6": 1793536007
+    "storytold/artcraft:artcraft-windows-v0.5.0:ArtCraft_0.5.0_x64_en-US.msi:sha256:95ca0fa9c4abd244f4a103e1b23b8a4e4be609bd1cb8112a7e33c4f3e1efedf6": 1793536007,
+    "storytold/cadcraft:v0.14.0:cadcraft-0.14.0-windows-arm64.msi:sha256:2326bf1d17636713fb9ed4fd4c0bf7c9bd77be6ff1909a6bfe45fa0c2b5040fd": 1793536058,
+    "storytold/cadcraft:v0.15.1:cadcraft-0.15.1-windows-arm64.msi:sha256:8f614871d89c1525886fcd89d8d1642a72e106239dfd891b8d1e54ec3e1401bd": 1793536056,
+    "storytold/cadcraft:v0.15.1:cadcraft-0.15.1-windows-x64.msi:sha256:8788212a7e9f662360773676690f869ef890797d8b50446b76cc60053779e87c": 1793536056,
+    "storytold/cadcraft:v0.15.1:cadcraft-0.15.1-windows-x86.msi:sha256:be4672d9a076de1e2fc2ddb03b3e903849b39f5e9564162eb03a4b2a8f37ad04": 1793536057
   },
-  "errors": {}
+  "errors": {
+    "storytold/cadcraft:v0.14.0:cadcraft-0.14.0-windows-arm64.msi:sha256:2326bf1d17636713fb9ed4fd4c0bf7c9bd77be6ff1909a6bfe45fa0c2b5040fd": "Unsupported MSI architecture",
+    "storytold/cadcraft:v0.15.1:cadcraft-0.15.1-windows-arm64.msi:sha256:8f614871d89c1525886fcd89d8d1642a72e106239dfd891b8d1e54ec3e1401bd": "Unsupported MSI architecture"
+  }
 }
