@@ -2,8 +2,8 @@
   "index": {
     "schema": 1,
     "purpose": "app-release-catalog",
-    "sequence": 98,
-    "generated_at": 1793539999,
+    "sequence": 99,
+    "generated_at": 1793540006,
     "repositories": {
       "storytold/artcraft": {
         "sha256": "3677ef65240717ec48454ad8ecbe5fa3b9567c426102fd820a58b346674c6863",
@@ -71,8 +71,8 @@
         "checked_at": 1793539846
       },
       "storytold/wordcraft": {
-        "sha256": "91ba25e544d579a8090786e5fc41fb828e30c62f4179c53b72557bbc7fccc39c",
-        "size": 91520,
+        "sha256": "968be4638a75add402438bd4012b6871ae0b4dcb4c20ec78d2ddc1869707f471",
+        "size": 93514,
         "checked_at": 1793539846
       }
     }
@@ -26742,7 +26742,7 @@
         }
       ]
     },
-    "91ba25e544d579a8090786e5fc41fb828e30c62f4179c53b72557bbc7fccc39c": {
+    "968be4638a75add402438bd4012b6871ae0b4dcb4c20ec78d2ddc1869707f471": {
       "schema": 1,
       "repository": "storytold/wordcraft",
       "latest_tag": "v0.13.2",
@@ -28715,6 +28715,16 @@
         },
         {
           "tag": "v0.10.0",
+          "asset_name": "wordcraft-0.10.0-windows-arm64.msi",
+          "digest": "sha256:974f7924672d820fafc9e80a439883337846a7b7b9f8d9b63876627603c04fe2",
+          "size": 80134144,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.10.0",
           "asset_name": "wordcraft-0.10.0-windows-x64.msi",
           "digest": "sha256:3222a5930a31b76d4c98e36688730267561b8cebd25c2a578bb0b35ecfbc1414",
           "size": 83255296,
@@ -28825,6 +28835,16 @@
         },
         {
           "tag": "v0.3.0",
+          "asset_name": "wordcraft-0.3.0-windows-arm64.msi",
+          "digest": "sha256:a17f5b8d3213c9462694dba532dc99f6148e75ffc79785bdb0c7d285e1b2b161",
+          "size": 42958848,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.3.0",
           "asset_name": "wordcraft-0.3.0-windows-x64.msi",
           "digest": "sha256:9ef44bc198d361f30ad986bf056c4d255df032d3cb1b5ab23a75de2b20a7de0c",
           "size": 44826624,
@@ -28840,6 +28860,16 @@
           "size": 44253184,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.4.0",
+          "asset_name": "wordcraft-0.4.0-windows-arm64.msi",
+          "digest": "sha256:026cbe0148444e1df1e5fecaf103a12699d2d192849c2ceec17fa8869f92837c",
+          "size": 43024384,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
@@ -28865,6 +28895,16 @@
         },
         {
           "tag": "v0.5.0",
+          "asset_name": "wordcraft-0.5.0-windows-arm64.msi",
+          "digest": "sha256:0940b6915d074f3a3380735e08e704a4902c86836aefe127f64a8c831d876684",
+          "size": 72192000,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.5.0",
           "asset_name": "wordcraft-0.5.0-windows-x64.msi",
           "digest": "sha256:47eee8ccf44158fce76d0431b27b857ca15342f3c662cf4fa77aee328a2f1255",
           "size": 74465280,
@@ -28880,6 +28920,16 @@
           "size": 73560064,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.6.1",
+          "asset_name": "wordcraft-0.6.1-windows-arm64.msi",
+          "digest": "sha256:3ea2f2cebb3b8e9f66522f44cb2b3530339ff23b129f8077d4197378dd637645",
+          "size": 76455936,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
@@ -28905,6 +28955,16 @@
         },
         {
           "tag": "v0.7.0",
+          "asset_name": "wordcraft-0.7.0-windows-arm64.msi",
+          "digest": "sha256:bf938b54bda65a5aac635b7561209f28e7ad6211b3dd1fe722add8971c78c87c",
+          "size": 76791808,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.7.0",
           "asset_name": "wordcraft-0.7.0-windows-x64.msi",
           "digest": "sha256:a01fd7b62f4953e72bf2ecefbb4177746f6433eee2dc58ba7d87adbb68f7ca19",
           "size": 79564800,
@@ -28925,6 +28985,16 @@
         },
         {
           "tag": "v0.8.0",
+          "asset_name": "wordcraft-0.8.0-windows-arm64.msi",
+          "digest": "sha256:962c25c39ae98a474e25d1d2ec949a5a3a0596d3a80de639d6eeee17b7e99f89",
+          "size": 78352384,
+          "os": "windows",
+          "architecture": "arm64",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.8.0",
           "asset_name": "wordcraft-0.8.0-windows-x64.msi",
           "digest": "sha256:7ca27a11f7122322a2525af4e11308abb70b1cdb2625b5ab95afadcac12d79bb",
           "size": 81330176,
@@ -28940,6 +29010,16 @@
           "size": 80060416,
           "os": "windows",
           "architecture": "x86",
+          "policy": "machine_only",
+          "inspector_version": 1
+        },
+        {
+          "tag": "v0.9.0",
+          "asset_name": "wordcraft-0.9.0-windows-arm64.msi",
+          "digest": "sha256:0894d2abd5fa3ae2761da08ee940a78fed6613bd2b804a36055bbe951e4c58ec",
+          "size": 79245312,
+          "os": "windows",
+          "architecture": "arm64",
           "policy": "machine_only",
           "inspector_version": 1
         },
