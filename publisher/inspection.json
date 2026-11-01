@@ -7868,6 +7868,118 @@
         "inspector_version": 1
       },
       "used": 1793539977
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.7.0",
+        "asset_name": "soundcraft-0.7.0-windows-arm64.msi",
+        "digest": "sha256:890d933225040fa7a3238e83a07eac489acd3a7229efaa8636909f110b327c3c",
+        "size": 10182656,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539980
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.6.1",
+        "asset_name": "soundcraft-0.6.1-windows-arm64.msi",
+        "digest": "sha256:8d813302ccd64f1801721336482b5ed42fe6676315878289644708816fcfe764",
+        "size": 9715712,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539980
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.5.0",
+        "asset_name": "soundcraft-0.5.0-windows-arm64.msi",
+        "digest": "sha256:85ed3f09f590e97b05eb43f7506a57756f80af7aa59d03eb9c5d05f63e203ae7",
+        "size": 9383936,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539980
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.4.0",
+        "asset_name": "soundcraft-0.4.0-windows-arm64.msi",
+        "digest": "sha256:f8b3f102d687a4882640cb226525e754268ec3b8b83b5d755ddfdbf579adf65e",
+        "size": 9396224,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539980
+    },
+    {
+      "repository": "storytold/soundcraft",
+      "evidence": {
+        "tag": "v0.3.0",
+        "asset_name": "soundcraft-0.3.0-windows-arm64.msi",
+        "digest": "sha256:ba77dc5e7e10250c163ee4f98b046096d9dc355ab45045f4376e382ebc54972d",
+        "size": 9289728,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539980
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.19.0",
+        "asset_name": "vectorcraft-0.19.0-windows-arm64.msi",
+        "digest": "sha256:fac2d4f345391ccf76bc2d9d796b41eb25e16e8a74acf5a080b528eabad67e40",
+        "size": 107544576,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793539981
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.18.0",
+        "asset_name": "vectorcraft-0.18.0-windows-arm64.msi",
+        "digest": "sha256:f56b743afc03c6880865a8c58170681eb42d2aa996d57151f819d840fc342542",
+        "size": 105402368,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793539982
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.17.0",
+        "asset_name": "vectorcraft-0.17.0-windows-arm64.msi",
+        "digest": "sha256:f9e67f11da9679780510a7acc595e59057dc446781a7d41ae6e808d721fd0729",
+        "size": 100421632,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "machine_only",
+        "inspector_version": 1
+      },
+      "used": 1793539983
     }
   ],
   "attempts": {
@@ -8352,19 +8464,19 @@
     "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-arm64.msi:sha256:17190125ced8502e02de6ddd28e3708f71603839edce29c81ca1e7eb5d0aa072": 1793539976,
     "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-x64.msi:sha256:7c0fc9fc783128e5c66deb541d4c9d722d9adf798afc3908fc47b463fe173e1d": 1793536599,
     "storytold/soundcraft:v0.15.0:soundcraft-0.15.0-windows-x86.msi:sha256:3a154ea4833fd69771729e57a56e934f65070f1dbf0399eb29d990c756682a80": 1793536599,
-    "storytold/soundcraft:v0.3.0:soundcraft-0.3.0-windows-arm64.msi:sha256:ba77dc5e7e10250c163ee4f98b046096d9dc355ab45045f4376e382ebc54972d": 1793536618,
+    "storytold/soundcraft:v0.3.0:soundcraft-0.3.0-windows-arm64.msi:sha256:ba77dc5e7e10250c163ee4f98b046096d9dc355ab45045f4376e382ebc54972d": 1793539980,
     "storytold/soundcraft:v0.3.0:soundcraft-0.3.0-windows-x64.msi:sha256:cb084ef5efc9be5151fa52d345656ce17ae511776e32f39ed510517dbdb0bdc8": 1793536619,
     "storytold/soundcraft:v0.3.0:soundcraft-0.3.0-windows-x86.msi:sha256:a0bb9e8e68a34270f4c08b652313abf2e797a40f3ffa72777a771f81983eaca7": 1793536619,
-    "storytold/soundcraft:v0.4.0:soundcraft-0.4.0-windows-arm64.msi:sha256:f8b3f102d687a4882640cb226525e754268ec3b8b83b5d755ddfdbf579adf65e": 1793536617,
+    "storytold/soundcraft:v0.4.0:soundcraft-0.4.0-windows-arm64.msi:sha256:f8b3f102d687a4882640cb226525e754268ec3b8b83b5d755ddfdbf579adf65e": 1793539980,
     "storytold/soundcraft:v0.4.0:soundcraft-0.4.0-windows-x64.msi:sha256:bd6dd0e8d5da43de33a369c8bc059523f120d2332b243283a9e28b4ba9b858f6": 1793536618,
     "storytold/soundcraft:v0.4.0:soundcraft-0.4.0-windows-x86.msi:sha256:683dd80226cfe4a53869273f38d0ae6e83ca194921f52617d8c335b01f1484d9": 1793536618,
-    "storytold/soundcraft:v0.5.0:soundcraft-0.5.0-windows-arm64.msi:sha256:85ed3f09f590e97b05eb43f7506a57756f80af7aa59d03eb9c5d05f63e203ae7": 1793536614,
+    "storytold/soundcraft:v0.5.0:soundcraft-0.5.0-windows-arm64.msi:sha256:85ed3f09f590e97b05eb43f7506a57756f80af7aa59d03eb9c5d05f63e203ae7": 1793539980,
     "storytold/soundcraft:v0.5.0:soundcraft-0.5.0-windows-x64.msi:sha256:5bfed941e4fc9bb8e9e9474805773fa3a5c38a2f1848b8a246265cb2d7215773": 1793536615,
     "storytold/soundcraft:v0.5.0:soundcraft-0.5.0-windows-x86.msi:sha256:cc795c58b2d8b3708a2b7e089d4c162145f3faf4b384991235d2a446a259cd73": 1793536617,
-    "storytold/soundcraft:v0.6.1:soundcraft-0.6.1-windows-arm64.msi:sha256:8d813302ccd64f1801721336482b5ed42fe6676315878289644708816fcfe764": 1793536613,
+    "storytold/soundcraft:v0.6.1:soundcraft-0.6.1-windows-arm64.msi:sha256:8d813302ccd64f1801721336482b5ed42fe6676315878289644708816fcfe764": 1793539980,
     "storytold/soundcraft:v0.6.1:soundcraft-0.6.1-windows-x64.msi:sha256:abc6f2e0df79729150cd4b4a0a0eb2e381f668a5ff067ffbec79531d45844037": 1793536614,
     "storytold/soundcraft:v0.6.1:soundcraft-0.6.1-windows-x86.msi:sha256:a0bd9e2e493c0b40842e964988a99b1d74894940cc799e107a06f75b52e7afba": 1793536614,
-    "storytold/soundcraft:v0.7.0:soundcraft-0.7.0-windows-arm64.msi:sha256:890d933225040fa7a3238e83a07eac489acd3a7229efaa8636909f110b327c3c": 1793536612,
+    "storytold/soundcraft:v0.7.0:soundcraft-0.7.0-windows-arm64.msi:sha256:890d933225040fa7a3238e83a07eac489acd3a7229efaa8636909f110b327c3c": 1793539979,
     "storytold/soundcraft:v0.7.0:soundcraft-0.7.0-windows-x64.msi:sha256:e103a99ddf0a846a3b756ae488425f4bafb14582b48b54698e4bd327ddf7e16a": 1793536612,
     "storytold/soundcraft:v0.7.0:soundcraft-0.7.0-windows-x86.msi:sha256:ced01219d9caa2a39c32f9c563ad2bc5104697a21cf2c4d47ba1ebc1ed8785ae": 1793536613,
     "storytold/soundcraft:v0.8.0:soundcraft-0.8.0-windows-arm64.msi:sha256:c5006746b194818393748c8eb684f9116dccf5587c2b4e5d18a97c1954719331": 1793539977,
@@ -8395,13 +8507,13 @@
     "storytold/vectorcraft:v0.16.0:vectorcraft-0.16.0-windows-arm64.msi:sha256:ac2c9bda9130687d2444ae75bb7944a03e97ac3e282568547c9a8c54874b7cb4": 1793536634,
     "storytold/vectorcraft:v0.16.0:vectorcraft-0.16.0-windows-x64.msi:sha256:49106b24990d508115fe86165d56cca511b2eda24d7324b3c6d40f81eb6f472d": 1793536636,
     "storytold/vectorcraft:v0.16.0:vectorcraft-0.16.0-windows-x86.msi:sha256:ab81453122a678d0cee10d430f5e2196c2867727fd1ee2f303ab8be86913e5b1": 1793536637,
-    "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-arm64.msi:sha256:f9e67f11da9679780510a7acc595e59057dc446781a7d41ae6e808d721fd0729": 1793536629,
+    "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-arm64.msi:sha256:f9e67f11da9679780510a7acc595e59057dc446781a7d41ae6e808d721fd0729": 1793539982,
     "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-x64.msi:sha256:861f4e9fe943dacddfd30bc6512a20a4db2fbc554a6daa4101595c2fc85d11c1": 1793536630,
     "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-x86.msi:sha256:1942be2f2c4a88a56e2292fb2b67ae341184a9981d25d140eb67a302616636a0": 1793536631,
-    "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-arm64.msi:sha256:f56b743afc03c6880865a8c58170681eb42d2aa996d57151f819d840fc342542": 1793536625,
+    "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-arm64.msi:sha256:f56b743afc03c6880865a8c58170681eb42d2aa996d57151f819d840fc342542": 1793539982,
     "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-x64.msi:sha256:62267017a2aa30629a1112731e6e44a84bf5f9d13ee23c54a8ca18425bcc7e20": 1793536626,
     "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-x86.msi:sha256:4743c39fd6b9b11897e4a0cd8eadfb6844055a365478a696b98d3069ea343808": 1793536627,
-    "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-arm64.msi:sha256:fac2d4f345391ccf76bc2d9d796b41eb25e16e8a74acf5a080b528eabad67e40": 1793536619,
+    "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-arm64.msi:sha256:fac2d4f345391ccf76bc2d9d796b41eb25e16e8a74acf5a080b528eabad67e40": 1793539980,
     "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-x64.msi:sha256:ee96823769c2363dcc05b2dcdf7b0e7935c355676d427a8a17f4e48dcd95c004": 1793536622,
     "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-x86.msi:sha256:596ef4c9782218a2c0fd8a3a4b73ac8a7fa959d2ee674b4c1ed51319413f8c80": 1793536623,
     "storytold/vectorcraft:v0.2.0:vectorcraft-0.2.0-windows-x64.msi:sha256:85dfe81309d38bb67d8379f7cf64f3553d17cb4018518323b96185431e49ffee": 1793536711,
@@ -8466,11 +8578,6 @@
     "storytold/wordcraft:v0.9.0:wordcraft-0.9.0-windows-x86.msi:sha256:a55e70d1e2a3794d4aa76680c968b6a95e1b21330547757707599cd5ec5c516c": 1793536736
   },
   "errors": {
-    "storytold/soundcraft:v0.3.0:soundcraft-0.3.0-windows-arm64.msi:sha256:ba77dc5e7e10250c163ee4f98b046096d9dc355ab45045f4376e382ebc54972d": "Unsupported MSI architecture",
-    "storytold/soundcraft:v0.4.0:soundcraft-0.4.0-windows-arm64.msi:sha256:f8b3f102d687a4882640cb226525e754268ec3b8b83b5d755ddfdbf579adf65e": "Unsupported MSI architecture",
-    "storytold/soundcraft:v0.5.0:soundcraft-0.5.0-windows-arm64.msi:sha256:85ed3f09f590e97b05eb43f7506a57756f80af7aa59d03eb9c5d05f63e203ae7": "Unsupported MSI architecture",
-    "storytold/soundcraft:v0.6.1:soundcraft-0.6.1-windows-arm64.msi:sha256:8d813302ccd64f1801721336482b5ed42fe6676315878289644708816fcfe764": "Unsupported MSI architecture",
-    "storytold/soundcraft:v0.7.0:soundcraft-0.7.0-windows-arm64.msi:sha256:890d933225040fa7a3238e83a07eac489acd3a7229efaa8636909f110b327c3c": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.10.0:vectorcraft-0.10.0-windows-arm64.msi:sha256:b4a26c7af3c0736841f38e53743ef12911464311a21e0b6c0d10b13833d6aae7": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.11.0:vectorcraft-0.11.0-windows-arm64.msi:sha256:86514292e6aea4c529bc178664a2fb47103d3ef310df4b65ee0f44a61c5174d4": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.12.0:vectorcraft-0.12.0-windows-arm64.msi:sha256:e3994ad1763ec20a3927b0217e4d8263039ab706e326f302526b81b80a33eb70": "Unsupported MSI architecture",
@@ -8478,9 +8585,6 @@
     "storytold/vectorcraft:v0.14.0:vectorcraft-0.14.0-windows-arm64.msi:sha256:c0ac009e999a382755558a11376500990b90106b4d6883db689fdd4e69cfa9e9": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.15.0:vectorcraft-0.15.0-windows-arm64.msi:sha256:045e92f393c08c83ba6e596999c9266f5c36234180e8e5d65fee3d10a9db0ff7": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.16.0:vectorcraft-0.16.0-windows-arm64.msi:sha256:ac2c9bda9130687d2444ae75bb7944a03e97ac3e282568547c9a8c54874b7cb4": "Unsupported MSI architecture",
-    "storytold/vectorcraft:v0.17.0:vectorcraft-0.17.0-windows-arm64.msi:sha256:f9e67f11da9679780510a7acc595e59057dc446781a7d41ae6e808d721fd0729": "Unsupported MSI architecture",
-    "storytold/vectorcraft:v0.18.0:vectorcraft-0.18.0-windows-arm64.msi:sha256:f56b743afc03c6880865a8c58170681eb42d2aa996d57151f819d840fc342542": "Unsupported MSI architecture",
-    "storytold/vectorcraft:v0.19.0:vectorcraft-0.19.0-windows-arm64.msi:sha256:fac2d4f345391ccf76bc2d9d796b41eb25e16e8a74acf5a080b528eabad67e40": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.4.0:vectorcraft-0.4.0-windows-arm64.msi:sha256:da20767263e5537ac5f839ed5f95c75267fd402fa443f5520036a5796a4d319f": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.5.0:vectorcraft-0.5.0-windows-arm64.msi:sha256:190f9a6963eb654abc98fc23bdc62c140b0df5d19f9f01a83bed0faea9305ab9": "Unsupported MSI architecture",
     "storytold/vectorcraft:v0.6.0:vectorcraft-0.6.0-windows-arm64.msi:sha256:03812f56aea4d9bce42ee01ce261e09c1b2c89ac68d6c67e8a2013bc88e2cfb1": "Unsupported MSI architecture",
