@@ -14224,6 +14224,76 @@
         "inspector_version": 1
       },
       "used": 1793867797
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.20.2",
+        "asset_name": "photocraft-0.20.2-windows-x64.msi",
+        "digest": "sha256:37bf876ca7c172e39e099af168235b31e54809c182c5adf75f7e65bb7f53b55a",
+        "size": 108498944,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793867801
+    },
+    {
+      "repository": "storytold/photocraft",
+      "evidence": {
+        "tag": "v0.20.2",
+        "asset_name": "photocraft-0.20.2-windows-x86.msi",
+        "digest": "sha256:252d63f543beefe3fb8f928013443257557f9777ed5b07ef33105f5aa9f39bb4",
+        "size": 105295872,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793867802
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.21.1",
+        "asset_name": "vectorcraft-0.21.1-windows-arm64.msi",
+        "digest": "sha256:cb701bd504a10e1617e146ede1facca5e0b86cadd3c3be2c6fc23731ae131c24",
+        "size": 110940160,
+        "os": "windows",
+        "architecture": "arm64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793867803
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.21.1",
+        "asset_name": "vectorcraft-0.21.1-windows-x64.msi",
+        "digest": "sha256:6c639490afc96de0d0a726f5daf8cc412bae51158e4914da91f92ca7c6bdf285",
+        "size": 118407168,
+        "os": "windows",
+        "architecture": "x64",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793867805
+    },
+    {
+      "repository": "storytold/vectorcraft",
+      "evidence": {
+        "tag": "v0.21.1",
+        "asset_name": "vectorcraft-0.21.1-windows-x86.msi",
+        "digest": "sha256:a9acfcf4de353422e3f909b87544d8295ee6b345d97cde8317e67b29abb25b06",
+        "size": 114827264,
+        "os": "windows",
+        "architecture": "x86",
+        "policy": "dual",
+        "inspector_version": 1
+      },
+      "used": 1793867806
     }
   ],
   "attempts": {
@@ -14775,6 +14845,8 @@
     "storytold/photocraft:v0.20.1:photocraft-0.20.1-windows-x64.msi:sha256:ad14e3c43c10e10e94e50ccd61b503dccb29c4f1464bbd17ae6e3c2b703b3f80": 1793687936,
     "storytold/photocraft:v0.20.1:photocraft-0.20.1-windows-x86.msi:sha256:e60ca167dcb779a326981bca8a682f710ab69a8992917bf1662d017e8709f57e": 1793687940,
     "storytold/photocraft:v0.20.2:photocraft-0.20.2-windows-arm64.msi:sha256:4cb8a63088b594c1eeb8fc41135f98445775d921da2ee64e5a2395cc2215e544": 1793867796,
+    "storytold/photocraft:v0.20.2:photocraft-0.20.2-windows-x64.msi:sha256:37bf876ca7c172e39e099af168235b31e54809c182c5adf75f7e65bb7f53b55a": 1793867800,
+    "storytold/photocraft:v0.20.2:photocraft-0.20.2-windows-x86.msi:sha256:252d63f543beefe3fb8f928013443257557f9777ed5b07ef33105f5aa9f39bb4": 1793867801,
     "storytold/photocraft:v0.3.0:photocraft-0.3.0-windows-arm64.msi:sha256:990a6c05a5a3de92ed4e1410546624db8f1eb696589db15beeca730e268d1316": 1793539975,
     "storytold/photocraft:v0.3.0:photocraft-0.3.0-windows-x64.msi:sha256:2b3e1bfdacfb597c1cab783c9ed14ed59854cc4bf11f333973d1c823d77e9db6": 1793536587,
     "storytold/photocraft:v0.3.0:photocraft-0.3.0-windows-x86.msi:sha256:7294cce12465d9755b776f1c558050367c49c795af84fba28e4428f73404d18f": 1793536590,
@@ -14895,6 +14967,9 @@
     "storytold/vectorcraft:v0.21.0:vectorcraft-0.21.0-windows-arm64.msi:sha256:2b62de1105d9f0e9a6da573b3e6ab98ed11fafc5e9660d731631caeeb07b0b3f": 1793687944,
     "storytold/vectorcraft:v0.21.0:vectorcraft-0.21.0-windows-x64.msi:sha256:b14eeedfa4601e94802f6e1ebc28c247253ef86761764d7ed92a6c68c883f25b": 1793687948,
     "storytold/vectorcraft:v0.21.0:vectorcraft-0.21.0-windows-x86.msi:sha256:c54a960e677dda322bac9fed3536ee59b4a3d2c12fbec0cca3b44f456ce4b5ee": 1793687950,
+    "storytold/vectorcraft:v0.21.1:vectorcraft-0.21.1-windows-arm64.msi:sha256:cb701bd504a10e1617e146ede1facca5e0b86cadd3c3be2c6fc23731ae131c24": 1793867802,
+    "storytold/vectorcraft:v0.21.1:vectorcraft-0.21.1-windows-x64.msi:sha256:6c639490afc96de0d0a726f5daf8cc412bae51158e4914da91f92ca7c6bdf285": 1793867803,
+    "storytold/vectorcraft:v0.21.1:vectorcraft-0.21.1-windows-x86.msi:sha256:a9acfcf4de353422e3f909b87544d8295ee6b345d97cde8317e67b29abb25b06": 1793867805,
     "storytold/vectorcraft:v0.3.0:vectorcraft-0.3.0-windows-x64.msi:sha256:23f3e4c04bbce0f3a7b6040e06b07f5e4bcf00dea744d391e0e5becb03a83df6": 1793536709,
     "storytold/vectorcraft:v0.3.0:vectorcraft-0.3.0-windows-x86.msi:sha256:80a53c2d55efde49f01010b60652857a2c7957e6d84e2dd3a976b155adf0e057": 1793536710,
     "storytold/vectorcraft:v0.3.1:vectorcraft-0.3.1-windows-x64.msi:sha256:2a20e26a9340941c34cc5a096dc8895a5628aed231ed09055ff9c873f8e9790d": 1793536706,
